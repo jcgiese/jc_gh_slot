@@ -20,6 +20,11 @@
 &lt;p&gt;J&amp;rsquo;essaie de rajouter une &lt;strong&gt;image&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/chassis_Mercedes_SC.jpg&#34; alt=&#34;avatar&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Test d&amp;rsquo;un lien (ref) vers une autre page : https://jcgiese.github.io/jc_gh_slot/2016/05/23/test
+&lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/05/24/gt-%C3%A9pisode-3&#34;&gt;lien&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;un simple url devrait devenir cliquable sur github, à essayer &amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

@@ -6,8 +6,231 @@
     <description>Recent content in Posts on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jun 2016 11:11:10 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jun 2016 09:38:06 +0200</lastBuildDate>
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Premier test sérieux</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/06/13/premier-test-s%C3%A9rieux</link>
+      <pubDate>Mon, 13 Jun 2016 09:38:06 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/13/premier-test-s%C3%A9rieux</guid>
+      <description>
+
+&lt;p&gt;Premier test sérieux en Open_GT &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Quelques voitures se sont affrontées ce dimanche pluvieux dans une semi-endurence de 66 tours sur la piste 2.&lt;/p&gt;
+
+&lt;p&gt;Piste 2, 66 tours, poignée ACD pro.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Voiture&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Poids (gr)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Temps_total&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Sortie(s)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;2ème m.t.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Aston BlackArrow&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;80,7&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 38.334&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.084&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Viper Scaleauto&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;86&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 40.639&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.172&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Aston NSR&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;88&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 49.500&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.266&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Audi R8 NSR&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;84,3&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 38.433&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.131&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;BMW Z4 Liqui Moly&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;76,7&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 43.752&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.180&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;BMW Z4 Scalex&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;84,9&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 43.927&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.194&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Spyker orange Scaleauto&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;77,6&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 24.666&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.931&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Spyker blanche Scaleauto&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;77,6&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 29.426&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.967&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ferrari 458 BlackArrow&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;78,2&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 25.916&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.899&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Mercedes Scaleauto&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;78,6&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 39.886&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.139&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;BMW Z4 Randstad SC&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;79,4&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 25.524&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.922&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Audi R8 Scalex&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;96&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5 mn 53.743&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.307&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;commentaires:f7973322a3a603033225704c216a4c0b&#34;&gt;Commentaires&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;L&amp;rsquo;Aston Martin BlackArrow a reçu un pignon NSR de 13 dents pour la rendre un peu plus vive. Opération réussie mais les pneus ont un peu de mal quand la cadence augmente. Très stable en tout cas.&lt;/li&gt;
+&lt;li&gt;La Viper Scaleauto avec son moteur et sa transmission d&amp;rsquo;origines, se comporte bien.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;Aston NSR avec sa suspension et transmission plastique est un peu décevante. Agréable à piloter elle manque un peu de vitesse et décroche assez tôt de l&amp;rsquo;arrière.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;audi R8 NSR quant à elle, elle est plus rapide que l&amp;rsquo;Aston de la même marque mais elle reste quand même assez loin des meilleures de la catégorie.&lt;/li&gt;
+&lt;li&gt;La BMW Z4 Scaleauto Liqui Moly est bruyante et désagréable malgré son nouveau châssis R, à revoir.&lt;/li&gt;
+&lt;li&gt;La BMW Z4 Scalextric qui avait fait sensation à ses débuts, rentre un peu dans le rang mais elle reste redoutable pour une Scalex !!&lt;/li&gt;
+&lt;li&gt;La Spyker orange est superbe et très rapide, elle établie le meilleur temps de ces essais.&lt;/li&gt;
+&lt;li&gt;La Spyker blanche Scaleauto est très stable et agréable mais un peu en dessous de la orange plus vive avec sa couronne de 26 dents au lieu de 28.&lt;/li&gt;
+&lt;li&gt;La Ferrari 458 BlackArrow, malgré une transmission d&amp;rsquo;origine un peu longue, est quasi parfaite sur la piste, c&amp;rsquo;est elle la plus rapide et la seule à descendre sous les 4.900 !&lt;/li&gt;
+&lt;li&gt;La Mercedes Scaleauto est une bonne surprise, on ne l&amp;rsquo;attendait pas si bien classée avec son moteur SC-11b récupéré sur l&amp;rsquo;Arrow Slot.&lt;/li&gt;
+&lt;li&gt;La nouvelle BMW Z4 Scaleauto en livrée &lt;em&gt;Randstad&lt;/em&gt; est une très agréable surprise. Avec son moteur SC-11b d&amp;rsquo;origine, elle marche très fort et finie 2ème de ce premier vrai test. Bon c&amp;rsquo;est la seule équipée de pneus &lt;strong&gt;Sideways&lt;/strong&gt; pour le moment et cela joue certainement.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;Audi R8 Scalextric avec son châssis d&amp;rsquo;origine et son moteur NSR est assez bluffante magré son énorme poids. Bon elle n&amp;rsquo;ira pas chercher les ténors de la catégorie mais pour une Scalex c&amp;rsquo;est vraiment pas mal !&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;podium:f7973322a3a603033225704c216a4c0b&#34;&gt;Podium&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spyker orange Scaleauto&lt;/li&gt;
+&lt;li&gt;BMW Z4 Randstad Scaleauto&lt;/li&gt;
+&lt;li&gt;Ferrari 458 BlackArrow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sans surprise, la Spyker orange Scaleauto domine ce premier test. Plus inattendue c&amp;rsquo;est la 2ème place de la nouvelle BMW Z4 &lt;em&gt;Randstad&lt;/em&gt; bien aidée pas ses pneus &lt;strong&gt;Sideways&lt;/strong&gt;. La 458 BlackArrow complète le podium en ayant réalisé le meilleur temps absolue mais elle a été moins régulière que les Scaleauto.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audi R8 Scalextric</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/06/10/audi-r8-scalextric</link>
+      <pubDate>Fri, 10 Jun 2016 14:11:03 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/10/audi-r8-scalextric</guid>
+      <description>
+
+&lt;p&gt;L&amp;rsquo;Audi R8 &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;audi-r8-scalextric:1879d0c53c4618d94ad9df1dd90e4e96&#34;&gt;Audi R8 Scalextric&lt;/h2&gt;
+
+&lt;p&gt;J&amp;rsquo;ai fait une préparation &lt;em&gt;a minima&lt;/em&gt; de l&amp;rsquo;Audi R8 Scalextric. Au départ cette voiture devait courrir dans un challenge Scalex où peu de modifications étaient tolérées.&lt;/p&gt;
+
+&lt;p&gt;Du coup pas de châssis 3D, pas de guide correcte etc &amp;hellip; que du bien simple !&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;le châssis d&amp;rsquo;origine !&lt;/li&gt;
+&lt;li&gt;un moteur &lt;strong&gt;NSR&lt;/strong&gt; Shark 22 rouge à la place du moteur Scalex poussif&lt;/li&gt;
+&lt;li&gt;une transmission (pignon et couronne) en sidewinder &lt;strong&gt;Slot.It&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;des tresses plus fines et pas doubles sur le guide d&amp;rsquo;origine&lt;/li&gt;
+&lt;li&gt;pneus avant plus petits&lt;/li&gt;
+&lt;li&gt;roues arrières en alu et avec des pneus BRM en shore 22&lt;/li&gt;
+&lt;li&gt;un peu de lest à l&amp;rsquo;avant et un peu de poids gagné sur l&amp;rsquo;habitacle et le châssis&lt;/li&gt;
+&lt;li&gt;vis métriques pour donner un peu de souplesse à la carrosserie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/chassis_r8_scalex.JPG&#34; alt=&#34;Le châssis de l&#39;Audi R8&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Avec toutes ces modifications, l&amp;rsquo;Audi R8 Scalex est enfin stable et agréable, elle ne se retourne plus dans chaque virage !&lt;/p&gt;
+
+&lt;p&gt;Malgré tout, avec son poids élevé, 96 gr !, elle est loin de prétendre à une place dans les premières.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Les Spyker Scaleauto</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/06/10/les-spyker-scaleauto</link>
+      <pubDate>Fri, 10 Jun 2016 14:11:03 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/10/les-spyker-scaleauto</guid>
+      <description>
+
+&lt;p&gt;Préparation des Spyker &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;les-spyker-scaleauto:270559e4d01c4772ef9ade2fcf339a34&#34;&gt;Les Spyker &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Chez &lt;strong&gt;Scaleauto&lt;/strong&gt;, les Spyker sont particulièrement redoutables. Compactes, pas trop hautes, bien équilibrées, elles sont très agréables sur la piste. D&amp;rsquo;ailleurs la marque espagnole en a déjà engagé deux ! Une version orange issue du coffret et une version plus limitée qui a été distribué lors d&amp;rsquo;une course WES organisée en Espagne par la marque.&lt;/p&gt;
+
+&lt;p&gt;Les deux Spyker ont été préparées de façon assez similaire mais avec quelques différences quand même.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/chassis_2_spyker.jpg&#34; alt=&#34;Vue de dessous des Spyker&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tout d&amp;rsquo;abord, les deux ont été équipées de châssis R et d&amp;rsquo;un support moteur &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; offset de &lt;strong&gt;Slot.It&lt;/strong&gt;. En effet je n&amp;rsquo;aime pas beaucoup le châssis RT-3 sur lequel étaient montées ces Spyker à la base.&lt;br /&gt;
+Pour que le support moteur &lt;strong&gt;Slot.It&lt;/strong&gt; puisse être bien libre, il faut découper un peu le châssis, en effet celui-ci est fait pour les supports de la marque et le Slot.It coince un peu. Je l&amp;rsquo;ai aussi monté sur des vis métriques pour lui donner plus de liberté.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/Spyker_orange.JPG&#34; alt=&#34;Spyker orange&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Les deux voitures sont munies d&amp;rsquo;un guide Slot.it avec des tresses fines Sideways.&lt;br /&gt;
+Toutes les deux sont également équipées du moteur Flat6 jaune de référence. Si la blanche a une couronne standard jaune, la orange a une couronne bleue plus petite. Celui la rend plus nerveuse et un poil plus rapide.&lt;br /&gt;
+Un peu de lest à l&amp;rsquo;avant, les jantes d&amp;rsquo;origine équipées de pneus fins à l&amp;rsquo;avant et de BRM shore 22 à l&amp;rsquo;arrière.&lt;/p&gt;
+
+&lt;p&gt;Le moteur Flat6 jaune a été positionné tout en bas du support, cela améliore le centre de gravité et permet plus de souplesse au support moteur (sinon la carrosserie vient toucher le moteur).&lt;/p&gt;
+
+&lt;p&gt;Dans cette configuration, les Spyker sont très agréables et performantes, la preuve au &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/06/13/premier-test-s%C3%A9rieux&#34;&gt;premier test&lt;/a&gt;. Un petit avantage à la orange plus vive mais sur des longs relais la blanche sera plus facile à piloter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/Spyker_blanche.JPG&#34; alt=&#34;Spyker blanche&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>General Lee</title>

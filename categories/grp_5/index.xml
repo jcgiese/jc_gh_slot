@@ -6,8 +6,142 @@
     <description>Recent content in Grp_5 on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Tue, 21 Jun 2016 16:52:09 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Aug 2016 10:46:58 +0200</lastBuildDate>
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/categories/grp_5/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M1 Scaleauto</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/08/12/m1-scaleauto</link>
+      <pubDate>Fri, 12 Aug 2016 10:46:58 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/12/m1-scaleauto</guid>
+      <description>&lt;p&gt;BMW M1 BASF &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour changer un peu des &lt;strong&gt;Sideways&lt;/strong&gt; en Grp_5, j&amp;rsquo;ai acheté une BMW M1 &lt;strong&gt;Scaleauto&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;D&amp;rsquo;origine la voiture était livré avec un châssis modulable RT-3 que je n&amp;rsquo;apprécie pas tellement alors j&amp;rsquo;ai racheté un châssis de type R pour cette voiture:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/chassis_M1_SC_R.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Comme on peut le voir sur la photo, j&amp;rsquo;ai conservé la configuration &lt;em&gt;sidewinder&lt;/em&gt; pour pas racheter des pièces et parce qu&amp;rsquo;elle marche pas mal dans cette configuration.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai quand même du faire quelques modifications standards:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;pneus arrières BRM&lt;/li&gt;
+&lt;li&gt;roues avant plastique Slot.It, celles d&amp;rsquo;origine étaient pas ronde 😠&lt;/li&gt;
+&lt;li&gt;tresses plus fines et ajustage du guide avec une vis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Au final, je préfère les &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/06/21/m1-sideways&#34;&gt;M1 Sideways&lt;/a&gt; qui roulent mieux d&amp;rsquo;origine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Grp_5</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/08/10/test-grp_5</link>
+      <pubDate>Wed, 10 Aug 2016 16:52:09 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/10/test-grp_5</guid>
+      <description>
+
+&lt;p&gt;Test en Grp_5&lt;/p&gt;
+
+&lt;p&gt;Première course test en Grp_5 pour évaluer les forces en présence.&lt;br /&gt;
+Le test a eu lieu sur la piste 2 (poignée ACD pro 5) sur 21 tours avec les pneus nettoyés à la brosse uniquement.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Voiture&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Temps_total&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Sortie(s)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;2ème m.t.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;M1 Fly tour de France&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 mn 51.604&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.477&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;M1 Scaleauto&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 mn 52.452&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.519&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Capri Sideways&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 mn 48.790&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.359&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;M1 Lois Sideways&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 mn 48.424&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.360&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;M1 rose Sideways&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 mn 45.986&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.200&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Porsche 935 Sideways&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 mn 47.533&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.278&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ferrari 512BB Sideways&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 mn 51.190&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.483&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;BMW 320 orange Sideways&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 mn 48.851&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.338&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;BMW 320 rouge Sideways&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 mn 46.972&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.217&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;analyse&#34;&gt;Analyse&lt;/h3&gt;
+
+&lt;p&gt;Les temps ne sont pas exceptionnels, la piste n&amp;rsquo;étant pas très propre.&lt;br /&gt;
+La Toyota MRRC n&amp;rsquo;a pas roulé, elle n&amp;rsquo;est pas encore prête, je la monte sur un châssis en impression 3D &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;La M1 Fly tour de France est également montée sur un châssis en impression 3D (cf &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/08/11/m1-fly&#34;&gt;ici&lt;/a&gt;). Ce n&amp;rsquo;est pas tout à fait une Grp_5 mais elle est assez proche.&lt;/p&gt;
+
+&lt;p&gt;La M1 Scaleauto va être montée sur un châssis R et devrait aller un peu mieux.&lt;/p&gt;
+
+&lt;p&gt;Petite surprise chez les Sideways avec la victoire de la M1 rose de peu devant la BMW 320 &lt;em&gt;Rodenstock&lt;/em&gt; et la Porsche 935 verte.&lt;/p&gt;
+
+&lt;p&gt;Pour rappel, toutes les Sideways roulent avec les pneus arrières d&amp;rsquo;origine sauf la Capri qui a des P6 Slot.It (elle a fait une course sur un autre circuit)&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;objectif d&amp;rsquo;avoir un plateau homogène en performance est quasiment atteint. 😃&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Intro</title>

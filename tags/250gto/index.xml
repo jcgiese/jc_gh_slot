@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>250gto on JC&#39;s Slot Blog</title>
-    <link>https://jcgiese.github.io/jc_gh_slot/tags/250gto/</link>
-    <description>Recent content in 250gto on JC&#39;s Slot Blog</description>
+    <title>JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/tags/250gto/index.xml</link>
+    <description>Recent content on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Mon, 08 Aug 2016 14:21:47 +0200</lastBuildDate>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/250gto/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,6 +16,8 @@
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/08/mes-f250-gto</guid>
       <description>&lt;p&gt;Mes Ferrari 250 GTO &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Je ne suis pas un fan de la marque italienne (même si j&amp;rsquo;en possède pas mal en slot &amp;hellip;) mais j&amp;rsquo;ai toujours aimé la ligne très fluide de la 250 GTO.&lt;/p&gt;
 
@@ -69,8 +71,7 @@ Elle roule très bien comme cela maintenant 😄&lt;/p&gt;
 &lt;p&gt;Il me manque une version &lt;strong&gt;Scalextric&lt;/strong&gt; sortie plus tard &amp;hellip; mais ça viendra un jour !&lt;br /&gt;
 J&amp;rsquo;aimerais bien trouvé celle-ci pour sa couleur improbable 😆&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/F250_Scalex.jpg&#34; alt=&#34;La Scalex qui me manque&#34; /&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/F250_Scalex.jpg&#34; alt=&#34;La Scalex qui me manque&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sideways on JC&#39;s Slot Blog</title>
-    <link>https://jcgiese.github.io/jc_gh_slot/tags/sideways/</link>
-    <description>Recent content in Sideways on JC&#39;s Slot Blog</description>
+    <title>JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/tags/sideways/index.xml</link>
+    <description>Recent content on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Fri, 12 Aug 2016 11:46:58 +0200</lastBuildDate>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/sideways/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,8 +17,9 @@
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/12/porsche-935-k2</guid>
       <description>&lt;p&gt;Porsche 935 K2 de &lt;strong&gt;Sideways&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Pas grand chose à dire sur cette Porsche 935 K2 de &lt;strong&gt;Sideways&lt;/strong&gt; en Grp_5 sinon qu&amp;rsquo;elle est superbe et qu&amp;rsquo;elle roule très bien sans aucune modification. Elle est vraiment très plaisante, une de mes Grp_5 préférée !&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Pas grand chose à dire sur cette Porsche 935 K2 de &lt;strong&gt;Sideways&lt;/strong&gt; en Grp_5 sinon qu&amp;rsquo;elle est superbe et qu&amp;rsquo;elle roule très bien sans aucune modification. Elle est vraiment très plaisante, une de mes Grp_5 préférée !&lt;/p&gt;</description>
     </item>
     
   </channel>

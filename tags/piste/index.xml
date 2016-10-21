@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Piste on JC&#39;s Slot Blog</title>
-    <link>https://jcgiese.github.io/jc_gh_slot/tags/piste/</link>
-    <description>Recent content in Piste on JC&#39;s Slot Blog</description>
+    <title>JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/tags/piste/index.xml</link>
+    <description>Recent content on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Fri, 01 Jul 2016 16:19:28 +0200</lastBuildDate>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/piste/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,6 +16,8 @@
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/01/ma-piste</guid>
       <description>&lt;p&gt;Présentation de ma piste&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Voilà une courte présentation de ma piste. Il s&amp;rsquo;agit d&amp;rsquo;une piste Carrera (donc large et lisse) peinte en gris (pour mieux voir les voitures noires &amp;hellip;). Il y a un pont pour faire un 8 et égaliser les deux pistes (c&amp;rsquo;est mieux pour les &lt;em&gt;arsouilles&lt;/em&gt; :-))&lt;/p&gt;
 
@@ -41,8 +43,7 @@ Avec des pneus qui vont bien (BRM shore 22 par ex.), pas de soucis de grip à co
 
 &lt;p&gt;Pour les poignées, j&amp;rsquo;utilise depuis plus de 10 ans des électroniques comme cette &lt;strong&gt;MB Slot&lt;/strong&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/poignee_MB.jpg&#34; alt=&#34;Une des poignées&#34; /&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/poignee_MB.jpg&#34; alt=&#34;Une des poignées&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

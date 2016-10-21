@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rallye on JC&#39;s Slot Blog</title>
-    <link>https://jcgiese.github.io/jc_gh_slot/tags/rallye/</link>
-    <description>Recent content in Rallye on JC&#39;s Slot Blog</description>
+    <title>JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/tags/rallye/index.xml</link>
+    <description>Recent content on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Thu, 29 Sep 2016 16:29:49 +0200</lastBuildDate>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/rallye/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>R5 Turbo TS</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/10/21/r5-turbo-ts</link>
+      <pubDate>Fri, 21 Oct 2016 16:29:49 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/10/21/r5-turbo-ts</guid>
+      <description>&lt;p&gt;La R5 Turbo Team Slot &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai toujours aimé la petite marque espagnole &lt;strong&gt;Team Slot&lt;/strong&gt;. Certes c&amp;rsquo;est un peu &lt;em&gt;artisanal&lt;/em&gt; et pas toujours exempt de défauts mais c&amp;rsquo;est toujours des modèles originaux qui ont un certain charme.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai donc acheté leur dernier modèle: la Renault 5 Turbo, ça tombe bien j&amp;rsquo;avais envie de me remettre un peu au rallye :)&lt;/p&gt;
+
+&lt;p&gt;Le modèle est sympa et bien fini, Team Slot progresse de ce coté là. Mais la grande nouveauté de ce modèle c&amp;rsquo;était un châssis avec support moteur indépendant et des nouvelles roues plus petites munies de gommes plus adhérentes.
+J&amp;rsquo;avais hâte de tester tout ça !&lt;/p&gt;
+
+&lt;p&gt;Première déception, avec ces roues plus petites, le châssis frotte sur la piste :(
+Premier passage par l&amp;rsquo;atelier: je trouve des vis à têtes moins grosses et je règle correctement la hauteur du support moteur.&lt;/p&gt;
+
+&lt;p&gt;Retour en piste: plus de frottement, par contre la petite R5 est assez haute et rigide et du coup elle se met très facilement sur deux roues dans tous les virages, sympa mais pas évident pour faire des chronos !&lt;/p&gt;
+
+&lt;p&gt;Deuxième passage par l&amp;rsquo;atelier: j&amp;rsquo;essaie d&amp;rsquo;obtenir du &lt;em&gt;tilting&lt;/em&gt;, c&amp;rsquo;est à dire de la souplesse entre le châssis et la carrosserie pour que cette dernière n&amp;rsquo;entraine pas trop le châssis dans les virages.
+Pas facile ! Il a d&amp;rsquo;abord fallu que j&amp;rsquo;agrandisse les passages de vis, que je coupe une partie du châssis qui venait en appui sur la carrosserie et surtout que je fasse de la place dans l&amp;rsquo;habitacle qui était posé sur le moteur !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/s/tj0o3xmh0lkfg0x/chassis_R5_TS.JPG?dl=0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Au final j&amp;rsquo;en ai obtenu un peu mais pas énormément, en effet les vis avant sont profondément enfoncées dans des puits ce qui gêne le &lt;em&gt;tilting&lt;/em&gt;.
+J&amp;rsquo;ai aussi passé les pneus au tour pour les arrondir un peu plus mais je suis bluffé par leur grip.
+Du coté des trucs positifs, j&amp;rsquo;aime bien le moteur, puissant mais pas trop et l&amp;rsquo;excellente couronne alu, on est loin des premières Team Slot où la transmission faisait un bruit de crécelles :)&lt;/p&gt;
+
+&lt;p&gt;Plus de photos et de détails sur le blog de &lt;a href=&#34;http://www.letratslot.com/teamslot-renault-5-turbo-danube-1983/&#34;&gt;Letraslot&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Team Slot</title>
@@ -16,6 +50,8 @@
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/09/29/team-slot</guid>
       <description>&lt;p&gt;Toutes mes &lt;strong&gt;Team Slot&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Team Slot est une petite marque espagnole qui a résisté à la crise 😃&lt;br /&gt;
 Ils font essentiellement des voitures de &lt;strong&gt;rallye&lt;/strong&gt;. Souvent critiquée parce que c&amp;rsquo;est assez artisanal, cette petite marque demeure néanmoins sympathique notamment grâce aux choix de ses modèles toujours très originaux.&lt;/p&gt;
@@ -42,8 +78,7 @@ Me souvenais pas que j&amp;rsquo;en avais autant 😆  Faut dire qu&amp;rsquo;à
 &lt;li&gt;&lt;p&gt;l&amp;rsquo;Alpine A110, la &lt;em&gt;barquette&lt;/em&gt; est une de mes plus grosses déceptions, impossible de la faire marcher correctement, elle est lourde, le châssis est complètement tordu, le guide est trop en arrière, les roues avant ont trop de jeu etc &amp;hellip; Une catastrophe ! Dommage car je la trouve mieux que la &lt;strong&gt;SCX&lt;/strong&gt; au niveau ésthétique.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;A suivre &amp;hellip;&lt;/em&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;em&gt;A suivre &amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,6 +88,8 @@ Me souvenais pas que j&amp;rsquo;en avais autant 😆  Faut dire qu&amp;rsquo;à
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/08/polor</guid>
       <description>&lt;p&gt;La PoloR Scalextric&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Malheureusement j&amp;rsquo;ai dû prendre celle de Latvala et pas celle d&amp;rsquo;Ogier vu que cette dernière est dépourvue d&amp;rsquo;habitacle 😠&lt;br /&gt;
 &lt;em&gt;Font ch&amp;hellip; chez Scalex, c&amp;rsquo;est quand même Ogier qui est champion du monde non ?&lt;/em&gt;&lt;/p&gt;
@@ -100,8 +137,7 @@ Ce qu&amp;rsquo;on ne voit pas sur la photo, c&amp;rsquo;est que pour gagner enc
 &lt;p&gt;La Polo modifiée va beaucoup mieux ! Elle ne sort plus de l&amp;rsquo;avant, ne se renverse pas dans les virages et glisse juste ce qu&amp;rsquo;il faut avec des pneus &lt;strong&gt;Ninco&lt;/strong&gt; à l&amp;rsquo;arrière 😃&lt;br /&gt;
 Le moteur Scalex de base manque quand même un peu de pêche mais je suis pas sûr que le châssis encaisserait bien un moteur plus performant ??&lt;/p&gt;
 
-&lt;p&gt;Au moment de terminer cette longue transformation, je tombe sur cet &lt;a href=&#34;http://www.slotcar-today.com/en/notices/2015/03/3dp-wrc-chasis-sloting-plus-carrera-scalextric-and-scx-will-have-their-own-chassis-4043.php&#34;&gt;article&lt;/a&gt; où la marque espagnole &lt;strong&gt;Sloting Plus&lt;/strong&gt; annonce un futur châssis en impression 3D pour la Polo (et d&amp;rsquo;autres rallye) &amp;hellip; arghhhhh&lt;/p&gt;
-</description>
+&lt;p&gt;Au moment de terminer cette longue transformation, je tombe sur cet &lt;a href=&#34;http://www.slotcar-today.com/en/notices/2015/03/3dp-wrc-chasis-sloting-plus-carrera-scalextric-and-scx-will-have-their-own-chassis-4043.php&#34;&gt;article&lt;/a&gt; où la marque espagnole &lt;strong&gt;Sloting Plus&lt;/strong&gt; annonce un futur châssis en impression 3D pour la Polo (et d&amp;rsquo;autres rallye) &amp;hellip; arghhhhh&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -112,11 +148,12 @@ Le moteur Scalex de base manque quand même un peu de pêche mais je suis pas s�
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/08/rallye</guid>
       <description>&lt;p&gt;Introduction au rallye&lt;/p&gt;
 
+&lt;p&gt;&lt;/p&gt;
+
 &lt;p&gt;Eh oui, encore une nouvelle &lt;strong&gt;catégorie&lt;/strong&gt;, j&amp;rsquo;aime aussi le rallye 😀&lt;/p&gt;
 
 &lt;p&gt;En fait c&amp;rsquo;était même ma catégorie favorite à mes début en &lt;em&gt;slot&lt;/em&gt;, il y a &amp;hellip; pfff plus de 20 ans déjà 😳.&lt;br /&gt;
-C&amp;rsquo;était les voitures qui allaient le mieux sur mon petit circuit de l&amp;rsquo;époque (Scalex classique puis Ninco) mais depuis que je suis passé sur un circuit plus grand et plus rapide (&lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/07/01/ma-piste&#34;&gt;ma piste&lt;/a&gt;) elles ont été détroné par les GT et autres F1 plus rapides. Mais je les ressors quand même de temps en temps &amp;hellip;&lt;/p&gt;
-</description>
+C&amp;rsquo;était les voitures qui allaient le mieux sur mon petit circuit de l&amp;rsquo;époque (Scalex classique puis Ninco) mais depuis que je suis passé sur un circuit plus grand et plus rapide (&lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/07/01/ma-piste&#34;&gt;ma piste&lt;/a&gt;) elles ont été détroné par les GT et autres F1 plus rapides. Mais je les ressors quand même de temps en temps &amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>

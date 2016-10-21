@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scalex on JC&#39;s Slot Blog</title>
-    <link>https://jcgiese.github.io/jc_gh_slot/tags/scalex/</link>
-    <description>Recent content in Scalex on JC&#39;s Slot Blog</description>
+    <title>JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/tags/scalex/index.xml</link>
+    <description>Recent content on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Thu, 11 Aug 2016 11:29:51 +0200</lastBuildDate>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/scalex/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,6 +16,8 @@
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/11/bentley-scalex</guid>
       <description>&lt;p&gt;Préparation de la Bentley &lt;strong&gt;Scalex&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Qnand &lt;strong&gt;Scalextric&lt;/strong&gt; a sorti cette GT monstrueuse, je n&amp;rsquo;ai pas hésité un instant 😃&lt;br /&gt;
 D&amp;rsquo;habitude je ne suis pas fan des GT de cette marque car elles roulent très très mal sur ma piste &lt;strong&gt;Carrera&lt;/strong&gt; mais pour la Bentley, j&amp;rsquo;avais dans l&amp;rsquo;idée de changer son châssis pour un en impression 3D mis au point par la marque italienne &lt;strong&gt;Slot.It&lt;/strong&gt;.&lt;/p&gt;
@@ -62,8 +64,7 @@ D&amp;rsquo;habitude je ne suis pas fan des GT de cette marque car elles roulent
 &lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/Bentley-7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Au final le look est pas mal (photo tout en haut) et elle marche pas mal sur la piste, presque au niveau de mes autres GT 😃&lt;br /&gt;
-Mais quel boulot à faire dessus pour en obtenir quelque chose !&lt;/p&gt;
-</description>
+Mais quel boulot à faire dessus pour en obtenir quelque chose !&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,11 +73,11 @@ Mais quel boulot à faire dessus pour en obtenir quelque chose !&lt;/p&gt;
       <pubDate>Thu, 04 Aug 2016 17:26:32 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes_scx</guid>
-      <description>
-
-&lt;p&gt;tags = [&amp;ldquo;slot&amp;rdquo;, &amp;ldquo;DTM&amp;rdquo;, &amp;ldquo;BMW&amp;rdquo;, &amp;ldquo;Carrera&amp;rdquo;, &amp;ldquo;Mercedes&amp;rdquo;]&lt;/p&gt;
+      <description>&lt;p&gt;tags = [&amp;ldquo;slot&amp;rdquo;, &amp;ldquo;DTM&amp;rdquo;, &amp;ldquo;BMW&amp;rdquo;, &amp;ldquo;Carrera&amp;rdquo;, &amp;ldquo;Mercedes&amp;rdquo;]&lt;/p&gt;
 
 &lt;p&gt;La Mercedes &lt;strong&gt;SCX&lt;/strong&gt; DTM sur châssis &lt;strong&gt;Sloting Plus&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Après les &lt;strong&gt;Carrera&lt;/strong&gt; (cf &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm&#34;&gt;ici&lt;/a&gt;), on s&amp;rsquo;attaque aux &lt;strong&gt;SCX&lt;/strong&gt; DTM. SCX n&amp;rsquo;a produit que les Mercedes et Audi, délaissant les superbes BMW 😟&lt;/p&gt;
 
@@ -99,8 +100,7 @@ Le montage est beaucoup plus simple qu&amp;rsquo;avec les &lt;strong&gt;Carrera&
 
 &lt;h3 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h3&gt;
 
-&lt;p&gt;Plus simples à monter, moins cher (on peut récupérer plus de pièces), plus performantes, les SCX DTM sont une meilleure alternative aux &lt;strong&gt;Carrera&lt;/strong&gt; &amp;hellip; mais il manque les BMW et les &lt;strong&gt;Carrera&lt;/strong&gt; sont plus jolies 😃&lt;/p&gt;
-</description>
+&lt;p&gt;Plus simples à monter, moins cher (on peut récupérer plus de pièces), plus performantes, les SCX DTM sont une meilleure alternative aux &lt;strong&gt;Carrera&lt;/strong&gt; &amp;hellip; mais il manque les BMW et les &lt;strong&gt;Carrera&lt;/strong&gt; sont plus jolies 😃&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ninco on JC&#39;s Slot Blog</title>
-    <link>https://jcgiese.github.io/jc_gh_slot/tags/ninco/</link>
-    <description>Recent content in Ninco on JC&#39;s Slot Blog</description>
+    <title>JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/tags/ninco/index.xml</link>
+    <description>Recent content on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Fri, 05 Aug 2016 17:21:10 +0200</lastBuildDate>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/ninco/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,9 +15,9 @@
       <pubDate>Fri, 05 Aug 2016 17:21:10 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/05/mercedes-c</guid>
-      <description>
+      <description>&lt;p&gt;La Mercedes C &lt;strong&gt;Ninco&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;La Mercedes C &lt;strong&gt;Ninco&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Il ne me restait plus que la carrosserie de cette ancienne DTM &lt;strong&gt;Ninco&lt;/strong&gt; de mes débuts en slot (près de 20 ans déjà &amp;hellip;), le châssis a du servir a un kit résine et la mécanique a du être vampirisé pour un autre projet 😃&lt;/p&gt;
 
@@ -44,8 +44,7 @@
 
 &lt;p&gt;La voiture est très plaisant et assez performante, plus rien à voir avec la &lt;em&gt;casserole&lt;/em&gt; d&amp;rsquo;origine 😆&lt;/p&gt;
 
-&lt;p&gt;La transmission est très douce et la position en angle équilibre la voiture. C&amp;rsquo;est la première fois que j&amp;rsquo;utilise ce moteur &lt;strong&gt;Scaleauto&lt;/strong&gt; dit &lt;em&gt;baby&lt;/em&gt; parce qu&amp;rsquo;il ne fait que 18.000 rpm (la plupart des moteurs sont entre 21.000 et 23.000) et bien je ne suis pas déçu ! Très souple et suffisemment rapide pour ma piste.&lt;/p&gt;
-</description>
+&lt;p&gt;La transmission est très douce et la position en angle équilibre la voiture. C&amp;rsquo;est la première fois que j&amp;rsquo;utilise ce moteur &lt;strong&gt;Scaleauto&lt;/strong&gt; dit &lt;em&gt;baby&lt;/em&gt; parce qu&amp;rsquo;il ne fait que 18.000 rpm (la plupart des moteurs sont entre 21.000 et 23.000) et bien je ne suis pas déçu ! Très souple et suffisemment rapide pour ma piste.&lt;/p&gt;</description>
     </item>
     
   </channel>

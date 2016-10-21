@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nostalgie on JC&#39;s Slot Blog</title>
-    <link>https://jcgiese.github.io/jc_gh_slot/tags/nostalgie/</link>
-    <description>Recent content in Nostalgie on JC&#39;s Slot Blog</description>
+    <title>JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/tags/nostalgie/index.xml</link>
+    <description>Recent content on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Thu, 29 Sep 2016 16:29:49 +0200</lastBuildDate>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/nostalgie/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,6 +16,8 @@
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/09/29/team-slot</guid>
       <description>&lt;p&gt;Toutes mes &lt;strong&gt;Team Slot&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Team Slot est une petite marque espagnole qui a résisté à la crise 😃&lt;br /&gt;
 Ils font essentiellement des voitures de &lt;strong&gt;rallye&lt;/strong&gt;. Souvent critiquée parce que c&amp;rsquo;est assez artisanal, cette petite marque demeure néanmoins sympathique notamment grâce aux choix de ses modèles toujours très originaux.&lt;/p&gt;
@@ -42,8 +44,7 @@ Me souvenais pas que j&amp;rsquo;en avais autant 😆  Faut dire qu&amp;rsquo;à
 &lt;li&gt;&lt;p&gt;l&amp;rsquo;Alpine A110, la &lt;em&gt;barquette&lt;/em&gt; est une de mes plus grosses déceptions, impossible de la faire marcher correctement, elle est lourde, le châssis est complètement tordu, le guide est trop en arrière, les roues avant ont trop de jeu etc &amp;hellip; Une catastrophe ! Dommage car je la trouve mieux que la &lt;strong&gt;SCX&lt;/strong&gt; au niveau ésthétique.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;A suivre &amp;hellip;&lt;/em&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;em&gt;A suivre &amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,6 +54,8 @@ Me souvenais pas que j&amp;rsquo;en avais autant 😆  Faut dire qu&amp;rsquo;à
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/08/mes-f250-gto</guid>
       <description>&lt;p&gt;Mes Ferrari 250 GTO &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Je ne suis pas un fan de la marque italienne (même si j&amp;rsquo;en possède pas mal en slot &amp;hellip;) mais j&amp;rsquo;ai toujours aimé la ligne très fluide de la 250 GTO.&lt;/p&gt;
 
@@ -106,8 +109,7 @@ Elle roule très bien comme cela maintenant 😄&lt;/p&gt;
 &lt;p&gt;Il me manque une version &lt;strong&gt;Scalextric&lt;/strong&gt; sortie plus tard &amp;hellip; mais ça viendra un jour !&lt;br /&gt;
 J&amp;rsquo;aimerais bien trouvé celle-ci pour sa couleur improbable 😆&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/F250_Scalex.jpg&#34; alt=&#34;La Scalex qui me manque&#34; /&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/F250_Scalex.jpg&#34; alt=&#34;La Scalex qui me manque&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

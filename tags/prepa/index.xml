@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prepa on JC&#39;s Slot Blog</title>
-    <link>https://jcgiese.github.io/jc_gh_slot/tags/prepa/</link>
-    <description>Recent content in Prepa on JC&#39;s Slot Blog</description>
+    <title>JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/tags/prepa/index.xml</link>
+    <description>Recent content on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Fri, 12 Aug 2016 10:46:58 +0200</lastBuildDate>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/prepa/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>R5 Turbo TS</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/10/21/r5-turbo-ts</link>
+      <pubDate>Fri, 21 Oct 2016 16:29:49 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/10/21/r5-turbo-ts</guid>
+      <description>&lt;p&gt;La R5 Turbo Team Slot &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai toujours aimé la petite marque espagnole &lt;strong&gt;Team Slot&lt;/strong&gt;. Certes c&amp;rsquo;est un peu &lt;em&gt;artisanal&lt;/em&gt; et pas toujours exempt de défauts mais c&amp;rsquo;est toujours des modèles originaux qui ont un certain charme.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai donc acheté leur dernier modèle: la Renault 5 Turbo, ça tombe bien j&amp;rsquo;avais envie de me remettre un peu au rallye :)&lt;/p&gt;
+
+&lt;p&gt;Le modèle est sympa et bien fini, Team Slot progresse de ce coté là. Mais la grande nouveauté de ce modèle c&amp;rsquo;était un châssis avec support moteur indépendant et des nouvelles roues plus petites munies de gommes plus adhérentes.
+J&amp;rsquo;avais hâte de tester tout ça !&lt;/p&gt;
+
+&lt;p&gt;Première déception, avec ces roues plus petites, le châssis frotte sur la piste :(
+Premier passage par l&amp;rsquo;atelier: je trouve des vis à têtes moins grosses et je règle correctement la hauteur du support moteur.&lt;/p&gt;
+
+&lt;p&gt;Retour en piste: plus de frottement, par contre la petite R5 est assez haute et rigide et du coup elle se met très facilement sur deux roues dans tous les virages, sympa mais pas évident pour faire des chronos !&lt;/p&gt;
+
+&lt;p&gt;Deuxième passage par l&amp;rsquo;atelier: j&amp;rsquo;essaie d&amp;rsquo;obtenir du &lt;em&gt;tilting&lt;/em&gt;, c&amp;rsquo;est à dire de la souplesse entre le châssis et la carrosserie pour que cette dernière n&amp;rsquo;entraine pas trop le châssis dans les virages.
+Pas facile ! Il a d&amp;rsquo;abord fallu que j&amp;rsquo;agrandisse les passages de vis, que je coupe une partie du châssis qui venait en appui sur la carrosserie et surtout que je fasse de la place dans l&amp;rsquo;habitacle qui était posé sur le moteur !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/s/tj0o3xmh0lkfg0x/chassis_R5_TS.JPG?dl=0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Au final j&amp;rsquo;en ai obtenu un peu mais pas énormément, en effet les vis avant sont profondément enfoncées dans des puits ce qui gêne le &lt;em&gt;tilting&lt;/em&gt;.
+J&amp;rsquo;ai aussi passé les pneus au tour pour les arrondir un peu plus mais je suis bluffé par leur grip.
+Du coté des trucs positifs, j&amp;rsquo;aime bien le moteur, puissant mais pas trop et l&amp;rsquo;excellente couronne alu, on est loin des premières Team Slot où la transmission faisait un bruit de crécelles :)&lt;/p&gt;
+
+&lt;p&gt;Plus de photos et de détails sur le blog de &lt;a href=&#34;http://www.letratslot.com/teamslot-renault-5-turbo-danube-1983/&#34;&gt;Letraslot&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>M1 Scaleauto</title>
@@ -16,6 +50,8 @@
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/12/m1-scaleauto</guid>
       <description>&lt;p&gt;BMW M1 BASF &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Pour changer un peu des &lt;strong&gt;Sideways&lt;/strong&gt; en Grp_5, j&amp;rsquo;ai acheté une BMW M1 &lt;strong&gt;Scaleauto&lt;/strong&gt;.&lt;/p&gt;
 
@@ -33,8 +69,7 @@
 &lt;li&gt;tresses plus fines et ajustage du guide avec une vis&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Au final, je préfère les &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/06/21/m1-sideways&#34;&gt;M1 Sideways&lt;/a&gt; qui roulent mieux d&amp;rsquo;origine.&lt;/p&gt;
-</description>
+&lt;p&gt;Au final, je préfère les &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/06/21/m1-sideways&#34;&gt;M1 Sideways&lt;/a&gt; qui roulent mieux d&amp;rsquo;origine.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,6 +79,8 @@
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/11/bentley-scalex</guid>
       <description>&lt;p&gt;Préparation de la Bentley &lt;strong&gt;Scalex&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Qnand &lt;strong&gt;Scalextric&lt;/strong&gt; a sorti cette GT monstrueuse, je n&amp;rsquo;ai pas hésité un instant 😃&lt;br /&gt;
 D&amp;rsquo;habitude je ne suis pas fan des GT de cette marque car elles roulent très très mal sur ma piste &lt;strong&gt;Carrera&lt;/strong&gt; mais pour la Bentley, j&amp;rsquo;avais dans l&amp;rsquo;idée de changer son châssis pour un en impression 3D mis au point par la marque italienne &lt;strong&gt;Slot.It&lt;/strong&gt;.&lt;/p&gt;
@@ -90,8 +127,7 @@ D&amp;rsquo;habitude je ne suis pas fan des GT de cette marque car elles roulent
 &lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/Bentley-7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Au final le look est pas mal (photo tout en haut) et elle marche pas mal sur la piste, presque au niveau de mes autres GT 😃&lt;br /&gt;
-Mais quel boulot à faire dessus pour en obtenir quelque chose !&lt;/p&gt;
-</description>
+Mais quel boulot à faire dessus pour en obtenir quelque chose !&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -101,6 +137,8 @@ Mais quel boulot à faire dessus pour en obtenir quelque chose !&lt;/p&gt;
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/08/polor</guid>
       <description>&lt;p&gt;La PoloR Scalextric&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Malheureusement j&amp;rsquo;ai dû prendre celle de Latvala et pas celle d&amp;rsquo;Ogier vu que cette dernière est dépourvue d&amp;rsquo;habitacle 😠&lt;br /&gt;
 &lt;em&gt;Font ch&amp;hellip; chez Scalex, c&amp;rsquo;est quand même Ogier qui est champion du monde non ?&lt;/em&gt;&lt;/p&gt;
@@ -148,8 +186,7 @@ Ce qu&amp;rsquo;on ne voit pas sur la photo, c&amp;rsquo;est que pour gagner enc
 &lt;p&gt;La Polo modifiée va beaucoup mieux ! Elle ne sort plus de l&amp;rsquo;avant, ne se renverse pas dans les virages et glisse juste ce qu&amp;rsquo;il faut avec des pneus &lt;strong&gt;Ninco&lt;/strong&gt; à l&amp;rsquo;arrière 😃&lt;br /&gt;
 Le moteur Scalex de base manque quand même un peu de pêche mais je suis pas sûr que le châssis encaisserait bien un moteur plus performant ??&lt;/p&gt;
 
-&lt;p&gt;Au moment de terminer cette longue transformation, je tombe sur cet &lt;a href=&#34;http://www.slotcar-today.com/en/notices/2015/03/3dp-wrc-chasis-sloting-plus-carrera-scalextric-and-scx-will-have-their-own-chassis-4043.php&#34;&gt;article&lt;/a&gt; où la marque espagnole &lt;strong&gt;Sloting Plus&lt;/strong&gt; annonce un futur châssis en impression 3D pour la Polo (et d&amp;rsquo;autres rallye) &amp;hellip; arghhhhh&lt;/p&gt;
-</description>
+&lt;p&gt;Au moment de terminer cette longue transformation, je tombe sur cet &lt;a href=&#34;http://www.slotcar-today.com/en/notices/2015/03/3dp-wrc-chasis-sloting-plus-carrera-scalextric-and-scx-will-have-their-own-chassis-4043.php&#34;&gt;article&lt;/a&gt; où la marque espagnole &lt;strong&gt;Sloting Plus&lt;/strong&gt; annonce un futur châssis en impression 3D pour la Polo (et d&amp;rsquo;autres rallye) &amp;hellip; arghhhhh&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -158,7 +195,7 @@ Le moteur Scalex de base manque quand même un peu de pêche mais je suis pas s�
       <pubDate>Wed, 22 Jun 2016 15:51:32 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/22/mercedes_sc</guid>
-      <description>
+      <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Suite à l&amp;rsquo;achat d&amp;rsquo;occasion d&amp;rsquo;une carrosserie de Mercedes &lt;strong&gt;Scaleauto&lt;/strong&gt; seule, j&amp;rsquo;ai pu changer la blanche (version test) de la mienne qu&amp;rsquo;on peut apercevoir dans l&amp;rsquo;article &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/06/13/premier-test-s%C3%A9rieux&#34;&gt;premier test sérieux en Open_GT&lt;/a&gt;.&lt;/p&gt;
 
@@ -176,8 +213,7 @@ Le moteur Scalex de base manque quand même un peu de pêche mais je suis pas s�
 
 &lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/chassis2_Mercedes_SC.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/chassis_Mercedes_SC.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/chassis_Mercedes_SC.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -187,6 +223,8 @@ Le moteur Scalex de base manque quand même un peu de pêche mais je suis pas s�
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/21/m1-sideways</guid>
       <description>&lt;p&gt;BMW M1 VSD &lt;strong&gt;Sideways&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Après les BMW 320 &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/05/26/bmw-320-sideways&#34;&gt;BMW 320&lt;/a&gt; , encore une BM chez &lt;strong&gt;Sideways&lt;/strong&gt; dans la série Grp_5.&lt;br /&gt;
 Une très belle déco VSD - Lois qui a couru au Mans je crois.&lt;/p&gt;
@@ -203,8 +241,7 @@ Une très belle déco VSD - Lois qui a couru au Mans je crois.&lt;/p&gt;
 
 &lt;p&gt;Une dernière photo avec une autre M1 de la marque, achetée d&amp;rsquo;occasion et peinte par son ancien propriétaire.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/2_M1_SW.jpg&#34; alt=&#34;avec sa copine&#34; /&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/2_M1_SW.jpg&#34; alt=&#34;avec sa copine&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -213,9 +250,9 @@ Une très belle déco VSD - Lois qui a couru au Mans je crois.&lt;/p&gt;
       <pubDate>Fri, 10 Jun 2016 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/10/audi-r8-scalextric</guid>
-      <description>
+      <description>&lt;p&gt;L&amp;rsquo;Audi R8 &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;L&amp;rsquo;Audi R8 &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;audi-r8-scalextric&#34;&gt;Audi R8 Scalextric&lt;/h2&gt;
 
@@ -238,8 +275,7 @@ Une très belle déco VSD - Lois qui a couru au Mans je crois.&lt;/p&gt;
 
 &lt;p&gt;Avec toutes ces modifications, l&amp;rsquo;Audi R8 Scalex est enfin stable et agréable, elle ne se retourne plus dans chaque virage !&lt;/p&gt;
 
-&lt;p&gt;Malgré tout, avec son poids élevé, 96 gr !, elle est loin de prétendre à une place dans les premières.&lt;/p&gt;
-</description>
+&lt;p&gt;Malgré tout, avec son poids élevé, 96 gr !, elle est loin de prétendre à une place dans les premières.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -248,9 +284,9 @@ Une très belle déco VSD - Lois qui a couru au Mans je crois.&lt;/p&gt;
       <pubDate>Fri, 10 Jun 2016 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/10/les-spyker-scaleauto</guid>
-      <description>
+      <description>&lt;p&gt;Préparation des Spyker &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Préparation des Spyker &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;les-spyker-scaleauto&#34;&gt;Les Spyker &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/h2&gt;
 
@@ -273,8 +309,7 @@ Un peu de lest à l&amp;rsquo;avant, les jantes d&amp;rsquo;origine équipées d
 
 &lt;p&gt;Dans cette configuration, les Spyker sont très agréables et performantes, la preuve au &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/06/13/premier-test-s%C3%A9rieux&#34;&gt;premier test&lt;/a&gt;. Un petit avantage à la orange plus vive mais sur des longs relais la blanche sera plus facile à piloter.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/Spyker_blanche.JPG&#34; alt=&#34;Spyker blanche&#34; /&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/Spyker_blanche.JPG&#34; alt=&#34;Spyker blanche&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -283,9 +318,9 @@ Un peu de lest à l&amp;rsquo;avant, les jantes d&amp;rsquo;origine équipées d
       <pubDate>Fri, 27 May 2016 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/05/27/lotus-policar</guid>
-      <description>
+      <description>&lt;p&gt;La très attendue Lotus &lt;strong&gt;Policar&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;La très attendue Lotus &lt;strong&gt;Policar&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;lotus-policar&#34;&gt;Lotus Policar&lt;/h3&gt;
 
@@ -299,7 +334,7 @@ Un peu de lest à l&amp;rsquo;avant, les jantes d&amp;rsquo;origine équipées d
 
 &lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/s/iu81a75mw2pnms3/Lotus_Policar.jpg?dl=0&amp;amp;preview=Lotus_policar.JPG&#34; alt=&#34;lotus_policar&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Il a fallu l&amp;rsquo;attendre longtemps cette petite Lotus de la marque &lt;strong&gt;Policar&lt;/strong&gt;, presque 2 ans ! Mais au final, l&amp;rsquo;attente valait le coup. Elle est superbe mais en plus elle roule très très bien ce qui est un exploit pour ce type de voiture (ce n&amp;rsquo;est pas &lt;strong&gt;SRC&lt;/strong&gt; qui me contredira :smile:).&lt;/p&gt;
+&lt;p&gt;Il a fallu l&amp;rsquo;attendre longtemps cette petite Lotus de la marque &lt;strong&gt;Policar&lt;/strong&gt;, presque 2 ans ! Mais au final, l&amp;rsquo;attente valait le coup. Elle est superbe mais en plus elle roule très très bien ce qui est un exploit pour ce type de voiture (ce n&amp;rsquo;est pas &lt;strong&gt;SRC&lt;/strong&gt; qui me contredira 😄).&lt;/p&gt;
 
 &lt;p&gt;J&amp;rsquo;ai quand même du bricoler un minimum, il y a quelques petits défauts de jeunesse mais rien de bien grave:&lt;/p&gt;
 
@@ -313,10 +348,9 @@ Un peu de lest à l&amp;rsquo;avant, les jantes d&amp;rsquo;origine équipées d
 &lt;li&gt;un petit rôdage pour assouplir la transmission double&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Vous allez me dire que ça fait beaucoup mais en fait je fais ça sur quasiment toutes les voitures que je reçois :smile:&lt;/p&gt;
+&lt;p&gt;Vous allez me dire que ça fait beaucoup mais en fait je fais ça sur quasiment toutes les voitures que je reçois 😄&lt;/p&gt;
 
-&lt;p&gt;Avec cette petite &lt;em&gt;prépa&lt;/em&gt; maison, elle roule très très bien et dans un silence très agréable.&lt;/p&gt;
-</description>
+&lt;p&gt;Avec cette petite &lt;em&gt;prépa&lt;/em&gt; maison, elle roule très très bien et dans un silence très agréable.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -325,9 +359,9 @@ Un peu de lest à l&amp;rsquo;avant, les jantes d&amp;rsquo;origine équipées d
       <pubDate>Thu, 26 May 2016 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/05/26/bmw-320-sideways</guid>
-      <description>
+      <description>&lt;p&gt;La nouvelle BMW 320 &lt;strong&gt;Sideways&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;La nouvelle BMW 320 &lt;strong&gt;Sideways&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Je possède déjà la BMW 320 orange &lt;em&gt;Jägermeister&lt;/em&gt; de la marque &lt;strong&gt;Sideways&lt;/strong&gt;, mais j&amp;rsquo;ai à nouveau craqué pour cette superbe déco:&lt;/p&gt;
 
@@ -351,8 +385,7 @@ Tant que j&amp;rsquo;y étais, j&amp;rsquo;ai aussi remplacé les pneus avant pa
 &lt;h3 id=&#34;sur-la-piste&#34;&gt;Sur la piste&lt;/h3&gt;
 
 &lt;p&gt;Cette nouvelle BM s&amp;rsquo;est tout de suite montrée très à l&amp;rsquo;aise, un peu mieux que la orange, un vrai plaisir !&lt;br /&gt;
-Je ne sais pas si le nouveau support moteur y est vraiment pour quelque chose mais elle roule super bien, et quelle gueule !!&lt;/p&gt;
-</description>
+Je ne sais pas si le nouveau support moteur y est vraiment pour quelque chose mais elle roule super bien, et quelle gueule !!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -361,9 +394,9 @@ Je ne sais pas si le nouveau support moteur y est vraiment pour quelque chose ma
       <pubDate>Wed, 25 May 2016 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/05/25/nouvelle-z4-scaleauto</guid>
-      <description>
+      <description>&lt;p&gt;La nouvelle Z4 &lt;strong&gt;Scaleauto&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;La nouvelle Z4 &lt;strong&gt;Scaleauto&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;open-gt-episode-5&#34;&gt;Open_GT - Episode 5&lt;/h2&gt;
 
@@ -400,8 +433,7 @@ Du coup la préparation est assez minime, heureusement d&amp;rsquo;ailleurs, par
 
 &lt;p&gt;En bonus, une petite photo des 4 Z4 (non non y a pas de NSR 😄):&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/4_Z4_GT.jpg&#34; alt=&#34;4_Z4_GT&#34; /&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/4_Z4_GT.jpg&#34; alt=&#34;4_Z4_GT&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -410,9 +442,9 @@ Du coup la préparation est assez minime, heureusement d&amp;rsquo;ailleurs, par
       <pubDate>Mon, 23 May 2016 14:11:04 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/05/23/viper-scaleauto</guid>
-      <description>
+      <description>&lt;p&gt;Premiers essais de la Viper &lt;strong&gt;Scaleauto&lt;/strong&gt; et de l&amp;rsquo;Aston Martin &lt;strong&gt;BlackArrow&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;Premiers essais de la Viper &lt;strong&gt;Scaleauto&lt;/strong&gt; et de l&amp;rsquo;Aston Martin &lt;strong&gt;BlackArrow&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;open-gt-episode-4&#34;&gt;Open_GT - Episode 4&lt;/h2&gt;
 
@@ -424,8 +456,7 @@ Du coup la préparation est assez minime, heureusement d&amp;rsquo;ailleurs, par
 Elle s&amp;rsquo;est révélée très agréable et facile mais elle manquait peut-être un peu de vivacité. Du coup, aucune sortie et un run très régulier qui donne un temps correct.&lt;/p&gt;
 
 &lt;p&gt;La Viper &lt;strong&gt;Scaleauto&lt;/strong&gt;, elle, était plus vive et du coup un peu moins facile. Elle a d&amp;rsquo;ailleurs fait une sortie au milieu du run qui lui a couté 7 sec environ. Elle était plus bruyant que l&amp;rsquo;Aston également.
-Le temps est très proche de celui de l&amp;rsquo;Aston et sans la sortie, elle serait devant de peu &amp;hellip;&lt;/p&gt;
-</description>
+Le temps est très proche de celui de l&amp;rsquo;Aston et sans la sortie, elle serait devant de peu &amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -434,9 +465,9 @@ Le temps est très proche de celui de l&amp;rsquo;Aston et sans la sortie, elle 
       <pubDate>Mon, 23 May 2016 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/05/23/aston-martin-blackarrow</guid>
-      <description>
+      <description>&lt;p&gt;Mise en conformité de l&amp;rsquo;Aston Martin &lt;strong&gt;BlackArrow&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;Mise en conformité de l&amp;rsquo;Aston Martin &lt;strong&gt;BlackArrow&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;open-gt-episode-3&#34;&gt;Open_GT - Episode 3&lt;/h2&gt;
 
@@ -454,8 +485,7 @@ De même, j&amp;rsquo;ai remis deux petites vis btr pour ajuster la carrosserie 
 &lt;h3 id=&#34;premiers-tours-de-roues&#34;&gt;Premiers tours de roues&lt;/h3&gt;
 
 &lt;p&gt;L&amp;rsquo;Aston se montre tout de suite agréable et facile, beaucoup plus qu&amp;rsquo;avec le moteur en ligne :)&lt;br /&gt;
-Reste à voir ce que ça donnera au niveau des chronos &amp;hellip;&lt;/p&gt;
-</description>
+Reste à voir ce que ça donnera au niveau des chronos &amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -464,9 +494,9 @@ Reste à voir ce que ça donnera au niveau des chronos &amp;hellip;&lt;/p&gt;
       <pubDate>Sun, 22 May 2016 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/05/22/la-z4-scalextric</guid>
-      <description>
+      <description>&lt;p&gt;La surprenante BMW Z4 &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;La surprenante BMW Z4 &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;open-gt-episode-2&#34;&gt;Open_GT - Episode 2&lt;/h2&gt;
 
@@ -484,7 +514,7 @@ Reste à voir ce que ça donnera au niveau des chronos &amp;hellip;&lt;/p&gt;
 
 &lt;h3 id=&#34;montage-du-châssis-pcr&#34;&gt;Montage du châssis PCR&lt;/h3&gt;
 
-&lt;p&gt;Je voulais d&amp;rsquo;abord essayer la Scalex avec son châssis d&amp;rsquo;origine (sans aimant) mais cela s&amp;rsquo;est avéré impossible :rage: les pneus étaient enduits de produit démoulant et n&amp;rsquo;avaient absolument aucun grip sur ma piste Carrera. A noter que d&amp;rsquo;origine c&amp;rsquo;est une configuration &lt;em&gt;inline&lt;/em&gt; et pas &lt;em&gt;sidewinder&lt;/em&gt; comme sur les autres GT de la marque &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Je voulais d&amp;rsquo;abord essayer la Scalex avec son châssis d&amp;rsquo;origine (sans aimant) mais cela s&amp;rsquo;est avéré impossible 😡 les pneus étaient enduits de produit démoulant et n&amp;rsquo;avaient absolument aucun grip sur ma piste Carrera. A noter que d&amp;rsquo;origine c&amp;rsquo;est une configuration &lt;em&gt;inline&lt;/em&gt; et pas &lt;em&gt;sidewinder&lt;/em&gt; comme sur les autres GT de la marque &amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/Z4_Scalex-1.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -500,7 +530,7 @@ Reste à voir ce que ça donnera au niveau des chronos &amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/Z4_Scalex-3.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Du coup je les ai montés :smile:
+&lt;p&gt;Du coup je les ai montés 😄
 Ca fait beaucoup de fils mais il n&amp;rsquo;y a pas de difficulté particulière. Au passage on peut noter que j&amp;rsquo;ai récupéré les roues avant d&amp;rsquo;origine alors qu&amp;rsquo;à l&amp;rsquo;arrière j&amp;rsquo;ai mis des jantes alu MB Slot et des pneus BRM.&lt;/p&gt;
 
 &lt;p&gt;La voilà terminée ! Belle et performante, que du bonheur.
@@ -572,8 +602,7 @@ Ca fait beaucoup de fils mais il n&amp;rsquo;y a pas de difficulté particulièr
 
 &lt;p&gt;La Bentley Scalex est montée sur un châssis en 3D (Slot.It) avec également un moteur Flat6 jaune en angle et que des pièces &lt;em&gt;racing&lt;/em&gt;, on voit que même ainsi elle a du mal et reste très lourde.&lt;/p&gt;
 
-&lt;p&gt;L&amp;rsquo;Audi R8 Scalex est elle bien préparée mais en dehors des pneus et des tresses, elle a gardé toutes ses pièces mécaniques Scalex. Elle marche pas mal mais elle est plombé par son moteur vraiment pas à la hauteur des Slot.It &amp;hellip;&lt;/p&gt;
-</description>
+&lt;p&gt;L&amp;rsquo;Audi R8 Scalex est elle bien préparée mais en dehors des pneus et des tresses, elle a gardé toutes ses pièces mécaniques Scalex. Elle marche pas mal mais elle est plombé par son moteur vraiment pas à la hauteur des Slot.It &amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>

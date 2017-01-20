@@ -10,6 +10,280 @@
     <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>LMP tests</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/10/24/lmp-tests</link>
+      <pubDate>Mon, 24 Oct 2016 14:20:09 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/10/24/lmp-tests</guid>
+      <description>&lt;p&gt;Journée test pour la catégorie LMP &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Une bonne partie des LMP s&amp;rsquo;est retrouvée sur la piste pour des premiers tests. Elles avaient chacune 20 tours sur chaque piste pour essayer de faire un temps et les pneus étaient juste nettoyés à la brosse avant les runs.&lt;/p&gt;
+
+&lt;h4 id=&#34;les-slot-it-ont-ouvert-le-bal&#34;&gt;Les Slot.It ont ouvert le bal:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/LMP_SI.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Voiture&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Marque&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 1&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Lola Aston Martin&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Slot.It&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.927&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.854&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Audi R18&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Slot.It&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.004&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.862&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Audi R18 4x4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Slot.It&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.987&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.885&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Lola Rebellion&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Slot.It&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.990&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.969&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Les performances sont assez proches et homogènes malgré les différences de configuration. L&amp;rsquo;Audi R18 non 4x4 a par exemple un berceau moteur noir (non offset).&lt;br /&gt;
+Sans surprise, la Lola Aston Martin qui marche vraiment bien fait les meilleurs juste devant l&amp;rsquo;Audi R18 4x4 qui est performante mais plus délicate à piloter (il faut changer ses habitudes &amp;hellip;).&lt;br /&gt;
+A noter que la piste 2 est légèrement plus rapide que la 1 (cela se confirmera dans la suite du test).&lt;/p&gt;
+
+&lt;h4 id=&#34;les-avant-slot-prennent-la-suite&#34;&gt;Les Avant Slot prennent la suite:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/LMP_AS.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Voiture&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Marque&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 1&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Porsche Spyder verte&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Avant Slot&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.145&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.065&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Porsche Spyder jaune R&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Avant Slot&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.181&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.070&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Audi R10&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Avant Slot&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.279&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.124&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Peugeot 908 PS&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Avant Slot&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.229&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.079&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;La 2ème Porsche Spyder jaune et la Pescarolo, qui ne sont pas encore équipées de moteurs conformes, n&amp;rsquo;ont pas roulé pendant ce test.&lt;/p&gt;
+
+&lt;p&gt;Globalement toutes les &lt;strong&gt;Avant Slot&lt;/strong&gt; sont derrières les &lt;strong&gt;Slot.It&lt;/strong&gt;, les plus rapides étant les Porsche Spyder. L&amp;rsquo;&lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/10/03/audi-r10&#34;&gt;Audi R10&lt;/a&gt; fraîchement refaite est un peu plus loin. L&amp;rsquo;écart avec les &lt;strong&gt;Slot.It&lt;/strong&gt; n&amp;rsquo;est quand même pas très important, un peu plus d&amp;rsquo;un dixième en moyenne.&lt;/p&gt;
+
+&lt;h4 id=&#34;autres-marques&#34;&gt;Autres marques:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/LMP_divers.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Voiture&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Marque&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 1&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Reynard 2KQ verte&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Spirit&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.358&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.108&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Reynard 2KQ blanche&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Sloting Plus&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.835&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.870&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Radical SR9&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Scaleauto&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.422&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.332&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;BMW V12&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Arrow Slot&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.743&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.605&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Audi R18&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;NSR&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.041&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.979&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;L&amp;rsquo;Audi R18 noire &lt;strong&gt;NSR&lt;/strong&gt; (pas sur la photo) est assez performante grâce à son moteur le King rose mais il n&amp;rsquo;est pas homologué pour cette catégorie &amp;hellip;&lt;br /&gt;
+La Reynard verte de &lt;strong&gt;Spirit&lt;/strong&gt; se débrouille encore bien malgré son âge, faut dire qu&amp;rsquo;elle est équipée du moteur Scaleauto SC-25 et de pièces racing.&lt;br /&gt;
+La surprenante Radical de &lt;strong&gt;Scaleauto&lt;/strong&gt; est un peu à la peine, mais c&amp;rsquo;est la seule de ce teste à avoir un petit moteur (le Slot.It cage orange) en ligne.&lt;br /&gt;
+La &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/10/23/bmw-v12-arrow-slot&#34;&gt;BMW V12&lt;/a&gt; de &lt;strong&gt;Arrow Slot&lt;/strong&gt; (marque absorbée par Scaleauto depuis &amp;hellip;) est à la ramasse totale, faudrait que je vois ce qui va pas, ce n&amp;rsquo;est pas normal, elle tournait bien mieux que ça avant !&lt;/p&gt;
+
+&lt;p&gt;La Reynard 2KQ &lt;strong&gt;Sloting Plus&lt;/strong&gt; a pour l&amp;rsquo;occasion chaussé des pneus &lt;strong&gt;Sideways&lt;/strong&gt; tendres pour Ninco et est donc du coup très très performante à l&amp;rsquo;aide également de son moteur SP+.&lt;/p&gt;
+
+&lt;h4 id=&#34;les-toyota-gt-one&#34;&gt;Les Toyota GT-One:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/LMP_GT1.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mes deux vénérables Toyota GT-One ont également participé au test:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Voiture&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Marque&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 1&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Toyota GT-1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Proslot&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.930&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.807&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Toyota GT-1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Scaleauto&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.089&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.038&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Si la &lt;strong&gt;Proslot&lt;/strong&gt; (encore une marque disparue &amp;hellip;) est hors du coup, la plus récente &lt;strong&gt;Scaleauto&lt;/strong&gt; est loin d&amp;rsquo;être ridicule, bien chaussée et avec son moteur bleu puissant.&lt;/p&gt;
+
+&lt;h4 id=&#34;les-décos-gulf&#34;&gt;Les décos Gulf:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/LMP_gulf.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Les trois décos &lt;em&gt;Gulf&lt;/em&gt; se sont regroupées pour la photo. La Lola Aston Martin &lt;strong&gt;Slot.it&lt;/strong&gt; a déjà roulé, reste la même chez &lt;strong&gt;Scalextric&lt;/strong&gt; (bien modifiée &amp;hellip;) et une antique Zytek de marque &lt;strong&gt;Sloter&lt;/strong&gt; (eh oui, encore une marque disparue &amp;hellip;)&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Voiture&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Marque&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 1&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Zytek&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Sloter&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.240&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.257&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Lola Aston Martin&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Scalextric&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.443&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.517&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;La Zytek (au premier plan sur la photo), marche pas trop mal. Elle est équipée d&amp;rsquo;une moteur Boxer &lt;strong&gt;Slot.It&lt;/strong&gt; cage fermée (sans magnétisme) en ligne.
+La Lola AM &lt;strong&gt;Scalextric&lt;/strong&gt;, malgré toutes mes modifs (moteur, guide, axe arrière) reste en retrait mais elle est agréable et sympa avec ses feux.&lt;/p&gt;
+
+&lt;h4 id=&#34;les-décos-club&#34;&gt;Les décos club:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/LMP_club.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Voiture&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Marque&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 1&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Piste 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Dallara&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Spirit&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;?&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Reynard 2KQ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Sloting Plus&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5.071&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4.956&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;La Dallara n&amp;rsquo;a pas encore roulé et la Reynard a été performante mais moins que la blanche qui avait de meilleurs pneus.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Test Grp_5</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/08/10/test-grp_5</link>
       <pubDate>Wed, 10 Aug 2016 16:52:09 +0200</pubDate>

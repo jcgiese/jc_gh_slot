@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/series/</link>
+    <description>Recent content in Series on JC&#39;s Slot Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>utf-8</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    
+	<atom:link href="https://jcgiese.github.io/jc_gh_slot/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,419 +1,465 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/06/30/f40-slot_it</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/10/11/megane-2-orange-ninco/</loc>
+    <lastmod>2017-10-11T11:50:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/10/05/renault-r5-scx/</loc>
+    <lastmod>2017-10-05T14:29:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/10/05/peugeot-206-scx/</loc>
+    <lastmod>2017-10-05T13:29:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/10/05/porsche-956-tic-tac/</loc>
+    <lastmod>2017-10-05T10:46:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/10/04/megane-3-rs-ninco/</loc>
+    <lastmod>2017-10-04T11:50:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/10/04/megane-introduction/</loc>
+    <lastmod>2017-10-04T11:40:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/06/30/f40-slot_it/</loc>
     <lastmod>2017-06-30T14:21:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/06/30/audi-r8-lms-scx</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/06/30/audi-r8-lms-scx/</loc>
     <lastmod>2017-06-30T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/06/22/chevron-b21-fly</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/06/22/chevron-b21-fly/</loc>
     <lastmod>2017-06-22T11:40:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/05/19/porsche-carrera-6-fly</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/05/19/porsche-carrera-6-fly/</loc>
     <lastmod>2017-05-19T11:40:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/04/28/racer</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/04/28/racer/</loc>
     <lastmod>2017-04-28T16:29:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/04/27/audi-r8-croco</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/04/27/audi-r8-croco/</loc>
     <lastmod>2017-04-27T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/04/20/mustang-pioneer</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/04/20/mustang-pioneer/</loc>
     <lastmod>2017-04-20T12:11:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/04/20/camaro-70-scalex</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/04/20/camaro-70-scalex/</loc>
     <lastmod>2017-04-20T11:11:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/28/camaro-pioneer</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/28/camaro-pioneer/</loc>
     <lastmod>2017-03-28T12:11:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/27/ferrari-312pb-sloter</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/27/ferrari-312pb-sloter/</loc>
     <lastmod>2017-03-27T11:40:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/24/plymouth-cuda</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/24/plymouth-cuda/</loc>
     <lastmod>2017-03-24T12:11:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/24/mercury-cougar</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/24/mercury-cougar/</loc>
     <lastmod>2017-03-24T11:11:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/24/dodge-challenger</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/24/dodge-challenger/</loc>
     <lastmod>2017-03-24T10:11:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/23/amc-javelin</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/23/amc-javelin/</loc>
     <lastmod>2017-03-23T11:11:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/17/golf-spirit</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/17/golf-spirit/</loc>
     <lastmod>2017-03-17T16:29:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/17/f1-modernes</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/17/f1-modernes/</loc>
     <lastmod>2017-03-17T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/16/lola-t70-mk-iii</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/16/lola-t70-mk-iii/</loc>
     <lastmod>2017-03-16T11:40:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/02/capri-chrono</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/02/capri-chrono/</loc>
     <lastmod>2017-03-02T18:29:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/02/subaru-msc</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/03/02/subaru-msc/</loc>
     <lastmod>2017-03-02T16:29:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/02/13/calibra</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/02/13/calibra/</loc>
     <lastmod>2017-02-13T17:21:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/02/05/audi-r8-lmp</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/02/05/audi-r8-lmp/</loc>
     <lastmod>2017-02-05T11:26:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/01/31/crocos</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/01/31/crocos/</loc>
     <lastmod>2017-01-31T16:29:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/01/26/fiesta</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/01/26/fiesta/</loc>
     <lastmod>2017-01-26T16:29:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2017/01/10/stratos-grp_5</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2017/01/10/stratos-grp_5/</loc>
     <lastmod>2017-01-10T16:42:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/12/22/capri-sideways</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/12/22/capri-sideways/</loc>
     <lastmod>2016-12-22T16:42:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/12/22/coffret-btcc</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/12/22/coffret-btcc/</loc>
     <lastmod>2016-12-22T11:26:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/12/14/jaguar-type-e</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/12/14/jaguar-type-e/</loc>
     <lastmod>2016-12-14T10:40:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/11/15/f1-cartrix</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/11/15/f1-cartrix/</loc>
     <lastmod>2016-11-15T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/11/14/matra-670-src</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/11/14/matra-670-src/</loc>
     <lastmod>2016-11-14T11:40:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/11/14/alfa-tz2-flyslot</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/11/14/alfa-tz2-flyslot/</loc>
     <lastmod>2016-11-14T10:40:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/11/04/renault-rs10</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/11/04/renault-rs10/</loc>
     <lastmod>2016-11-04T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/24/lmp-tests</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/24/lmp-tests/</loc>
     <lastmod>2016-10-24T14:20:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/23/bmw-v12-arrow-slot</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/23/bmw-v12-arrow-slot/</loc>
     <lastmod>2016-10-23T14:20:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/21/r5-turbo-ts</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/21/r5-turbo-ts/</loc>
     <lastmod>2016-10-21T16:29:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/21/porsche-908l-src</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/21/porsche-908l-src/</loc>
     <lastmod>2016-10-21T11:40:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/13/nissan-r89c</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/13/nissan-r89c/</loc>
     <lastmod>2016-10-13T18:46:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/13/peugeot-908</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/13/peugeot-908/</loc>
     <lastmod>2016-10-13T17:46:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/13/porsche-spyder</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/13/porsche-spyder/</loc>
     <lastmod>2016-10-13T17:26:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/13/toyota-88c</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/13/toyota-88c/</loc>
     <lastmod>2016-10-13T11:46:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/13/audi-r18</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/13/audi-r18/</loc>
     <lastmod>2016-10-13T11:26:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/11/cobra-6k-plus</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/11/cobra-6k-plus/</loc>
     <lastmod>2016-10-11T16:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/04/bmw-e30</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/04/bmw-e30/</loc>
     <lastmod>2016-10-04T11:26:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/03/audi-r10</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/03/audi-r10/</loc>
     <lastmod>2016-10-03T11:26:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/01/lola-t70-fly</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/10/01/lola-t70-fly/</loc>
     <lastmod>2016-10-01T11:40:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/09/30/porsche-917k-fly</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/09/30/porsche-917k-fly/</loc>
     <lastmod>2016-09-30T11:40:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/09/29/team-slot</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/09/29/team-slot/</loc>
     <lastmod>2016-09-29T16:29:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/09/09/c7r-carrera</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/09/09/c7r-carrera/</loc>
     <lastmod>2016-09-09T10:56:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/12/porsche-935-k2</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/12/porsche-935-k2/</loc>
     <lastmod>2016-08-12T11:46:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/12/m1-scaleauto</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/12/m1-scaleauto/</loc>
     <lastmod>2016-08-12T10:46:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/11/bentley-scalex</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/11/bentley-scalex/</loc>
     <lastmod>2016-08-11T11:29:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/11/m1-fly</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/11/m1-fly/</loc>
     <lastmod>2016-08-11T11:00:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/10/test-grp_5</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/10/test-grp_5/</loc>
     <lastmod>2016-08-10T16:52:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/08/mes-f250-gto</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/08/mes-f250-gto/</loc>
     <lastmod>2016-08-08T14:21:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/05/mercedes-c</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/05/audi-dtm-prs/</loc>
+    <lastmod>2016-08-05T17:21:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/05/mercedes-c/</loc>
     <lastmod>2016-08-05T17:21:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes_scx</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes_scx/</loc>
     <lastmod>2016-08-04T17:26:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm/</loc>
     <lastmod>2016-08-04T17:21:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes/</loc>
     <lastmod>2016-08-04T17:21:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/04/bmw-m3</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/04/bmw-m3/</loc>
     <lastmod>2016-08-04T15:18:25+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/04/porsche-991</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/04/porsche-991/</loc>
     <lastmod>2016-08-04T10:56:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/02/alfa-155</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/02/alfa-155/</loc>
     <lastmod>2016-08-02T15:16:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/02/intro-dtm</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/08/02/intro-dtm/</loc>
     <lastmod>2016-08-02T14:45:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/07/08/polor</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/07/08/polor/</loc>
     <lastmod>2016-07-08T16:29:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/07/08/rallye</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/07/08/rallye/</loc>
     <lastmod>2016-07-08T16:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/07/01/ma-piste</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/07/01/ma-piste/</loc>
     <lastmod>2016-07-01T16:19:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/07/01/mustang-3d</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/07/01/mustang-3d/</loc>
     <lastmod>2016-07-01T11:19:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/22/mercedes_sc</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/22/mercedes_sc/</loc>
     <lastmod>2016-06-22T15:51:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/21/intro</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/21/intro/</loc>
     <lastmod>2016-06-21T16:52:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/21/m1-sideways</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/21/m1-sideways/</loc>
     <lastmod>2016-06-21T16:42:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/20/f40-policar</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/20/f40-policar/</loc>
     <lastmod>2016-06-20T14:21:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/17/aston-martin</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/17/aston-martin/</loc>
     <lastmod>2016-06-17T11:26:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/16/intro</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/16/intro/</loc>
     <lastmod>2016-06-16T14:20:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/13/premier-test-s%C3%A9rieux</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/13/premier-test-s%C3%A9rieux/</loc>
     <lastmod>2016-06-13T09:38:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/10/audi-r8-scalextric</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/10/audi-r8-scalextric/</loc>
     <lastmod>2016-06-10T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/10/les-spyker-scaleauto</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/10/les-spyker-scaleauto/</loc>
     <lastmod>2016-06-10T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/02/general-lee</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/06/02/general-lee/</loc>
     <lastmod>2016-06-02T11:11:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/27/lotus-policar</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/27/lotus-policar/</loc>
     <lastmod>2016-05-27T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/26/bmw-320-sideways</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/26/bmw-320-sideways/</loc>
     <lastmod>2016-05-26T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/25/nouvelle-z4-scaleauto</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/25/nouvelle-z4-scaleauto/</loc>
     <lastmod>2016-05-25T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/23/viper-scaleauto</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/23/viper-scaleauto/</loc>
     <lastmod>2016-05-23T14:11:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/23/aston-martin-blackarrow</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/23/aston-martin-blackarrow/</loc>
     <lastmod>2016-05-23T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/22/la-z4-scalextric</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/22/la-z4-scalextric/</loc>
     <lastmod>2016-05-22T14:11:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/21/introduction</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2016/05/21/introduction/</loc>
     <lastmod>2016-05-21T14:11:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/1/01/01/</loc>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/250gto/</loc>
     <lastmod>2016-08-08T14:21:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/3d/</loc>
+    <lastmod>2017-10-05T13:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -472,13 +518,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/btcc/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/btcc/</loc>
     <lastmod>2016-12-22T11:26:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/btcc/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/btcc/</loc>
     <lastmod>2016-12-22T11:26:09+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -503,6 +549,7 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/categories/</loc>
+    <lastmod>2016-12-22T11:26:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -513,13 +560,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/classic/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/classic/</loc>
     <lastmod>2017-06-22T11:40:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/classic/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/classic/</loc>
     <lastmod>2017-06-22T11:40:09+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -537,13 +584,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/divers/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/divers/</loc>
     <lastmod>2016-10-11T16:16:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/divers/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/divers/</loc>
     <lastmod>2016-10-11T16:16:33+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -555,25 +602,25 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/dtm/</loc>
-    <lastmod>2017-02-13T17:21:10+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/dtm/</loc>
     <lastmod>2017-02-13T17:21:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/f1/</loc>
-    <lastmod>2017-03-17T14:11:03+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/dtm/</loc>
+    <lastmod>2017-02-13T17:21:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/f1/</loc>
+    <lastmod>2017-03-17T14:11:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/f1/</loc>
     <lastmod>2017-03-17T14:11:03+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -615,26 +662,26 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/grp_5/</loc>
-    <lastmod>2017-01-10T16:42:09+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/grp_5/</loc>
     <lastmod>2017-01-10T16:42:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/grp_c/</loc>
-    <lastmod>2016-10-13T18:46:58+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/grp_5/</loc>
+    <lastmod>2017-01-10T16:42:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/grp_c/</loc>
-    <lastmod>2016-10-13T18:46:58+02:00</lastmod>
+    <lastmod>2017-10-05T10:46:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/grp_c/</loc>
+    <lastmod>2017-10-05T10:46:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -652,13 +699,13 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/intro/</loc>
-    <lastmod>2016-08-02T14:45:45+02:00</lastmod>
+    <lastmod>2017-10-04T11:40:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/</loc>
-    <lastmod>2017-06-30T14:21:47+02:00</lastmod>
+    <lastmod>2017-10-11T11:50:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -681,13 +728,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/lmp/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/lmp/</loc>
     <lastmod>2017-02-05T11:26:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/lmp/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/lmp/</loc>
     <lastmod>2017-02-05T11:26:09+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -707,6 +754,18 @@
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/matra/</loc>
     <lastmod>2016-11-14T11:40:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/megane/</loc>
+    <lastmod>2017-10-11T11:50:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/megane/</loc>
+    <lastmod>2017-10-11T11:50:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -748,7 +807,7 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/ninco/</loc>
-    <lastmod>2017-02-13T17:21:10+02:00</lastmod>
+    <lastmod>2017-10-11T11:50:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -771,20 +830,20 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/open_gt/</loc>
-    <lastmod>2017-06-30T14:21:47+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/open_gt/</loc>
     <lastmod>2017-06-30T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/open_gt/</loc>
+    <lastmod>2017-06-30T14:21:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/peugeot/</loc>
-    <lastmod>2016-10-13T17:46:09+02:00</lastmod>
+    <lastmod>2017-10-05T13:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -814,25 +873,31 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/porsche/</loc>
-    <lastmod>2017-05-19T11:40:09+02:00</lastmod>
+    <lastmod>2017-10-05T10:46:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/post/</loc>
-    <lastmod>2017-06-30T14:21:47+02:00</lastmod>
+    <lastmod>2017-10-11T11:50:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/prepa/</loc>
-    <lastmod>2017-06-30T14:11:03+02:00</lastmod>
+    <lastmod>2017-10-05T14:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/presentation/</loc>
     <lastmod>2016-11-15T14:11:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/prs/</loc>
+    <lastmod>2016-08-05T17:21:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -849,13 +914,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/pr%C3%A9sentation/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/pr%C3%A9sentation/</loc>
     <lastmod>2017-04-28T16:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/pr%C3%A9sentation/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/pr%C3%A9sentation/</loc>
     <lastmod>2017-04-28T16:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -867,20 +932,20 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/rallye/</loc>
-    <lastmod>2017-03-17T16:29:49+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/rallye/</loc>
+    <lastmod>2017-10-05T14:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/rallye/</loc>
-    <lastmod>2017-03-17T16:29:49+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/rallye/</loc>
+    <lastmod>2017-10-05T14:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/renault/</loc>
-    <lastmod>2016-11-04T14:11:03+02:00</lastmod>
+    <lastmod>2017-10-05T14:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -916,7 +981,12 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/scx/</loc>
-    <lastmod>2017-06-30T14:11:03+02:00</lastmod>
+    <lastmod>2017-10-05T14:29:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/series/</loc>
     <priority>0</priority>
   </url>
   
@@ -928,13 +998,13 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/slot/</loc>
-    <lastmod>2017-06-30T14:21:47+02:00</lastmod>
+    <lastmod>2017-10-11T11:50:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/slot/index.it/</loc>
-    <lastmod>2017-06-30T14:21:47+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/slot.it/</loc>
+    <lastmod>2017-10-05T10:46:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -970,6 +1040,7 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/</loc>
+    <lastmod>2016-08-08T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   

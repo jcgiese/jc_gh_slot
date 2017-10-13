@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d on JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/tags/3d/</link>
+    <description>Recent content in 3d on JC&#39;s Slot Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>utf-8</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Thu, 05 Oct 2017 13:29:49 +0200</lastBuildDate>
+    
+	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Peugeot 206 SCX</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2017/10/05/peugeot-206-scx/</link>
+      <pubDate>Thu, 05 Oct 2017 13:29:49 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2017/10/05/peugeot-206-scx/</guid>
+      <description>&lt;p&gt;Remise à jour d&amp;rsquo;une Peugeot 206 SCX &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PoloR</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/07/08/polor/</link>
+      <pubDate>Fri, 08 Jul 2016 16:29:49 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/08/polor/</guid>
+      <description>&lt;p&gt;La PoloR Scalextric&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

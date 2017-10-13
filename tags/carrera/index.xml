@@ -2,273 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carrera on JC&#39;s Slot Blog</title>
-    <link>https://jcgiese.github.io/jc_gh_slot/tags/carrera/index.xml</link>
+    <link>https://jcgiese.github.io/jc_gh_slot/tags/carrera/</link>
     <description>Recent content in Carrera on JC&#39;s Slot Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/carrera/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Sep 2016 10:56:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/carrera/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>C7R Carrera</title>
-      <link>https://jcgiese.github.io/jc_gh_slot/2016/09/09/c7r-carrera</link>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/09/09/c7r-carrera/</link>
       <pubDate>Fri, 09 Sep 2016 10:56:18 +0200</pubDate>
       
-      <guid>https://jcgiese.github.io/jc_gh_slot/2016/09/09/c7r-carrera</guid>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/09/09/c7r-carrera/</guid>
       <description>&lt;p&gt;La Corvette C7R de Carrera &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Audi DTM PRS</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/08/05/audi-dtm-prs/</link>
+      <pubDate>Fri, 05 Aug 2016 17:21:24 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/05/audi-dtm-prs/</guid>
+      <description>&lt;p&gt;Montage d&amp;rsquo;une DTM &lt;strong&gt;Carrera&lt;/strong&gt; sur châssis 3D &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;Pour ma série Open_GT, j&amp;rsquo;ai acquis la très belle Corvette C7R &lt;strong&gt;Carrera&lt;/strong&gt;.&lt;br /&gt;
-Malheureusement, comme d&amp;rsquo;habitude avec cette marque, si la voiture est belle, elle ne roule vraiment pas bien 😞&lt;/p&gt;
-
-&lt;p&gt;Elle est très lourde, les pneus ont pas de grip, le guide et les tresses sont trop gros, le moteur est asthmatique et il n&amp;rsquo;y a aucun &lt;em&gt;tilting&lt;/em&gt; &amp;hellip;&lt;br /&gt;
-Aucun espoir d&amp;rsquo;arriver à en faire quelque chose sans employer les grands moyens !&lt;br /&gt;
-J&amp;rsquo;ai donc demandé à mon ami Sébastien de designer un châssis en impression 3D parce qu&amp;rsquo;il en avait déjà fait un pour une 458 Carrera. Quelques temps plus tard et après quelsques essais infructueux, Seb m&amp;rsquo;a livré le châssis:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/GT/C7R-1.JPG&#34; alt=&#34;le puzzle&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Il y en a deux car le premier est un peu raté et ne j&amp;rsquo;ajuste pas correctement, Seb qui est un perfectioniste en a refait un autre qui est parfait !&lt;br /&gt;
-Le châssis est prévu pour un support moteur NSR. Pour les pièces, on peut prendre du NSR ou du Slot.It, j&amp;rsquo;ai fait un mix des deux avec ce que j&amp;rsquo;avais en rab:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/GT/C7R-3.JPG&#34; alt=&#34;châssis monté&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;C&amp;rsquo;est quand même mieux que le châssis d&amp;rsquo;origine non ?&lt;/p&gt;
-
-&lt;p&gt;J&amp;rsquo;ai également fait un gros travail sur l&amp;rsquo;habitacle pour le réduire au minimum, j&amp;rsquo;ai notamment enlevé toutes les parties qui ne sont pas visibles de l&amp;rsquo;extérieur et il y en a !&lt;br /&gt;
-Le but étant de réduire le poids bien sûr.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/GT/C7R-2.JPG&#34; alt=&#34;habitacle&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;La voilà presque terminée, je n&amp;rsquo;ai pas ré-utilisé les roues d&amp;rsquo;origine car elles sont trop grandes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/GT/C7R-4.JPG&#34; alt=&#34;fin&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;sur-la-piste&#34;&gt;Sur la piste&lt;/h4&gt;
-
-&lt;p&gt;Pour le moment elle n&amp;rsquo;est pas encore au point, il faut aussi que je me procure d&amp;rsquo;autres vis pour obtenir un peu de &lt;em&gt;tilting&lt;/em&gt; car elle est beaucoup trop raide !&lt;/p&gt;
-
-&lt;p&gt;J&amp;rsquo;ai mis des vis métriques &lt;strong&gt;Slot.It&lt;/strong&gt; spéciales &lt;strong&gt;Carrera&lt;/strong&gt; (vis plus grosses) ref. CH89 mais je n&amp;rsquo;obtiens pas énormément de &lt;em&gt;tilting&lt;/em&gt; en plus.&lt;br /&gt;
-Tant pis, elle restera comme cela et elle marche quand même beaucoup mieux qu&amp;rsquo;à l&amp;rsquo;origine 😄&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/CR7-5.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Merco et BM</title>
-      <link>https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm</link>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm/</link>
       <pubDate>Thu, 04 Aug 2016 17:21:24 +0200</pubDate>
       
-      <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm</guid>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm/</guid>
       <description>&lt;p&gt;Montage des DTM &lt;strong&gt;Carrera&lt;/strong&gt; sur châssis 3D &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Comme je le disais dans &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/08/02/intro-dtm&#34;&gt;l&amp;rsquo;introduction&lt;/a&gt; sur les DTM, l&amp;rsquo;idée c&amp;rsquo;est de monter des châssis en impression 3D sous les carrosseries des &lt;strong&gt;Carrera&lt;/strong&gt;. En effet les DTM &lt;strong&gt;Carrera&lt;/strong&gt; sont très belles mais absolument désastreuses sur la piste (sans aimant bien sûr).&lt;/p&gt;
-
-&lt;p&gt;Pour ces premiers montages, j&amp;rsquo;ai utilisé des châssis conçus par &lt;strong&gt;Slot.It&lt;/strong&gt; et vendu par la plate-forme hollandais &lt;strong&gt;Shapeways&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ces châssis, fabriqués en impression 3D, sont prévus pour se monter sans soucis sous les carrosseries Carrera et recevoir toutes les pièces standard Slot.It (berceau moteur, guide, transmission etc &amp;hellip;).
-L&amp;rsquo;idée est très intéressante, les châssis Carrera sont en effet lourds et inefficaces sur la piste !
-Par contre cela revient assez cher, il faut en effet commander le châssis directement chez Shapeways en Hollande, puis acheter une multitude de pièces si on veut une auto performante &amp;hellip;.&lt;/p&gt;
-
-&lt;p&gt;J&amp;rsquo;ai commandé deux châssis :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;un noir &lt;em&gt;brut&lt;/em&gt; pour la BMW&lt;/li&gt;
-&lt;li&gt;un blanc poli pour la Mercedes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sans surprise, au bout du délai annoncé (une dizaine de jours) j&amp;rsquo;ai reçu les châssis :&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/s/qru9zla3idql488/chassis_nus.JPG?dl=0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Le service est top et les châssis sont bien réalisés. Comme prévu le noir est un peu &lt;em&gt;granuleux&lt;/em&gt; alors que le blanc est plus lisse.
-Je rappelle qu&amp;rsquo;une des particularités des DTM Carrera, c&amp;rsquo;est qu&amp;rsquo;une partie de la carrosserie (les bas de flancs) est fixée sur le châssis , Slot.it a choisi de reproduire cette partie sur leur châssis en 3D, on verra plus tard ce que ça implique &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/s/1r74u0jeumxuhli/blanc_mont%C3%A9.JPG?dl=0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sur cette photo, on voit le châssis d&amp;rsquo;origine (avec les flancs de carrosserie) à coté du nouveau châssis équipé de sa mécanique.
-Comme on peut le voir j&amp;rsquo;ai choisi pour ce montage de ne récupérer aucune pièce d&amp;rsquo;origine ! On peut bien sûr faire différemment.&lt;/p&gt;
-
-&lt;p&gt;Mon montage:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;support moteur en angle demi-offset Slot.It&lt;/li&gt;
-&lt;li&gt;moteur Slot.It Flat 6S coté non aimanté en dessous&lt;/li&gt;
-&lt;li&gt;pignon MB Slot de 11 dents&lt;/li&gt;
-&lt;li&gt;couronne Sloting Plus rouge de 31 dents&lt;/li&gt;
-&lt;li&gt;roues alu Sloting Plus de 17 pouces&lt;/li&gt;
-&lt;li&gt;pneus BRM shore 22 de 20x11&lt;/li&gt;
-&lt;li&gt;fils souples Sloting Plus&lt;/li&gt;
-&lt;li&gt;roues avant alu Sloting Plus de 17 pouces&lt;/li&gt;
-&lt;li&gt;pneus avant fins&lt;/li&gt;
-&lt;li&gt;guide LMP Slot.It (le châssis est prévu uniquement pour ce guide)&lt;/li&gt;
-&lt;li&gt;tresses fines NSR&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;J&amp;rsquo;ai choisi ces pièces pour deux raisons, d&amp;rsquo;abord parce que ce sont que des pièces de très bonne qualité et ensuite parce que je les avais en stock :)&lt;/p&gt;
-
-&lt;p&gt;Aucun soucis au montage, y a juste que j&amp;rsquo;aime pas trop le guide LMP choisi par Slot.It. C&amp;rsquo;est pas facile pour y mettre les tresses et je trouve ce choix bizarre vu qu&amp;rsquo;il y a largement la place sous la carrosserie pour un guide normal ? Peut-être que le puits de guide particulier pour ce modèle est plus facile ou plus solide en impression 3D ??&lt;/p&gt;
-
-&lt;p&gt;Le châssis de la BMW a été monté à l&amp;rsquo;identique:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/s/1mf0s1zey64ybda/chassis_noir.JPG?dl=0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Côte à côte:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/s/tw9zvlngg956lwd/2_chassis.JPG?dl=0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;#####Soucis esthétiques&lt;/p&gt;
-
-&lt;p&gt;On le voit mieux sur la Mercedes, les bas de carrosserie bruts des châssis 3D c&amp;rsquo;est pas le top ! :(&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/s/k0cbae55766wq6r/deux.JPG?dl=0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Il y a deux solutions à ce problème:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;peindre les châssis 3D&lt;/li&gt;
-&lt;li&gt;récupérer les flancs sur le châssis d&amp;rsquo;origine et les coller à la carrosserie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;La 2ème solution est celle qu&amp;rsquo;on est obligé d&amp;rsquo;utiliser avec les châssis PRS. Cette fois j&amp;rsquo;ai pas voulu utiliser cette solution de peur que ça ne fragilise la voiture. Il faut en effet couper une partie du châssis 3D dans cette solution&lt;/p&gt;
-
-&lt;p&gt;Peinture donc !
-Ceux qui me connaissent, savent que c&amp;rsquo;est pas mon truc la peinture ! Heureusement ma copine a fait le boulot pour moi et plutôt pas mal (certes les photos de près montrent des défauts mais sur la piste c&amp;rsquo;est tout à fait acceptable). Elle a même reproduit le logo BMW à la main !&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/s/o9ktgobzp2o6k9e/2_peintes.JPG?dl=0&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://dl.dropboxusercontent.com/s/ft5k4plwuoyyzbs/2_peintes-2.JPG?dl=0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pour fignoler un peu plus, il faudrait que je fasse des inserts pour les roues alu mais c&amp;rsquo;est assez long et délicat &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;#####Les tests en piste&lt;/p&gt;
-
-&lt;p&gt;Il est temps maintenant de voir ce que ça donne en piste ! J&amp;rsquo;ai quand même lubrifié un peu les paliers arrières et mis de la graisse sur la transmission avant de les mettre sur la piste.
-Pour comparer, j&amp;rsquo;ai d&amp;rsquo;abord fait tourner la Mercedes avec son châssis d&amp;rsquo;origine (sans aimant).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Châssis d&amp;rsquo;origine :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Seule la Mercedes a tourné dans cette config. Les temps sont autour de 5 sec 900. Un &lt;em&gt;bon&lt;/em&gt; tour sur ma piste c&amp;rsquo;est 5 sec ou moins , c&amp;rsquo;est donc pas terrible du tout !
-La voiture est assez agréable quand même, elle fait pas de bruit, ne sort pas mais on sent qu&amp;rsquo;elle est lourde et que le petit moteur Carrera est à la peine. Les pneus n&amp;rsquo;ont pas beaucoup de grip et limitent également les perfs. La voiture est quand même molle 😞&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Châssis Slot.It :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;La voiture est beaucoup plus vive ! On retrouve les sensations d&amp;rsquo;une voiture de slot de Slot.It, il y a quand même du poids en plus et les DTM sont assez grosses. Résultat, on est très proche des 5 sec (5.080 pour la BMW et 5.125 pour la Mercedes), mais difficile de descendre en dessous. Je m&amp;rsquo;attendais à un peu mieux mais c&amp;rsquo;est surtout le plaisir de pilotage qui est top. La BMW marche un peu mieux que la Mercedes chez moi, je sais pas si c&amp;rsquo;est un problème de réglages ou autre ? Y a quand même un peu plus de poids à l&amp;rsquo;arrière de la Mercedes.&lt;/p&gt;
-
-&lt;p&gt;#####Conclusions&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/s/nyag7433omvjz6q/3_dtm.JPG?dl=0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Le montage des châssis Slot.It est simple et facile mais il faudra un peu de peinture pour avoir un meilleur rendu. Après conversion, on obtient une voiture très agréable et performante sur la piste mais le prix à payer est assez élevé :(
-L&amp;rsquo;idéal serait quand même que &lt;strong&gt;Carrera&lt;/strong&gt; munisse d&amp;rsquo;origine ses voitures d&amp;rsquo;un châssis et d&amp;rsquo;une mécanique performantes &amp;hellip;
-En tout cas l&amp;rsquo;initiative de &lt;strong&gt;Slot.It&lt;/strong&gt; est intéressante et je pense qu&amp;rsquo;ils feront d&amp;rsquo;autres châssis de ce type pour d&amp;rsquo;autres voitures &amp;hellip; (des Scalex par ex.)&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Mercedes</title>
-      <link>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes</link>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes/</link>
       <pubDate>Thu, 04 Aug 2016 17:21:10 +0200</pubDate>
       
-      <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes</guid>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes/</guid>
       <description>&lt;p&gt;Une autre Mercedes DTM &lt;strong&gt;Carrera&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Après les deux premières (cf &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm&#34;&gt;ici&lt;/a&gt;), un autre montage d&amp;rsquo;une Mercedes &lt;strong&gt;Carrera&lt;/strong&gt; DTM sur un châssis 3D &lt;strong&gt;Slot.It&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/DTM/chassis_Mercedes_DTM_Carrera.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Comme on peut le voir sur la photo, j&amp;rsquo;ai allégé au maximum l&amp;rsquo;habitacle en mettant du carton de récupération.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/DTM/chassis_Merc_DTM_orange.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Comme sur les deux autres, les bas de caisse du châssis ont été peint pour donner l&amp;rsquo;illusion.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/DTM/Merc_DTM_orange.JPG&#34; alt=&#34;La voiture terminée&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cette fois ci j&amp;rsquo;ai ré-utilisé les roues avant d&amp;rsquo;origine et j&amp;rsquo;ai fabriqué des inserts pour les roues arrières, c&amp;rsquo;est mieux !&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>BMW M3</title>
-      <link>https://jcgiese.github.io/jc_gh_slot/2016/08/04/bmw-m3</link>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/08/04/bmw-m3/</link>
       <pubDate>Thu, 04 Aug 2016 15:18:25 +0200</pubDate>
       
-      <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/04/bmw-m3</guid>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/04/bmw-m3/</guid>
       <description>&lt;p&gt;Les BMW M3 DTM de Carrera &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;les-bmw-m3-dtm-de-carrera&#34;&gt;Les BMW M3 DTM de Carrera&lt;/h2&gt;
-
-&lt;h3 id=&#34;la-noire-rappel&#34;&gt;La noire (rappel)&lt;/h3&gt;
-
-&lt;p&gt;Suite au montage de la noire sur un châssis &lt;strong&gt;Slot.It&lt;/strong&gt; (cf &lt;a href=&#34;https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm&#34;&gt;ici&lt;/a&gt;), je lui ai changé le moteur, en mettant un cage longue &lt;strong&gt;PRS&lt;/strong&gt; beaucoup plus coupleux que les Flat6 &lt;strong&gt;Slot.It&lt;/strong&gt;. La voiture étant lourde, un moteur coupleux aide beaucoup &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/DTM/BMW_Carrera_noire.jpg&#34; alt=&#34;La noire&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/DTM/chassis_BM_noire.jpg&#34; alt=&#34;châssis de la noire&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;la-blanche&#34;&gt;La blanche&lt;/h3&gt;
-
-&lt;p&gt;Pour la blanche, j&amp;rsquo;ai décidé d&amp;rsquo;utiliser un châssis &lt;strong&gt;Sloting Plus&lt;/strong&gt; plutôt qu&amp;rsquo;un &lt;strong&gt;Slot.It&lt;/strong&gt;.&lt;br /&gt;
-J&amp;rsquo;ai aussi fait différemment au niveau des bas de caisse. Cette fois j&amp;rsquo;ai récupéré ceux d&amp;rsquo;origine que j&amp;rsquo;ai collés au reste de la carrosserie et j&amp;rsquo;ai enlevé cette partie du châssis 3D. C&amp;rsquo;est plus de travail mais plus joli.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/DTM/BM_blanche_en_cours.jpg&#34; alt=&#34;la blanche en cours&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ce châssis utilise des pièces &lt;strong&gt;NSR&lt;/strong&gt; et pas &lt;strong&gt;Slot.It&lt;/strong&gt;, cela ne change pas énormément.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/DTM/chassis_2_BM.jpg&#34; alt=&#34;les deux châssis&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Comme pour la noire, j&amp;rsquo;ai d&amp;rsquo;abord testé avec un moteur Flat6 mais là aussi, la voiture restant lourde, j&amp;rsquo;ai préféré monter un &lt;strong&gt;PRS&lt;/strong&gt; (équivalent d&amp;rsquo;un &lt;strong&gt;NSR&lt;/strong&gt; rose).&lt;/p&gt;
-
-&lt;p&gt;Avec des inserts pour que ce soit plus ésthétique:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/DTM/BM_blanche_finale.jpg&#34; alt=&#34;La blanche finie&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Au final ces deux BM roulent beaucoup mieux qu&amp;rsquo;à l&amp;rsquo;origine mais elles restent un peu lourdes et raides (pas de &lt;em&gt;tilting&lt;/em&gt;). Elles sont quand même très plaisantes à piloter mais au niveau des performances elles sont en dessous des SCX (lien).&lt;/p&gt;
-
-&lt;hr /&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ma piste</title>
-      <link>https://jcgiese.github.io/jc_gh_slot/2016/07/01/ma-piste</link>
+      <link>https://jcgiese.github.io/jc_gh_slot/2016/07/01/ma-piste/</link>
       <pubDate>Fri, 01 Jul 2016 16:19:28 +0200</pubDate>
       
-      <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/01/ma-piste</guid>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/01/ma-piste/</guid>
       <description>&lt;p&gt;Présentation de ma piste&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Voilà une courte présentation de ma piste. Il s&amp;rsquo;agit d&amp;rsquo;une piste Carrera (donc large et lisse) peinte en gris (pour mieux voir les voitures noires &amp;hellip;). Il y a un pont pour faire un 8 et égaliser les deux pistes (c&amp;rsquo;est mieux pour les &lt;em&gt;arsouilles&lt;/em&gt; :-))&lt;/p&gt;
-
-&lt;p&gt;La piste est agréable et fluide, pas de très grande difficultés (pratique pour les débutants) à part le freinage au bout de la montée.&lt;br /&gt;
-Il y a des bordures partout où il faut, pas de risque de taper les barrières.&lt;br /&gt;
-Avec des pneus qui vont bien (BRM shore 22 par ex.), pas de soucis de grip à condition de ne pas avoir trop de poussière qui est l&amp;rsquo;ennemi des pistes lisses.&lt;/p&gt;
-
-&lt;p&gt;C&amp;rsquo;est quand même très agréable une piste bien plane (je hais le &lt;strong&gt;Ninco&lt;/strong&gt; &amp;hellip;)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/piste_gauche.jpg&#34; alt=&#34;La partie gauche&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/piste_milieu.jpg&#34; alt=&#34;Le milieu&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/piste_droite.jpg&#34; alt=&#34;La partie droite&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Au niveau des temps, les meilleures voitures (sans aimant bien sûr) descendent sous les 5 sec (4.700-4.800 selon l&amp;rsquo;état de la piste).&lt;/p&gt;
-
-&lt;p&gt;La déco est assez minime, c&amp;rsquo;est pas trop mon truc &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;J&amp;rsquo;utilise une alim de labo régulée avec deux sorties indépendantes, le top:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/alim.JPG&#34; alt=&#34;L&#39;alim&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pour les poignées, j&amp;rsquo;utilise depuis plus de 10 ans des électroniques comme cette &lt;strong&gt;MB Slot&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jcgiese.github.io/jc_gh_slot/img/poignee_MB.jpg&#34; alt=&#34;Une des poignées&#34; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

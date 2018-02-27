@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Wed, 11 Oct 2017 11:50:09 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2017 10:50:09 +0200</lastBuildDate>
     
 	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/megane/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reglement</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2017/10/27/reglement/</link>
+      <pubDate>Fri, 27 Oct 2017 10:50:09 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2017/10/27/reglement/</guid>
+      <description>&lt;p&gt;Nouveau règlement &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Megane 2 Orange Ninco</title>
@@ -19,6 +30,17 @@
       
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/10/11/megane-2-orange-ninco/</guid>
       <description>&lt;p&gt;Megane 2 RS orange  &lt;strong&gt;Ninco&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Megane 2 Gordon Ninco</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2017/10/04/megane-2-gordon-ninco/</link>
+      <pubDate>Wed, 04 Oct 2017 11:50:09 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2017/10/04/megane-2-gordon-ninco/</guid>
+      <description>&lt;p&gt;Megane 2 Gordon &lt;strong&gt;Ninco&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on JC&#39;s Slot Blog</title>
+    <link>https://jcgiese.github.io/jc_gh_slot/categories/courses/</link>
+    <description>Recent content in Courses on JC&#39;s Slot Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>utf-8</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Tue, 16 Jan 2018 14:21:47 +0200</lastBuildDate>
+    
+	<atom:link href="https://jcgiese.github.io/jc_gh_slot/categories/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Essais Classic</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2018/01/16/essais-classic/</link>
+      <pubDate>Tue, 16 Jan 2018 14:21:47 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/2018/01/16/essais-classic/</guid>
+      <description>&lt;p&gt;Premiers essais 2018 en Classic &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

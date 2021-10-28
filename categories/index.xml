@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Thu, 22 Dec 2016 11:26:09 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jun 2021 14:21:47 +0200</lastBuildDate>
     
 	<atom:link href="https://jcgiese.github.io/jc_gh_slot/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1/24</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/categories/1/24/</link>
+      <pubDate>Mon, 28 Jun 2021 14:21:47 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/categories/1/24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Btcc</title>
@@ -24,7 +33,7 @@
     <item>
       <title>Classic</title>
       <link>https://jcgiese.github.io/jc_gh_slot/categories/classic/</link>
-      <pubDate>Wed, 03 Feb 2021 11:46:58 +0200</pubDate>
+      <pubDate>Fri, 08 Oct 2021 11:46:58 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/categories/classic/</guid>
       <description></description>
@@ -60,7 +69,7 @@
     <item>
       <title>F1</title>
       <link>https://jcgiese.github.io/jc_gh_slot/categories/f1/</link>
-      <pubDate>Tue, 13 Mar 2018 16:11:03 +0200</pubDate>
+      <pubDate>Mon, 26 Apr 2021 18:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/categories/f1/</guid>
       <description></description>
@@ -87,7 +96,7 @@
     <item>
       <title>Lmp</title>
       <link>https://jcgiese.github.io/jc_gh_slot/categories/lmp/</link>
-      <pubDate>Thu, 11 Jul 2019 17:46:09 +0200</pubDate>
+      <pubDate>Thu, 25 Mar 2021 11:26:09 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/categories/lmp/</guid>
       <description></description>
@@ -114,7 +123,7 @@
     <item>
       <title>Open_gt</title>
       <link>https://jcgiese.github.io/jc_gh_slot/categories/open_gt/</link>
-      <pubDate>Mon, 01 Mar 2021 14:11:03 +0200</pubDate>
+      <pubDate>Mon, 25 Oct 2021 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/categories/open_gt/</guid>
       <description></description>

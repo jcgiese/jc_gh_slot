@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Mon, 28 Jun 2021 14:21:47 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2023 14:21:47 +0200</lastBuildDate>
     
 	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>1/24</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/1/24/</link>
-      <pubDate>Mon, 28 Jun 2021 14:21:47 +0200</pubDate>
+      <pubDate>Fri, 20 Oct 2023 14:21:47 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/1/24/</guid>
       <description></description>
@@ -36,6 +36,15 @@
       <pubDate>Tue, 05 Jan 2021 11:00:28 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abarth</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/tags/abarth/</link>
+      <pubDate>Fri, 20 Oct 2023 14:21:47 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/tags/abarth/</guid>
       <description></description>
     </item>
     
@@ -141,7 +150,7 @@
     <item>
       <title>Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/avant-slot/</link>
-      <pubDate>Wed, 17 Aug 2022 10:40:09 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2023 16:29:49 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/avant-slot/</guid>
       <description></description>
@@ -168,7 +177,7 @@
     <item>
       <title>Brm</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/brm/</link>
-      <pubDate>Thu, 20 Oct 2022 14:11:03 +0200</pubDate>
+      <pubDate>Fri, 20 Oct 2023 14:21:47 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/brm/</guid>
       <description></description>
@@ -240,7 +249,7 @@
     <item>
       <title>Classic</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/classic/</link>
-      <pubDate>Thu, 30 Mar 2023 14:11:03 +0200</pubDate>
+      <pubDate>Sun, 30 Jul 2023 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/classic/</guid>
       <description></description>
@@ -258,7 +267,7 @@
     <item>
       <title>Corvette</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/corvette/</link>
-      <pubDate>Tue, 31 May 2022 14:21:47 +0200</pubDate>
+      <pubDate>Sun, 17 Sep 2023 10:40:09 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/corvette/</guid>
       <description></description>
@@ -303,7 +312,7 @@
     <item>
       <title>Dtm</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/dtm/</link>
-      <pubDate>Thu, 11 Mar 2021 17:21:10 +0200</pubDate>
+      <pubDate>Wed, 30 Nov 2022 17:21:10 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/dtm/</guid>
       <description></description>
@@ -312,7 +321,7 @@
     <item>
       <title>F1</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/f1/</link>
-      <pubDate>Thu, 30 Mar 2023 14:11:03 +0200</pubDate>
+      <pubDate>Sun, 30 Jul 2023 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/f1/</guid>
       <description></description>
@@ -330,7 +339,7 @@
     <item>
       <title>Ferrari</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/ferrari/</link>
-      <pubDate>Mon, 20 Feb 2023 11:40:09 +0200</pubDate>
+      <pubDate>Sun, 30 Jul 2023 14:11:03 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/ferrari/</guid>
       <description></description>
@@ -625,6 +634,15 @@
     </item>
     
     <item>
+      <title>Muscle</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/tags/muscle/</link>
+      <pubDate>Sat, 20 Aug 2022 14:21:47 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/tags/muscle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mustang</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/mustang/</link>
       <pubDate>Mon, 13 Feb 2023 11:11:10 +0200</pubDate>
@@ -645,7 +663,7 @@
     <item>
       <title>Nissan</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/nissan/</link>
-      <pubDate>Thu, 11 Mar 2021 17:21:10 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2023 16:29:49 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/nissan/</guid>
       <description></description>
@@ -679,6 +697,15 @@
     </item>
     
     <item>
+      <title>Nsu</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/tags/nsu/</link>
+      <pubDate>Sat, 20 Nov 2021 14:21:47 +0200</pubDate>
+      
+      <guid>https://jcgiese.github.io/jc_gh_slot/tags/nsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Old</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/old/</link>
       <pubDate>Tue, 13 Apr 2021 18:11:03 +0200</pubDate>
@@ -699,7 +726,7 @@
     <item>
       <title>Open_gt</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/open_gt/</link>
-      <pubDate>Sun, 11 Jun 2023 14:21:47 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2023 14:21:47 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/open_gt/</guid>
       <description></description>
@@ -762,7 +789,7 @@
     <item>
       <title>Porsche</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/porsche/</link>
-      <pubDate>Wed, 02 Nov 2022 10:40:09 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2023 14:21:47 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/porsche/</guid>
       <description></description>
@@ -825,7 +852,7 @@
     <item>
       <title>Rallye</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/rallye/</link>
-      <pubDate>Sat, 01 Jul 2023 16:29:49 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2023 16:29:49 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/rallye/</guid>
       <description></description>
@@ -852,7 +879,7 @@
     <item>
       <title>Revoslot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/revoslot/</link>
-      <pubDate>Wed, 21 Sep 2022 14:21:47 +0200</pubDate>
+      <pubDate>Sun, 17 Sep 2023 10:40:09 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/revoslot/</guid>
       <description></description>
@@ -888,7 +915,7 @@
     <item>
       <title>Scalextric</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/scalextric/</link>
-      <pubDate>Wed, 23 Nov 2022 16:29:49 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2023 14:21:47 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/scalextric/</guid>
       <description></description>
@@ -924,7 +951,7 @@
     <item>
       <title>Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/tags/slot/</link>
-      <pubDate>Sat, 01 Jul 2023 16:29:49 +0200</pubDate>
+      <pubDate>Fri, 20 Oct 2023 14:21:47 +0200</pubDate>
       
       <guid>https://jcgiese.github.io/jc_gh_slot/tags/slot/</guid>
       <description></description>

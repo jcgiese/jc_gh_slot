@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2025/01/10/toyota-yaris-scx/</loc>
+    <lastmod>2025-01-10T16:29:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/2024/12/15/porsche-962c/</loc>
+    <lastmod>2024-12-15T11:46:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/2024/12/05/audi-r8-lms-slot.it/</loc>
     <lastmod>2024-12-05T14:21:47+02:00</lastmod>
   </url>
@@ -1303,13 +1313,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/1/24/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/1/24/</loc>
     <lastmod>2023-10-20T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/1/24/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/1/24/</loc>
     <lastmod>2023-10-20T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1429,13 +1439,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/btcc/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/btcc/</loc>
     <lastmod>2016-12-22T11:26:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/btcc/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/btcc/</loc>
     <lastmod>2016-12-22T11:26:09+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1489,14 +1499,14 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/classic/</loc>
-    <lastmod>2024-08-04T11:46:58+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/classic/</loc>
+    <lastmod>2024-11-21T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/classic/</loc>
-    <lastmod>2024-11-21T14:21:47+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/classic/</loc>
+    <lastmod>2024-08-04T11:46:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1519,13 +1529,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/courses/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/courses/</loc>
     <lastmod>2024-11-21T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/courses/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/courses/</loc>
     <lastmod>2024-11-21T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1537,13 +1547,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/divers/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/divers/</loc>
     <lastmod>2021-03-13T16:16:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/divers/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/divers/</loc>
     <lastmod>2021-03-13T16:16:33+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1555,25 +1565,25 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/dtm/</loc>
-    <lastmod>2024-12-03T15:16:53+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/dtm/</loc>
     <lastmod>2024-12-03T15:16:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/f1/</loc>
-    <lastmod>2024-09-11T16:29:49+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/dtm/</loc>
+    <lastmod>2024-12-03T15:16:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/f1/</loc>
+    <lastmod>2024-09-11T16:29:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/f1/</loc>
     <lastmod>2024-09-11T16:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1633,20 +1643,14 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/grp_2/</loc>
-    <lastmod>2024-02-09T14:21:47+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/grp_2/</loc>
     <lastmod>2024-02-09T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/grp_5/</loc>
-    <lastmod>2024-09-12T16:42:09+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/grp_2/</loc>
+    <lastmod>2024-02-09T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1657,14 +1661,20 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/grp_c/</loc>
-    <lastmod>2023-02-20T11:46:58+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/grp_5/</loc>
+    <lastmod>2024-09-12T16:42:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/grp_c/</loc>
-    <lastmod>2023-02-20T11:46:58+02:00</lastmod>
+    <lastmod>2024-12-15T11:46:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/grp_c/</loc>
+    <lastmod>2024-12-15T11:46:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1681,13 +1691,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/hypercar/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/hypercar/</loc>
     <lastmod>2024-10-23T17:46:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/hypercar/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/hypercar/</loc>
     <lastmod>2024-10-23T17:46:09+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1706,7 +1716,7 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/</loc>
-    <lastmod>2024-12-05T14:21:47+02:00</lastmod>
+    <lastmod>2025-01-10T16:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1747,13 +1757,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/lmp/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/lmp/</loc>
     <lastmod>2024-01-04T17:46:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/lmp/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/lmp/</loc>
     <lastmod>2024-01-04T17:46:09+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1801,14 +1811,14 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/megane/</loc>
-    <lastmod>2017-10-11T11:50:09+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/megane/</loc>
+    <lastmod>2017-10-27T10:50:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/megane/</loc>
-    <lastmod>2017-10-27T10:50:09+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/megane/</loc>
+    <lastmod>2017-10-11T11:50:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1915,13 +1925,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/open_gt/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/open_gt/</loc>
     <lastmod>2024-12-05T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/open_gt/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/open_gt/</loc>
     <lastmod>2024-12-05T14:21:47+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1970,13 +1980,13 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/porsche/</loc>
-    <lastmod>2024-10-23T17:46:09+02:00</lastmod>
+    <lastmod>2024-12-15T11:46:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/post/</loc>
-    <lastmod>2024-12-05T14:21:47+02:00</lastmod>
+    <lastmod>2025-01-10T16:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2011,13 +2021,13 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/pr%C3%A9sentation/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/pr%C3%A9sentation/</loc>
     <lastmod>2024-06-05T11:00:28+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/pr%C3%A9sentation/</loc>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/pr%C3%A9sentation/</loc>
     <lastmod>2024-06-05T11:00:28+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2029,14 +2039,14 @@
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/categories/rallye/</loc>
-    <lastmod>2024-11-09T16:29:49+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/tags/rallye/</loc>
+    <lastmod>2025-01-10T16:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcgiese.github.io/jc_gh_slot/tags/rallye/</loc>
-    <lastmod>2024-11-09T16:29:49+02:00</lastmod>
+    <loc>https://jcgiese.github.io/jc_gh_slot/categories/rallye/</loc>
+    <lastmod>2025-01-10T16:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2084,7 +2094,7 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/scx/</loc>
-    <lastmod>2024-11-09T16:29:49+02:00</lastmod>
+    <lastmod>2025-01-10T16:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2107,13 +2117,13 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/slot/</loc>
-    <lastmod>2024-12-05T14:21:47+02:00</lastmod>
+    <lastmod>2025-01-10T16:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/slot.it/</loc>
-    <lastmod>2024-12-05T14:21:47+02:00</lastmod>
+    <lastmod>2024-12-15T11:46:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2173,7 +2183,7 @@
   
   <url>
     <loc>https://jcgiese.github.io/jc_gh_slot/tags/toyota/</loc>
-    <lastmod>2022-05-30T17:46:09+02:00</lastmod>
+    <lastmod>2025-01-10T16:29:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   

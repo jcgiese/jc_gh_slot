@@ -1,65 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alfa on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/alfa/</link>
     <description>Recent content in Alfa on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Tue, 03 Dec 2024 15:16:53 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/alfa/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/alfa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alfa 155 McDo Slot.It</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/12/03/alfa-155-mcdo-slot.it/</link>
       <pubDate>Tue, 03 Dec 2024 15:16:53 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/12/03/alfa-155-mcdo-slot.it/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
-    
     <item>
       <title>Alfa GTA Revoslot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/07/21/alfa-gta-revoslot/</link>
       <pubDate>Thu, 21 Jul 2022 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/07/21/alfa-gta-revoslot/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;Alfa GTA n.93 &lt;strong&gt;Revoslot&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;L&amp;rsquo;Alfa GTA n.93 &lt;strong&gt;Revoslot&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Alfa 155 1996 Slot.It</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2020/02/07/alfa-155-1996-slot.it/</link>
       <pubDate>Fri, 07 Feb 2020 15:16:53 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2020/02/07/alfa-155-1996-slot.it/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
-    
     <item>
       <title>Alfa TZ2 FlySlot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/11/14/alfa-tz2-flyslot/</link>
       <pubDate>Mon, 14 Nov 2016 10:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/11/14/alfa-tz2-flyslot/</guid>
-      <description>&lt;p&gt;Alfa TZ2 &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Alfa TZ2 &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Alfa 155 1993 Slot.It</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/08/02/alfa-155-1993-slot.it/</link>
       <pubDate>Tue, 02 Aug 2016 15:16:53 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/02/alfa-155-1993-slot.it/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
-    
   </channel>
 </rss>

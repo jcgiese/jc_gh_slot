@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tyrell on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/tyrell/</link>
     <description>Recent content in Tyrell on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Fri, 03 May 2024 14:11:03 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/tyrell/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/tyrell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tyrell P34 Scalextric</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/05/03/tyrell-p34-scalextric/</link>
       <pubDate>Fri, 03 May 2024 14:11:03 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/05/03/tyrell-p34-scalextric/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
-    
   </channel>
 </rss>

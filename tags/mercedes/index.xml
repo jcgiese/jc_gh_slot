@@ -1,161 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mercedes on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/mercedes/</link>
     <description>Recent content in Mercedes on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Fri, 15 Nov 2024 17:21:10 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/mercedes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/mercedes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les Mercedes 190C Slot.It</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/11/15/les-mercedes-190c-slot.it/</link>
       <pubDate>Fri, 15 Nov 2024 17:21:10 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/11/15/les-mercedes-190c-slot.it/</guid>
-      <description>&lt;p&gt;Les Mercedes 190C &lt;strong&gt;Slot.It&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Les Mercedes 190C &lt;strong&gt;Slot.It&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes AMG GT3 rose NSR</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2023/03/07/mercedes-amg-gt3-rose-nsr/</link>
       <pubDate>Tue, 07 Mar 2023 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2023/03/07/mercedes-amg-gt3-rose-nsr/</guid>
-      <description>&lt;p&gt;La Mercedes AMG GT3 rose du Nürburgring &lt;strong&gt;NSR&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Mercedes AMG GT3 rose du Nürburgring &lt;strong&gt;NSR&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes GT3 Slot Festival Scaleauto</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2023/02/18/mercedes-gt3-slot-festival-scaleauto/</link>
       <pubDate>Sat, 18 Feb 2023 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2023/02/18/mercedes-gt3-slot-festival-scaleauto/</guid>
-      <description>&lt;p&gt;La Mercedes GT3 Slot Festival &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Mercedes GT3 Slot Festival &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes CLK-GTR Revoslot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/01/17/mercedes-clk-gtr-revoslot/</link>
       <pubDate>Mon, 17 Jan 2022 10:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/01/17/mercedes-clk-gtr-revoslot/</guid>
-      <description>&lt;p&gt;Mercedes CLK-GTR Revoslot &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mercedes CLK-GTR Revoslot &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes 190E Slot.It</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/12/21/mercedes-190e-slot.it/</link>
       <pubDate>Sat, 21 Dec 2019 17:21:10 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/12/21/mercedes-190e-slot.it/</guid>
-      <description>&lt;p&gt;La Mercedes 190E &lt;strong&gt;Slot.It&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Mercedes 190E &lt;strong&gt;Slot.It&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes AMG GT3 Scaleauto</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/06/18/mercedes-amg-gt3-scaleauto/</link>
       <pubDate>Tue, 18 Jun 2019 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/06/18/mercedes-amg-gt3-scaleauto/</guid>
-      <description>&lt;p&gt;La Mercedes AMG GT3 &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Mercedes AMG GT3 &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes AMG GT3 NSR</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/05/23/mercedes-amg-gt3-nsr/</link>
       <pubDate>Thu, 23 May 2019 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/05/23/mercedes-amg-gt3-nsr/</guid>
-      <description>&lt;p&gt;La Mercedes AMG GT3 &lt;strong&gt;NSR&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Mercedes AMG GT3 &lt;strong&gt;NSR&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes AMG GT3 Chupa Chups</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/05/24/mercedes-amg-gt3-chupa-chups/</link>
       <pubDate>Thu, 24 May 2018 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/05/24/mercedes-amg-gt3-chupa-chups/</guid>
-      <description>&lt;p&gt;La Mercedes AMG GT3 &lt;em&gt;Chupa Chups&lt;/em&gt; &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Mercedes AMG GT3 &lt;em&gt;Chupa Chups&lt;/em&gt; &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes AMG GT3 Scalex</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/12/30/mercedes-amg-gt3-scalex/</link>
       <pubDate>Sat, 30 Dec 2017 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/12/30/mercedes-amg-gt3-scalex/</guid>
-      <description>&lt;p&gt;La Mercedes AMG GT3 &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Mercedes AMG GT3 &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes C Ninco</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/08/05/mercedes-c-ninco/</link>
       <pubDate>Fri, 05 Aug 2016 17:21:10 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/05/mercedes-c-ninco/</guid>
-      <description>&lt;p&gt;La Mercedes C &lt;strong&gt;Ninco&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Mercedes C &lt;strong&gt;Ninco&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes_SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes_scx/</link>
       <pubDate>Thu, 04 Aug 2016 17:26:32 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes_scx/</guid>
-      <description>&lt;p&gt;tags = [&amp;ldquo;slot&amp;rdquo;, &amp;ldquo;DTM&amp;rdquo;, &amp;ldquo;BMW&amp;rdquo;, &amp;ldquo;Carrera&amp;rdquo;, &amp;ldquo;Mercedes&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;La Mercedes &lt;strong&gt;SCX&lt;/strong&gt; DTM sur châssis &lt;strong&gt;Sloting Plus&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;tags = [&amp;ldquo;slot&amp;rdquo;, &amp;ldquo;DTM&amp;rdquo;, &amp;ldquo;BMW&amp;rdquo;, &amp;ldquo;Carrera&amp;rdquo;, &amp;ldquo;Mercedes&amp;rdquo;]&lt;/p&gt;&#xA;&lt;p&gt;La Mercedes &lt;strong&gt;SCX&lt;/strong&gt; DTM sur châssis &lt;strong&gt;Sloting Plus&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Merco et BM</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm/</link>
       <pubDate>Thu, 04 Aug 2016 17:21:24 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/04/merco-et-bm/</guid>
-      <description>&lt;p&gt;Montage des DTM &lt;strong&gt;Carrera&lt;/strong&gt; sur châssis 3D &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Montage des DTM &lt;strong&gt;Carrera&lt;/strong&gt; sur châssis 3D &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercedes</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes/</link>
       <pubDate>Thu, 04 Aug 2016 17:21:10 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/04/mercedes/</guid>
-      <description>&lt;p&gt;Une autre Mercedes DTM &lt;strong&gt;Carrera&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Une autre Mercedes DTM &lt;strong&gt;Carrera&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

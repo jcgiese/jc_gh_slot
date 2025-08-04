@@ -1,27 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Black Arrow on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/black-arrow/</link>
     <description>Recent content in Black Arrow on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Mon, 05 Aug 2024 14:21:47 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/black-arrow/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/black-arrow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ferrari 458 Black Arrow</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/08/05/ferrari-458-black-arrow/</link>
       <pubDate>Mon, 05 Aug 2024 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/08/05/ferrari-458-black-arrow/</guid>
-      <description>&lt;p&gt;La Ferrari 458 &lt;strong&gt;Black Arrow&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Ferrari 458 &lt;strong&gt;Black Arrow&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

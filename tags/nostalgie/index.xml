@@ -1,49 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nostalgie on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/nostalgie/</link>
     <description>Recent content in Nostalgie on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Sat, 09 Nov 2024 16:29:49 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/nostalgie/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/nostalgie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ford Escort MkII SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/11/09/ford-escort-mkii-scx/</link>
       <pubDate>Sat, 09 Nov 2024 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/11/09/ford-escort-mkii-scx/</guid>
-      <description>&lt;p&gt;Ford Escort MkII SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ford Escort MkII SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Team Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/09/29/team-slot/</link>
       <pubDate>Thu, 29 Sep 2016 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/09/29/team-slot/</guid>
-      <description>&lt;p&gt;Toutes mes &lt;strong&gt;Team Slot&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toutes mes &lt;strong&gt;Team Slot&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mes F250 GTO</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/08/08/mes-f250-gto/</link>
       <pubDate>Mon, 08 Aug 2016 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/08/mes-f250-gto/</guid>
-      <description>&lt;p&gt;Mes Ferrari 250 GTO &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mes Ferrari 250 GTO &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

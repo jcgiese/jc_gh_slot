@@ -1,49 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lotus on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/lotus/</link>
     <description>Recent content in Lotus on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Thu, 30 Mar 2023 14:11:03 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/lotus/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/lotus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lotus 72 JPS Policar</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2023/03/30/lotus-72-jps-policar/</link>
       <pubDate>Thu, 30 Mar 2023 14:11:03 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2023/03/30/lotus-72-jps-policar/</guid>
-      <description>&lt;p&gt;La Lotus 72 JPS &lt;strong&gt;Policar&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Lotus 72 JPS &lt;strong&gt;Policar&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lotus Elise GT1 Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/08/17/lotus-elise-gt1-avant-slot/</link>
       <pubDate>Wed, 17 Aug 2022 10:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/08/17/lotus-elise-gt1-avant-slot/</guid>
-      <description>&lt;p&gt;Lotus Elise GT1 Avant Slot &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Lotus Elise GT1 Avant Slot &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lotus Policar</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/05/27/lotus-policar/</link>
       <pubDate>Fri, 27 May 2016 14:11:03 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/05/27/lotus-policar/</guid>
-      <description>&lt;p&gt;La très attendue Lotus &lt;strong&gt;Policar&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La très attendue Lotus &lt;strong&gt;Policar&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

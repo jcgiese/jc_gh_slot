@@ -1,137 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/courses/</link>
     <description>Recent content in Courses on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Thu, 21 Nov 2024 14:21:47 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/courses/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 13 May 2025 14:21:47 +0200</lastBuildDate>
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nouveau test en CanAm</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2025/05/13/nouveau-test-en-canam/</link>
+      <pubDate>Tue, 13 May 2025 14:21:47 +0200</pubDate>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2025/05/13/nouveau-test-en-canam/</guid>
+      <description>&lt;p&gt;Nouveau test en CanAm &amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Classic NSR 917K vs Slot.It Ferrari</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/11/21/classic-nsr-917k-vs-slot.it-ferrari/</link>
       <pubDate>Thu, 21 Nov 2024 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/11/21/classic-nsr-917k-vs-slot.it-ferrari/</guid>
-      <description>&lt;p&gt;Classic NSR Porsche 917K vs Slot.It Ferrari &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Classic NSR Porsche 917K vs Slot.It Ferrari &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Give me 4 en GT3</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/10/15/give-me-4-en-gt3/</link>
       <pubDate>Tue, 15 Oct 2024 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/10/15/give-me-4-en-gt3/</guid>
-      <description>&lt;p&gt;Give me 4 en GT3 &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Give me 4 en GT3 &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Petit test en CanAm</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/07/05/petit-test-en-canam/</link>
       <pubDate>Fri, 05 Jul 2024 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/07/05/petit-test-en-canam/</guid>
-      <description>&lt;p&gt;Petit test en CanAm &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Petit test en CanAm &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Petit test en GT3</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/04/15/petit-test-en-gt3/</link>
       <pubDate>Mon, 15 Apr 2024 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/04/15/petit-test-en-gt3/</guid>
-      <description>&lt;p&gt;Petit test en GT3 &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Petit test en GT3 &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Classic NSR vs Slot.It</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/01/28/classic-nsr-vs-slot.it/</link>
       <pubDate>Sun, 28 Jan 2024 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/01/28/classic-nsr-vs-slot.it/</guid>
-      <description>&lt;p&gt;Classic NSR vs Slot.It &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Classic NSR vs Slot.It &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Petit test en Muscle Car</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2020/04/24/petit-test-en-muscle-car/</link>
       <pubDate>Fri, 24 Apr 2020 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2020/04/24/petit-test-en-muscle-car/</guid>
-      <description>&lt;p&gt;Petit test en Muscle Car &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Petit test en Muscle Car &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Petit test en GT</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2020/04/21/petit-test-en-gt/</link>
       <pubDate>Tue, 21 Apr 2020 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2020/04/21/petit-test-en-gt/</guid>
-      <description>&lt;p&gt;Petit test en GT &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Petit test en GT &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Groupe B en Classic</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2020/03/15/groupe-b-en-classic/</link>
       <pubDate>Sun, 15 Mar 2020 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2020/03/15/groupe-b-en-classic/</guid>
-      <description>&lt;p&gt;Course du groupe B en Classic &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Course du groupe B en Classic &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Groupe A en Classic</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/10/08/groupe-a-en-classic/</link>
       <pubDate>Tue, 08 Oct 2019 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/10/08/groupe-a-en-classic/</guid>
-      <description>&lt;p&gt;Course du groupe A en Classic &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Course du groupe A en Classic &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Groupe C en Classic</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/07/24/groupe-c-en-classic/</link>
       <pubDate>Wed, 24 Jul 2019 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/07/24/groupe-c-en-classic/</guid>
-      <description>&lt;p&gt;Course du groupe C en Classic &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Course du groupe C en Classic &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Test en Classic</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/04/30/test-en-classic/</link>
       <pubDate>Tue, 30 Apr 2019 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/04/30/test-en-classic/</guid>
-      <description>&lt;p&gt;Un petit test en Classic &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Un petit test en Classic &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

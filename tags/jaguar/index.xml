@@ -1,49 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaguar on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/jaguar/</link>
     <description>Recent content in Jaguar on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Tue, 20 Mar 2018 11:46:58 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/jaguar/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/jaguar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jaguar XJR12</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/03/20/jaguar-xjr12/</link>
       <pubDate>Tue, 20 Mar 2018 11:46:58 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/03/20/jaguar-xjr12/</guid>
-      <description>&lt;p&gt;Jaguar XJR12 &lt;em&gt;Silk Cut&lt;/em&gt; de &lt;strong&gt;Slot.It&lt;/strong&gt; dans la série des Groupe C.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Jaguar XJR12 &lt;em&gt;Silk Cut&lt;/em&gt; de &lt;strong&gt;Slot.It&lt;/strong&gt; dans la série des Groupe C.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jaguar XJR9</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/02/22/jaguar-xjr9/</link>
       <pubDate>Thu, 22 Feb 2018 11:46:58 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/02/22/jaguar-xjr9/</guid>
-      <description>&lt;p&gt;Jaguar XJR9 &lt;em&gt;Silk Cut&lt;/em&gt; de &lt;strong&gt;Slot.It&lt;/strong&gt; dans la série des Groupe C.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Jaguar XJR9 &lt;em&gt;Silk Cut&lt;/em&gt; de &lt;strong&gt;Slot.It&lt;/strong&gt; dans la série des Groupe C.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jaguar Type E</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/12/14/jaguar-type-e/</link>
       <pubDate>Wed, 14 Dec 2016 10:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/12/14/jaguar-type-e/</guid>
-      <description>&lt;p&gt;Jaguar Type E Revell &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Jaguar Type E Revell &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,71 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mclaren on JC&#39;s Slot Blog</title>
+    <title>McLaren on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/mclaren/</link>
-    <description>Recent content in Mclaren on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in McLaren on JC&#39;s Slot Blog</description>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Thu, 10 Oct 2024 14:21:47 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/mclaren/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/mclaren/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>McLaren 720S Marlboro Sideways</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/10/10/mclaren-720s-marlboro-sideways/</link>
       <pubDate>Thu, 10 Oct 2024 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/10/10/mclaren-720s-marlboro-sideways/</guid>
-      <description>&lt;p&gt;McLaren 720S Marlboro &lt;strong&gt;Sideways&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;McLaren 720S Marlboro &lt;strong&gt;Sideways&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>McLaren 720S NSR</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/06/09/mclaren-720s-nsr/</link>
       <pubDate>Thu, 09 Jun 2022 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/06/09/mclaren-720s-nsr/</guid>
-      <description>&lt;p&gt;McLaren 720S &lt;strong&gt;NSR&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;McLaren 720S &lt;strong&gt;NSR&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>McLaren 720S Sideways</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2021/10/10/mclaren-720s-sideways/</link>
       <pubDate>Sun, 10 Oct 2021 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2021/10/10/mclaren-720s-sideways/</guid>
-      <description>&lt;p&gt;McLaren 720S &lt;strong&gt;Sideways&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;McLaren 720S &lt;strong&gt;Sideways&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>McLaren Elva Thunderslot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2020/06/15/mclaren-elva-thunderslot/</link>
       <pubDate>Mon, 15 Jun 2020 10:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2020/06/15/mclaren-elva-thunderslot/</guid>
-      <description>&lt;p&gt;McLaren Elva Thunderslot &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;McLaren Elva Thunderslot &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>McLaren M6A Thunderslot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/04/15/mclaren-m6a-thunderslot/</link>
       <pubDate>Mon, 15 Apr 2019 10:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/04/15/mclaren-m6a-thunderslot/</guid>
-      <description>&lt;p&gt;McLaren M6A Thunderslot &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;McLaren M6A Thunderslot &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

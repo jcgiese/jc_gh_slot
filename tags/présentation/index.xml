@@ -1,115 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Présentation on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/pr%C3%A9sentation/</link>
     <description>Recent content in Présentation on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Wed, 05 Jun 2024 11:00:28 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/pr%C3%A9sentation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/pr%C3%A9sentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audi 90 IMSA</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/06/05/audi-90-imsa/</link>
       <pubDate>Wed, 05 Jun 2024 11:00:28 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/06/05/audi-90-imsa/</guid>
-      <description>&lt;p&gt;Audi 90 IMSA &lt;strong&gt;SCX&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Audi 90 IMSA &lt;strong&gt;SCX&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Renault RS01</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2021/01/05/renault-rs01/</link>
       <pubDate>Tue, 05 Jan 2021 11:00:28 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2021/01/05/renault-rs01/</guid>
-      <description>&lt;p&gt;Renault RS01 &lt;strong&gt;SCX&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Renault RS01 &lt;strong&gt;SCX&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>March 761 Fly</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/12/21/march-761-fly/</link>
       <pubDate>Sat, 21 Dec 2019 11:08:28 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/12/21/march-761-fly/</guid>
-      <description>&lt;p&gt;March 761 &lt;strong&gt;Fly&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;March 761 &lt;strong&gt;Fly&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/05/02/</link>
       <pubDate>Thu, 02 May 2019 11:00:28 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/05/02/</guid>
-      <description>&lt;p&gt;Mes &lt;strong&gt;Opel&lt;/strong&gt; de rallye &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mes &lt;strong&gt;Opel&lt;/strong&gt; de rallye &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Marcos Fly</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/04/19/marcos-fly/</link>
       <pubDate>Fri, 19 Apr 2019 11:00:28 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/04/19/marcos-fly/</guid>
-      <description>&lt;p&gt;Marcos &lt;strong&gt;Fly&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Marcos &lt;strong&gt;Fly&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Racer</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/04/28/racer/</link>
       <pubDate>Fri, 28 Apr 2017 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/04/28/racer/</guid>
-      <description>&lt;p&gt;Mes &lt;strong&gt;Racer&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mes &lt;strong&gt;Racer&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Crocos</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/01/31/crocos/</link>
       <pubDate>Tue, 31 Jan 2017 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/01/31/crocos/</guid>
-      <description>&lt;p&gt;Une paire de crocos arrivée récemment 😄&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Une paire de crocos arrivée récemment &amp;#x1f604;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>M1 Fly</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/08/11/m1-fly/</link>
       <pubDate>Thu, 11 Aug 2016 11:00:28 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/11/m1-fly/</guid>
-      <description>&lt;p&gt;M1 &lt;strong&gt;Fly&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;M1 &lt;strong&gt;Fly&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>General Lee</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/06/02/general-lee/</link>
       <pubDate>Thu, 02 Jun 2016 11:11:10 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/02/general-lee/</guid>
-      <description>&lt;p&gt;La fabuleuse General Lee de &lt;strong&gt;Pioneer&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La fabuleuse General Lee de &lt;strong&gt;Pioneer&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

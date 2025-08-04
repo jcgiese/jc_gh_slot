@@ -1,93 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toyota on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/toyota/</link>
     <description>Recent content in Toyota on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Tue, 25 Mar 2025 16:29:49 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/toyota/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 10 Jun 2025 16:29:49 +0200</lastBuildDate>
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/toyota/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toyota Yaris WRC Avant Slot</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2025/06/10/toyota-yaris-wrc-avant-slot/</link>
+      <pubDate>Tue, 10 Jun 2025 16:29:49 +0200</pubDate>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2025/06/10/toyota-yaris-wrc-avant-slot/</guid>
+      <description>&lt;p&gt;Toyota Yaris WRC Avant Slot&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Toyota Yaris Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2025/03/25/toyota-yaris-avant-slot/</link>
       <pubDate>Tue, 25 Mar 2025 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2025/03/25/toyota-yaris-avant-slot/</guid>
-      <description>&lt;p&gt;Toyota Yaris Avant Slot&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toyota Yaris Avant Slot&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Toyota Yaris SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2025/01/10/toyota-yaris-scx/</link>
       <pubDate>Fri, 10 Jan 2025 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2025/01/10/toyota-yaris-scx/</guid>
-      <description>&lt;p&gt;Toyota Yaris SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toyota Yaris SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Toyota TS050 SRC</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/05/30/toyota-ts050-src/</link>
       <pubDate>Mon, 30 May 2022 17:46:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/05/30/toyota-ts050-src/</guid>
-      <description>&lt;p&gt;La Toyota TS050 de &lt;strong&gt;SRC&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Toyota TS050 de &lt;strong&gt;SRC&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Toyota Celica LB</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2021/02/10/toyota-celica-lb/</link>
       <pubDate>Wed, 10 Feb 2021 16:42:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2021/02/10/toyota-celica-lb/</guid>
-      <description>&lt;p&gt;Toyota Celica LB Grp_5 &lt;strong&gt;Sideways&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toyota Celica LB Grp_5 &lt;strong&gt;Sideways&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nouvelles Revoslot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/12/20/nouvelles-revoslot/</link>
       <pubDate>Fri, 20 Dec 2019 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/12/20/nouvelles-revoslot/</guid>
-      <description>&lt;p&gt;Les nouvelles &lt;strong&gt;Revoslot&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Les nouvelles &lt;strong&gt;Revoslot&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Toyota Supra Revoslot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/04/16/toyota-supra-revoslot/</link>
       <pubDate>Tue, 16 Apr 2019 10:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/04/16/toyota-supra-revoslot/</guid>
-      <description>&lt;p&gt;Toyota Supra Revoslot &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toyota Supra Revoslot &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Toyota 88C</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/10/13/toyota-88c/</link>
       <pubDate>Thu, 13 Oct 2016 11:46:58 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/10/13/toyota-88c/</guid>
-      <description>&lt;p&gt;Toyota 88C en déco style &lt;em&gt;New Man&lt;/em&gt; de &lt;strong&gt;Slot.It&lt;/strong&gt; dans la série des Groupe C.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toyota 88C en déco style &lt;em&gt;New Man&lt;/em&gt; de &lt;strong&gt;Slot.It&lt;/strong&gt; dans la série des Groupe C.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

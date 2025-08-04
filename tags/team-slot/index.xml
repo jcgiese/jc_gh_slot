@@ -1,49 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team Slot on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/team-slot/</link>
     <description>Recent content in Team Slot on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Thu, 22 Feb 2018 14:29:49 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/team-slot/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/team-slot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lancia Stratos</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/02/22/lancia-stratos/</link>
       <pubDate>Thu, 22 Feb 2018 14:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/02/22/lancia-stratos/</guid>
-      <description>&lt;p&gt;Lancia Stratos &lt;strong&gt;Team Slot&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Lancia Stratos &lt;strong&gt;Team Slot&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>R5 Turbo TS</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/10/21/r5-turbo-ts/</link>
       <pubDate>Fri, 21 Oct 2016 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/10/21/r5-turbo-ts/</guid>
-      <description>&lt;p&gt;La R5 Turbo Team Slot &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La R5 Turbo Team Slot &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Team Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/09/29/team-slot/</link>
       <pubDate>Thu, 29 Sep 2016 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/09/29/team-slot/</guid>
-      <description>&lt;p&gt;Toutes mes &lt;strong&gt;Team Slot&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toutes mes &lt;strong&gt;Team Slot&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

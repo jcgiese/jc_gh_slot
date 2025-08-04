@@ -1,115 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avant Slot on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/avant-slot/</link>
     <description>Recent content in Avant Slot on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Tue, 25 Mar 2025 16:29:49 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/avant-slot/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 10 Jun 2025 16:29:49 +0200</lastBuildDate>
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/avant-slot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toyota Yaris WRC Avant Slot</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2025/06/10/toyota-yaris-wrc-avant-slot/</link>
+      <pubDate>Tue, 10 Jun 2025 16:29:49 +0200</pubDate>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2025/06/10/toyota-yaris-wrc-avant-slot/</guid>
+      <description>&lt;p&gt;Toyota Yaris WRC Avant Slot&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Toyota Yaris Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2025/03/25/toyota-yaris-avant-slot/</link>
       <pubDate>Tue, 25 Mar 2025 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2025/03/25/toyota-yaris-avant-slot/</guid>
-      <description>&lt;p&gt;Toyota Yaris Avant Slot&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toyota Yaris Avant Slot&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mitsubishi Galant Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/03/20/mitsubishi-galant-avant-slot/</link>
       <pubDate>Wed, 20 Mar 2024 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/03/20/mitsubishi-galant-avant-slot/</guid>
-      <description>&lt;p&gt;Mitsubishi Galant VR-4 Avant Slot&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mitsubishi Galant VR-4 Avant Slot&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nissan 240 RS Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2023/10/15/nissan-240-rs-avant-slot/</link>
       <pubDate>Sun, 15 Oct 2023 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2023/10/15/nissan-240-rs-avant-slot/</guid>
-      <description>&lt;p&gt;Nissan 240 RS Avant Slot&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nissan 240 RS Avant Slot&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lotus Elise GT1 Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/08/17/lotus-elise-gt1-avant-slot/</link>
       <pubDate>Wed, 17 Aug 2022 10:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/08/17/lotus-elise-gt1-avant-slot/</guid>
-      <description>&lt;p&gt;Lotus Elise GT1 Avant Slot &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Lotus Elise GT1 Avant Slot &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ferrari 308 GTB Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/02/15/ferrari-308-gtb-avant-slot/</link>
       <pubDate>Tue, 15 Feb 2022 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/02/15/ferrari-308-gtb-avant-slot/</guid>
-      <description>&lt;p&gt;Ferrari 308 GTB Avant Slot&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ferrari 308 GTB Avant Slot&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Opel Manta 400</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/02/16/opel-manta-400/</link>
       <pubDate>Fri, 16 Feb 2018 14:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/02/16/opel-manta-400/</guid>
-      <description>&lt;p&gt;Opel Manta &lt;strong&gt;Avant Slot&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Opel Manta &lt;strong&gt;Avant Slot&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Peugeot 908</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/10/13/peugeot-908/</link>
       <pubDate>Thu, 13 Oct 2016 17:46:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/10/13/peugeot-908/</guid>
-      <description>&lt;p&gt;La Peugeot 908 &lt;em&gt;Playstation&lt;/em&gt; de &lt;strong&gt;Avant Slot&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Peugeot 908 &lt;em&gt;Playstation&lt;/em&gt; de &lt;strong&gt;Avant Slot&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Porsche Spyder</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/10/13/porsche-spyder/</link>
       <pubDate>Thu, 13 Oct 2016 17:26:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/10/13/porsche-spyder/</guid>
-      <description>&lt;p&gt;La Porsche Spyder &lt;strong&gt;Avant Slot&lt;/strong&gt; verte &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Porsche Spyder &lt;strong&gt;Avant Slot&lt;/strong&gt; verte &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Audi R10</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/10/03/audi-r10/</link>
       <pubDate>Mon, 03 Oct 2016 11:26:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/10/03/audi-r10/</guid>
-      <description>&lt;p&gt;Résurection de l&amp;rsquo;Audi R10 &lt;strong&gt;Avant Slot&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Résurection de l&amp;rsquo;Audi R10 &lt;strong&gt;Avant Slot&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

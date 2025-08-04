@@ -1,389 +1,257 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rallye on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/categories/rallye/</link>
     <description>Recent content in Rallye on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Tue, 25 Mar 2025 16:29:49 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/categories/rallye/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 10 Jun 2025 16:29:49 +0200</lastBuildDate>
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/categories/rallye/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toyota Yaris WRC Avant Slot</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2025/06/10/toyota-yaris-wrc-avant-slot/</link>
+      <pubDate>Tue, 10 Jun 2025 16:29:49 +0200</pubDate>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2025/06/10/toyota-yaris-wrc-avant-slot/</guid>
+      <description>&lt;p&gt;Toyota Yaris WRC Avant Slot&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Toyota Yaris Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2025/03/25/toyota-yaris-avant-slot/</link>
       <pubDate>Tue, 25 Mar 2025 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2025/03/25/toyota-yaris-avant-slot/</guid>
-      <description>&lt;p&gt;Toyota Yaris Avant Slot&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toyota Yaris Avant Slot&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Toyota Yaris SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2025/01/10/toyota-yaris-scx/</link>
       <pubDate>Fri, 10 Jan 2025 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2025/01/10/toyota-yaris-scx/</guid>
-      <description>&lt;p&gt;Toyota Yaris SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toyota Yaris SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ford Escort MkII SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/11/09/ford-escort-mkii-scx/</link>
       <pubDate>Sat, 09 Nov 2024 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/11/09/ford-escort-mkii-scx/</guid>
-      <description>&lt;p&gt;Ford Escort MkII SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ford Escort MkII SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Peugeot 208 Loeb Scaleauto</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/04/25/peugeot-208-loeb-scaleauto/</link>
       <pubDate>Thu, 25 Apr 2024 14:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/04/25/peugeot-208-loeb-scaleauto/</guid>
-      <description>&lt;p&gt;Peugeot 208 Loeb &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Peugeot 208 Loeb &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mitsubishi Galant Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/03/20/mitsubishi-galant-avant-slot/</link>
       <pubDate>Wed, 20 Mar 2024 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/03/20/mitsubishi-galant-avant-slot/</guid>
-      <description>&lt;p&gt;Mitsubishi Galant VR-4 Avant Slot&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mitsubishi Galant VR-4 Avant Slot&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ford Puma SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/01/18/ford-puma-scx/</link>
       <pubDate>Thu, 18 Jan 2024 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/01/18/ford-puma-scx/</guid>
-      <description>&lt;p&gt;Ford Puma SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ford Puma SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mitsubishi Evo V Scaleauto</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/01/15/mitsubishi-evo-v-scaleauto/</link>
       <pubDate>Mon, 15 Jan 2024 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/01/15/mitsubishi-evo-v-scaleauto/</guid>
-      <description>&lt;p&gt;Mitsubishi Evo V Scaleauto&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mitsubishi Evo V Scaleauto&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lancia 037 FLY</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2023/11/23/lancia-037-fly/</link>
       <pubDate>Thu, 23 Nov 2023 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2023/11/23/lancia-037-fly/</guid>
-      <description>&lt;p&gt;Lancia 037 FLY&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Lancia 037 FLY&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nissan 240 RS Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2023/10/15/nissan-240-rs-avant-slot/</link>
       <pubDate>Sun, 15 Oct 2023 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2023/10/15/nissan-240-rs-avant-slot/</guid>
-      <description>&lt;p&gt;Nissan 240 RS Avant Slot&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nissan 240 RS Avant Slot&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hyundai i20 rouge SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2023/07/01/hyundai-i20-rouge-scx/</link>
       <pubDate>Sat, 01 Jul 2023 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2023/07/01/hyundai-i20-rouge-scx/</guid>
-      <description>&lt;p&gt;Hyundai i20 rouge SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hyundai i20 rouge SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Audi quattro A2</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/11/23/audi-quattro-a2/</link>
       <pubDate>Wed, 23 Nov 2022 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/11/23/audi-quattro-a2/</guid>
-      <description>Audi quattro A2
-Voici trois autres Audi quattro (des versions A2) de différentes marques:</description>
+      <description>&lt;p&gt;Audi quattro A2&lt;/p&gt;&#xA;&lt;p&gt;Voici trois autres Audi quattro (des versions A2) de différentes marques:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Audi quattro S1</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/11/22/audi-quattro-s1/</link>
       <pubDate>Tue, 22 Nov 2022 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/11/22/audi-quattro-s1/</guid>
-      <description>&lt;p&gt;Audi quattro S1 &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Audi quattro S1 &lt;strong&gt;Scalextric&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hyundai i20 SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/03/19/hyundai-i20-scx/</link>
       <pubDate>Sat, 19 Mar 2022 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/03/19/hyundai-i20-scx/</guid>
-      <description>&lt;p&gt;Hyundai i20 SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hyundai i20 SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ferrari 308 GTB Avant Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/02/15/ferrari-308-gtb-avant-slot/</link>
       <pubDate>Tue, 15 Feb 2022 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/02/15/ferrari-308-gtb-avant-slot/</guid>
-      <description>&lt;p&gt;Ferrari 308 GTB Avant Slot&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ferrari 308 GTB Avant Slot&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Audi S1 SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/02/09/audi-s1-scx/</link>
       <pubDate>Wed, 09 Feb 2022 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/02/09/audi-s1-scx/</guid>
-      <description>&lt;p&gt;Audi S1 SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Audi S1 SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lancia S4 SRC</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2020/11/20/lancia-s4-src/</link>
       <pubDate>Fri, 20 Nov 2020 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2020/11/20/lancia-s4-src/</guid>
-      <description>&lt;p&gt;Lancia S4 SRC&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Lancia S4 SRC&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Porsche 914/6</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2020/06/03/porsche-914/6/</link>
       <pubDate>Wed, 03 Jun 2020 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2020/06/03/porsche-914/6/</guid>
-      <description>&lt;p&gt;Porsche 914 SRC&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Porsche 914 SRC&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pantera GTS  Scaleauto</title>
-      <link>https://jcgiese.github.io/jc_gh_slot/2018/09/21/pantera-gts--scaleauto/</link>
+      <link>https://jcgiese.github.io/jc_gh_slot/2018/09/21/pantera-gts-scaleauto/</link>
       <pubDate>Fri, 21 Sep 2018 14:29:49 +0200</pubDate>
-      
-      <guid>https://jcgiese.github.io/jc_gh_slot/2018/09/21/pantera-gts--scaleauto/</guid>
-      <description>&lt;p&gt;Pantera GTS &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2018/09/21/pantera-gts-scaleauto/</guid>
+      <description>&lt;p&gt;Pantera GTS &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Peugeot 208 Scaleauto</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/06/04/peugeot-208-scaleauto/</link>
       <pubDate>Mon, 04 Jun 2018 14:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/06/04/peugeot-208-scaleauto/</guid>
-      <description>&lt;p&gt;Peugeot 208 &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Peugeot 208 &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Citroen Xsara SCX pro</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/05/17/citroen-xsara-scx-pro/</link>
       <pubDate>Thu, 17 May 2018 14:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/05/17/citroen-xsara-scx-pro/</guid>
-      <description>&lt;p&gt;Citroen Xsara &lt;strong&gt;SCX&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Citroen Xsara &lt;strong&gt;SCX&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Citroën DS3 SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/03/15/citro%C3%ABn-ds3-scx/</link>
       <pubDate>Thu, 15 Mar 2018 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/03/15/citro%C3%ABn-ds3-scx/</guid>
-      <description>&lt;p&gt;Citroën DS3 SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Citroën DS3 SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lancia Stratos</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/02/22/lancia-stratos/</link>
       <pubDate>Thu, 22 Feb 2018 14:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/02/22/lancia-stratos/</guid>
-      <description>&lt;p&gt;Lancia Stratos &lt;strong&gt;Team Slot&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Lancia Stratos &lt;strong&gt;Team Slot&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fiat 124 Spider</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/02/16/fiat-124-spider/</link>
       <pubDate>Fri, 16 Feb 2018 15:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/02/16/fiat-124-spider/</guid>
-      <description>&lt;p&gt;Fiat 124 Abarth Spider &lt;strong&gt;SCX&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Fiat 124 Abarth Spider &lt;strong&gt;SCX&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Opel Manta 400</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2018/02/16/opel-manta-400/</link>
       <pubDate>Fri, 16 Feb 2018 14:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2018/02/16/opel-manta-400/</guid>
-      <description>&lt;p&gt;Opel Manta &lt;strong&gt;Avant Slot&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Opel Manta &lt;strong&gt;Avant Slot&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Renault R5 SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/10/05/renault-r5-scx/</link>
       <pubDate>Thu, 05 Oct 2017 14:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/10/05/renault-r5-scx/</guid>
-      <description>&lt;p&gt;Remise à jour d&amp;rsquo;une Renault R5 SCX &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Remise à jour d&amp;rsquo;une Renault R5 SCX &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Peugeot 206 SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/10/05/peugeot-206-scx/</link>
       <pubDate>Thu, 05 Oct 2017 13:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/10/05/peugeot-206-scx/</guid>
-      <description>&lt;p&gt;Remise à jour d&amp;rsquo;une Peugeot 206 SCX &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Remise à jour d&amp;rsquo;une Peugeot 206 SCX &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Golf Spirit</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/03/17/golf-spirit/</link>
       <pubDate>Fri, 17 Mar 2017 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/03/17/golf-spirit/</guid>
-      <description>&lt;p&gt;Ford Fiesta SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ford Fiesta SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Capri Chrono</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/03/02/capri-chrono/</link>
       <pubDate>Thu, 02 Mar 2017 18:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/03/02/capri-chrono/</guid>
-      <description>&lt;p&gt;La nouvelle Capri &lt;em&gt;Chrono&lt;/em&gt; de &lt;strong&gt;SRC&lt;/strong&gt; avec des pièces &lt;strong&gt;OSC&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La nouvelle Capri &lt;em&gt;Chrono&lt;/em&gt; de &lt;strong&gt;SRC&lt;/strong&gt; avec des pièces &lt;strong&gt;OSC&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Subaru MSC</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/03/02/subaru-msc/</link>
       <pubDate>Thu, 02 Mar 2017 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/03/02/subaru-msc/</guid>
-      <description>&lt;p&gt;Une Subaru &lt;strong&gt;MSC&lt;/strong&gt; sur châssis 3D Flex &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Une Subaru &lt;strong&gt;MSC&lt;/strong&gt; sur châssis 3D Flex &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fiesta</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/01/26/fiesta/</link>
       <pubDate>Thu, 26 Jan 2017 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/01/26/fiesta/</guid>
-      <description>&lt;p&gt;Ford Fiesta SCX&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ford Fiesta SCX&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>R5 Turbo TS</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/10/21/r5-turbo-ts/</link>
       <pubDate>Fri, 21 Oct 2016 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/10/21/r5-turbo-ts/</guid>
-      <description>&lt;p&gt;La R5 Turbo Team Slot &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La R5 Turbo Team Slot &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Team Slot</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/09/29/team-slot/</link>
       <pubDate>Thu, 29 Sep 2016 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/09/29/team-slot/</guid>
-      <description>&lt;p&gt;Toutes mes &lt;strong&gt;Team Slot&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toutes mes &lt;strong&gt;Team Slot&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PoloR</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/07/08/polor/</link>
       <pubDate>Fri, 08 Jul 2016 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/08/polor/</guid>
-      <description>&lt;p&gt;La PoloR Scalextric&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La PoloR Scalextric&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rallye</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/07/08/rallye/</link>
       <pubDate>Fri, 08 Jul 2016 16:16:33 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/08/rallye/</guid>
-      <description>&lt;p&gt;Introduction au rallye&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Introduction au rallye&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

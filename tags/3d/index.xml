@@ -1,104 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3d on JC&#39;s Slot Blog</title>
+    <title>3D on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/3d/</link>
-    <description>Recent content in 3d on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in 3D on JC&#39;s Slot Blog</description>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Wed, 05 Jun 2024 11:00:28 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/3d/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audi 90 IMSA</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/06/05/audi-90-imsa/</link>
       <pubDate>Wed, 05 Jun 2024 11:00:28 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/06/05/audi-90-imsa/</guid>
-      <description>&lt;p&gt;Audi 90 IMSA &lt;strong&gt;SCX&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Audi 90 IMSA &lt;strong&gt;SCX&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Renault RS01</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2021/01/05/renault-rs01/</link>
       <pubDate>Tue, 05 Jan 2021 11:00:28 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2021/01/05/renault-rs01/</guid>
-      <description>&lt;p&gt;Renault RS01 &lt;strong&gt;SCX&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Renault RS01 &lt;strong&gt;SCX&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Marcos Fly</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/04/19/marcos-fly/</link>
       <pubDate>Fri, 19 Apr 2019 11:00:28 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/04/19/marcos-fly/</guid>
-      <description>&lt;p&gt;Marcos &lt;strong&gt;Fly&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Marcos &lt;strong&gt;Fly&lt;/strong&gt; sur châssis en impression 3D &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ferrari 330 P4 Scalex</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/10/20/ferrari-330-p4-scalex/</link>
       <pubDate>Fri, 20 Oct 2017 11:50:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/10/20/ferrari-330-p4-scalex/</guid>
-      <description>&lt;p&gt;Ferrari 330 P4 &lt;strong&gt;Scalex&lt;/strong&gt; sur châssis 3D&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ferrari 330 P4 &lt;strong&gt;Scalex&lt;/strong&gt; sur châssis 3D&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Camaro 70 Scalex sur châssis 3D</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/10/13/camaro-70-scalex-sur-ch%C3%A2ssis-3d/</link>
       <pubDate>Fri, 13 Oct 2017 11:11:10 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/10/13/camaro-70-scalex-sur-ch%C3%A2ssis-3d/</guid>
-      <description>&lt;p&gt;Camaro 1970 &lt;strong&gt;Scalextric&lt;/strong&gt; sur châssis 3D &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Camaro 1970 &lt;strong&gt;Scalextric&lt;/strong&gt; sur châssis 3D &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Peugeot 206 SCX</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/10/05/peugeot-206-scx/</link>
       <pubDate>Thu, 05 Oct 2017 13:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/10/05/peugeot-206-scx/</guid>
-      <description>&lt;p&gt;Remise à jour d&amp;rsquo;une Peugeot 206 SCX &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Remise à jour d&amp;rsquo;une Peugeot 206 SCX &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Matra 670 SRC</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/11/14/matra-670-src/</link>
       <pubDate>Mon, 14 Nov 2016 11:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/11/14/matra-670-src/</guid>
-      <description>&lt;p&gt;Matra 670 SRC sur châssis &lt;strong&gt;Olifer&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Matra 670 SRC sur châssis &lt;strong&gt;Olifer&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PoloR</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/07/08/polor/</link>
       <pubDate>Fri, 08 Jul 2016 16:29:49 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/08/polor/</guid>
-      <description>&lt;p&gt;La PoloR Scalextric&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La PoloR Scalextric&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

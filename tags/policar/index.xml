@@ -1,71 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policar on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/policar/</link>
     <description>Recent content in Policar on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Tue, 26 Jul 2022 11:40:09 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/policar/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 15 Jul 2025 18:11:03 +0200</lastBuildDate>
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/policar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monoposto 2.0 Policar</title>
+      <link>https://jcgiese.github.io/jc_gh_slot/2025/07/15/monoposto-2.0-policar/</link>
+      <pubDate>Tue, 15 Jul 2025 18:11:03 +0200</pubDate>
+      <guid>https://jcgiese.github.io/jc_gh_slot/2025/07/15/monoposto-2.0-policar/</guid>
+      <description>&lt;p&gt;Les Monoposto 2.0 de &lt;strong&gt;Policar&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>F412P Policar et F512M Slot.It</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2022/07/26/f412p-policar-et-f512m-slot.it/</link>
       <pubDate>Tue, 26 Jul 2022 11:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2022/07/26/f412p-policar-et-f512m-slot.it/</guid>
-      <description>&lt;p&gt;Comparaison entre les Ferrari 412P &lt;strong&gt;Policar&lt;/strong&gt; et 512M &lt;strong&gt;Slot.It&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Comparaison entre les Ferrari 412P &lt;strong&gt;Policar&lt;/strong&gt; et 512M &lt;strong&gt;Slot.It&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Test croisé F1 NSR Policar</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2021/04/26/test-crois%C3%A9-f1-nsr-policar/</link>
       <pubDate>Mon, 26 Apr 2021 18:11:03 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2021/04/26/test-crois%C3%A9-f1-nsr-policar/</guid>
-      <description>&lt;p&gt;Test croisé F1 NSR Policar&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Test croisé F1 NSR Policar&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ferrari 312B2 Policar</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2021/03/20/ferrari-312b2-policar/</link>
       <pubDate>Sat, 20 Mar 2021 14:11:03 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2021/03/20/ferrari-312b2-policar/</guid>
-      <description>&lt;p&gt;La Ferrari 312B2 &lt;strong&gt;Policar&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Ferrari 312B2 &lt;strong&gt;Policar&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>La F330 P4 Policar</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2019/06/14/la-f330-p4-policar/</link>
       <pubDate>Fri, 14 Jun 2019 11:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2019/06/14/la-f330-p4-policar/</guid>
-      <description>&lt;p&gt;La Ferrari 330 P4 &lt;strong&gt;Policar&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Ferrari 330 P4 &lt;strong&gt;Policar&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>F40 Policar</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/06/20/f40-policar/</link>
       <pubDate>Mon, 20 Jun 2016 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/20/f40-policar/</guid>
-      <description>&lt;p&gt;La F40 &lt;strong&gt;Policar&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La F40 &lt;strong&gt;Policar&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

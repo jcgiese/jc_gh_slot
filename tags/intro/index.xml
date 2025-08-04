@@ -1,82 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intro on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/intro/</link>
     <description>Recent content in Intro on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Wed, 04 Oct 2017 11:40:09 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/intro/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/intro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Megane Introduction</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2017/10/04/megane-introduction/</link>
       <pubDate>Wed, 04 Oct 2017 11:40:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2017/10/04/megane-introduction/</guid>
-      <description>&lt;p&gt;Les Megane en slot &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Les Megane en slot &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Intro DTM</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/08/02/intro-dtm/</link>
       <pubDate>Tue, 02 Aug 2016 14:45:45 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/08/02/intro-dtm/</guid>
-      <description>&lt;p&gt;Pour tout savoir sur la catégorie DTM &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Pour tout savoir sur la catégorie DTM &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rallye</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/07/08/rallye/</link>
       <pubDate>Fri, 08 Jul 2016 16:16:33 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/07/08/rallye/</guid>
-      <description>&lt;p&gt;Introduction au rallye&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Introduction au rallye&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Intro</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/06/21/intro/</link>
       <pubDate>Tue, 21 Jun 2016 16:52:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/21/intro/</guid>
-      <description>&lt;p&gt;Introduction au Grp_5&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Introduction au Grp_5&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>intro</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/06/16/intro/</link>
       <pubDate>Thu, 16 Jun 2016 14:20:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/06/16/intro/</guid>
-      <description>&lt;p&gt;Pour tout savoir sur la catégorie LMP &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Pour tout savoir sur la catégorie LMP &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Introduction</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/05/21/introduction/</link>
       <pubDate>Sat, 21 May 2016 14:11:03 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/05/21/introduction/</guid>
-      <description>&lt;p&gt;Pour tout savoir sur la série Open_GT !&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Pour tout savoir sur la série Open_GT !&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

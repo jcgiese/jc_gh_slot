@@ -1,60 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Honda on JC&#39;s Slot Blog</title>
     <link>https://jcgiese.github.io/jc_gh_slot/tags/honda/</link>
     <description>Recent content in Honda on JC&#39;s Slot Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>utf-8</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Tue, 05 Mar 2024 14:21:47 +0200</lastBuildDate>
-    
-	<atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/honda/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jcgiese.github.io/jc_gh_slot/tags/honda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acura NSX Castrol Scaleauto</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2024/03/05/acura-nsx-castrol-scaleauto/</link>
       <pubDate>Tue, 05 Mar 2024 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2024/03/05/acura-nsx-castrol-scaleauto/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;Acura NSX Castrol &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;L&amp;rsquo;Acura NSX Castrol &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Acura NSX Scaleauto</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2023/12/15/acura-nsx-scaleauto/</link>
       <pubDate>Fri, 15 Dec 2023 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2023/12/15/acura-nsx-scaleauto/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;Acura NSX &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;L&amp;rsquo;Acura NSX &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Honda NSX Scaleauto</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2023/06/11/honda-nsx-scaleauto/</link>
       <pubDate>Sun, 11 Jun 2023 14:21:47 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2023/06/11/honda-nsx-scaleauto/</guid>
-      <description>&lt;p&gt;La Honda NSX &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;La Honda NSX &lt;strong&gt;Scaleauto&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Coffret BTCC</title>
       <link>https://jcgiese.github.io/jc_gh_slot/2016/12/22/coffret-btcc/</link>
       <pubDate>Thu, 22 Dec 2016 11:26:09 +0200</pubDate>
-      
       <guid>https://jcgiese.github.io/jc_gh_slot/2016/12/22/coffret-btcc/</guid>
-      <description>&lt;p&gt;Les BTCC &lt;strong&gt;Scalextric&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Les BTCC &lt;strong&gt;Scalextric&lt;/strong&gt; &amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -31,8 +31,8 @@
 
     
   <meta itemprop="name" content="JC&#39;s Slot Blog">
-  <meta itemprop="datePublished" content="2025-07-28T11:46:58+02:00">
-  <meta itemprop="dateModified" content="2025-07-28T11:46:58+02:00">
+  <meta itemprop="datePublished" content="2025-09-09T14:21:47+02:00">
+  <meta itemprop="dateModified" content="2025-09-09T14:21:47+02:00">
     
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="JC&#39;s Slot Blog">
@@ -153,11 +153,11 @@
         </div>
         <div class="article-info profile-block">
             <div class="article-info-block">
-                280
+                283
                 <span></span>
             </div>
             <div class="article-info-block">
-                 133 
+                 135 
                 <span>  </span>
             </div>
         </div>
@@ -177,6 +177,554 @@
     <section id="main">
     
     
+
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        
+        <a href="https://jcgiese.github.io/jc_gh_slot/2017/10/04/megane-introduction/" itemprop="url">
+            <img src="https://jcgiese.github.io/jc_gh_slot/banners/plein_de_meganes.jpg" class="article-banner">
+        
+        </a>
+
+        <header class="article-header">
+    <a href="https://jcgiese.github.io/jc_gh_slot/2017/10/04/megane-introduction/">
+    <h1 class="article-title" itemprop="name">
+        Megane Introduction
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2017-10-04 11:40:09 &#43;0200 CEST" itemprop="datePublished">2017-10-04</time>
+            &middot;
+            114
+            
+            &middot;
+            1
+            
+        </div>
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/megane">Megane</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/slot">slot</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/megane">Megane</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/intro">Intro</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                Les Meganes
+            </p>
+            <p class="article-more-link">
+                <a href="https://jcgiese.github.io/jc_gh_slot/2017/10/04/megane-introduction/">
+                    
+                </a>
+            </p>
+        </div>
+        <footer class="article-footer">
+    <a
+        data-url="https://jcgiese.github.io/jc_gh_slot/2017/10/04/megane-introduction/"
+        data-id="e6a440afe0f4a7102e79b6eabcdb3443"
+        class="article-share-link"
+    >
+        <i class="fa fa-share"></i>
+        
+    </a>
+
+    <script>
+        (function ($) {
+            
+            if (
+                typeof __SHARE_BUTTON_BINDED__ === "undefined" ||
+                !__SHARE_BUTTON_BINDED__
+            ) {
+                __SHARE_BUTTON_BINDED__ = true;
+            } else {
+                return;
+            }
+            $("body")
+                .on("click", function () {
+                    $(".article-share-box.on").removeClass("on");
+                })
+                .on("click", ".article-share-link", function (e) {
+                    e.stopPropagation();
+
+                    var $this = $(this),
+                        url = $this.attr("data-url"),
+                        encodedUrl = encodeURIComponent(url),
+                        id = "article-share-box-" + $this.attr("data-id"),
+                        offset = $this.offset(),
+                        box;
+
+                    if ($("#" + id).length) {
+                        box = $("#" + id);
+
+                        if (box.hasClass("on")) {
+                            box.removeClass("on");
+                            return;
+                        }
+                    } else {
+                        var html = [
+                            '<div id="' + id + '" class="article-share-box">',
+                            '<input class="article-share-input" value="' +
+                                url +
+                                '">',
+                            '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' +
+                                encodedUrl +
+                                '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' +
+                                encodedUrl +
+                                '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' +
+                                encodedUrl +
+                                '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' +
+                                encodedUrl +
+                                '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                            "</div>",
+                            "</div>",
+                        ].join("");
+
+                        box = $(html);
+
+                        $("body").append(box);
+                    }
+
+                    $(".article-share-box.on").hide();
+
+                    box.css({
+                        top: offset.top + 25,
+                        left: offset.left,
+                    }).addClass("on");
+                })
+                .on("click", ".article-share-box", function (e) {
+                    e.stopPropagation();
+                })
+                .on("click", ".article-share-box-input", function () {
+                    $(this).select();
+                })
+                .on("click", ".article-share-box-link", function (e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+
+                    window.open(
+                        this.href,
+                        "article-share-box-window-" + Date.now(),
+                        "width=500,height=450",
+                    );
+                });
+        })(jQuery);
+    </script>
+</footer>
+
+    </div>
+</article>
+
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        
+        <a href="https://jcgiese.github.io/jc_gh_slot/2017/06/30/f40-slot_it/" itemprop="url">
+            <img src="https://jcgiese.github.io/jc_gh_slot/img/F40_si.jpg" class="article-banner">
+        
+        </a>
+
+        <header class="article-header">
+    <a href="https://jcgiese.github.io/jc_gh_slot/2017/06/30/f40-slot_it/">
+    <h1 class="article-title" itemprop="name">
+        F40 Slot_It
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2017-06-30 14:21:47 &#43;0200 CEST" itemprop="datePublished">2017-06-30</time>
+            &middot;
+            178
+            
+            &middot;
+            1
+            
+        </div>
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/open_gt">Open_GT</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/slot">slot</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/open_gt">Open_GT</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/ferrari">Ferrari</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/f40">F40</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/slot.it">Slot.It</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                F40 Slot_It
+            </p>
+            <p class="article-more-link">
+                <a href="https://jcgiese.github.io/jc_gh_slot/2017/06/30/f40-slot_it/">
+                    
+                </a>
+            </p>
+        </div>
+        <footer class="article-footer">
+    <a
+        data-url="https://jcgiese.github.io/jc_gh_slot/2017/06/30/f40-slot_it/"
+        data-id="ecf02093451e6476bc6dfb59325669b2"
+        class="article-share-link"
+    >
+        <i class="fa fa-share"></i>
+        
+    </a>
+
+    <script>
+        (function ($) {
+            
+            if (
+                typeof __SHARE_BUTTON_BINDED__ === "undefined" ||
+                !__SHARE_BUTTON_BINDED__
+            ) {
+                __SHARE_BUTTON_BINDED__ = true;
+            } else {
+                return;
+            }
+            $("body")
+                .on("click", function () {
+                    $(".article-share-box.on").removeClass("on");
+                })
+                .on("click", ".article-share-link", function (e) {
+                    e.stopPropagation();
+
+                    var $this = $(this),
+                        url = $this.attr("data-url"),
+                        encodedUrl = encodeURIComponent(url),
+                        id = "article-share-box-" + $this.attr("data-id"),
+                        offset = $this.offset(),
+                        box;
+
+                    if ($("#" + id).length) {
+                        box = $("#" + id);
+
+                        if (box.hasClass("on")) {
+                            box.removeClass("on");
+                            return;
+                        }
+                    } else {
+                        var html = [
+                            '<div id="' + id + '" class="article-share-box">',
+                            '<input class="article-share-input" value="' +
+                                url +
+                                '">',
+                            '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' +
+                                encodedUrl +
+                                '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' +
+                                encodedUrl +
+                                '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' +
+                                encodedUrl +
+                                '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' +
+                                encodedUrl +
+                                '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                            "</div>",
+                            "</div>",
+                        ].join("");
+
+                        box = $(html);
+
+                        $("body").append(box);
+                    }
+
+                    $(".article-share-box.on").hide();
+
+                    box.css({
+                        top: offset.top + 25,
+                        left: offset.left,
+                    }).addClass("on");
+                })
+                .on("click", ".article-share-box", function (e) {
+                    e.stopPropagation();
+                })
+                .on("click", ".article-share-box-input", function () {
+                    $(this).select();
+                })
+                .on("click", ".article-share-box-link", function (e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+
+                    window.open(
+                        this.href,
+                        "article-share-box-window-" + Date.now(),
+                        "width=500,height=450",
+                    );
+                });
+        })(jQuery);
+    </script>
+</footer>
+
+    </div>
+</article>
+
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        
+        <a href="https://jcgiese.github.io/jc_gh_slot/2017/06/30/audi-r8-lms-scx/" itemprop="url">
+            <img src="https://jcgiese.github.io/jc_gh_slot/banners/audi_r8_lms.jpg" class="article-banner">
+        
+        </a>
+
+        <header class="article-header">
+    <a href="https://jcgiese.github.io/jc_gh_slot/2017/06/30/audi-r8-lms-scx/">
+    <h1 class="article-title" itemprop="name">
+        Audi R8 LMS SCX
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2017-06-30 14:11:03 &#43;0200 CEST" itemprop="datePublished">2017-06-30</time>
+            &middot;
+            221
+            
+            &middot;
+            2
+            
+        </div>
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/open_gt">Open_GT</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/slot">slot</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/gt">GT</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/prepa">prepa</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/open_gt">Open_GT</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/audi">Audi</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/scx">SCX</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                Audi R8 LMS SCX
+            </p>
+            <p class="article-more-link">
+                <a href="https://jcgiese.github.io/jc_gh_slot/2017/06/30/audi-r8-lms-scx/">
+                    
+                </a>
+            </p>
+        </div>
+        <footer class="article-footer">
+    <a
+        data-url="https://jcgiese.github.io/jc_gh_slot/2017/06/30/audi-r8-lms-scx/"
+        data-id="e541c48c16cf4a8fcd0f81381cc2fa78"
+        class="article-share-link"
+    >
+        <i class="fa fa-share"></i>
+        
+    </a>
+
+    <script>
+        (function ($) {
+            
+            if (
+                typeof __SHARE_BUTTON_BINDED__ === "undefined" ||
+                !__SHARE_BUTTON_BINDED__
+            ) {
+                __SHARE_BUTTON_BINDED__ = true;
+            } else {
+                return;
+            }
+            $("body")
+                .on("click", function () {
+                    $(".article-share-box.on").removeClass("on");
+                })
+                .on("click", ".article-share-link", function (e) {
+                    e.stopPropagation();
+
+                    var $this = $(this),
+                        url = $this.attr("data-url"),
+                        encodedUrl = encodeURIComponent(url),
+                        id = "article-share-box-" + $this.attr("data-id"),
+                        offset = $this.offset(),
+                        box;
+
+                    if ($("#" + id).length) {
+                        box = $("#" + id);
+
+                        if (box.hasClass("on")) {
+                            box.removeClass("on");
+                            return;
+                        }
+                    } else {
+                        var html = [
+                            '<div id="' + id + '" class="article-share-box">',
+                            '<input class="article-share-input" value="' +
+                                url +
+                                '">',
+                            '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' +
+                                encodedUrl +
+                                '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' +
+                                encodedUrl +
+                                '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' +
+                                encodedUrl +
+                                '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' +
+                                encodedUrl +
+                                '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                            "</div>",
+                            "</div>",
+                        ].join("");
+
+                        box = $(html);
+
+                        $("body").append(box);
+                    }
+
+                    $(".article-share-box.on").hide();
+
+                    box.css({
+                        top: offset.top + 25,
+                        left: offset.left,
+                    }).addClass("on");
+                })
+                .on("click", ".article-share-box", function (e) {
+                    e.stopPropagation();
+                })
+                .on("click", ".article-share-box-input", function () {
+                    $(this).select();
+                })
+                .on("click", ".article-share-box-link", function (e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+
+                    window.open(
+                        this.href,
+                        "article-share-box-window-" + Date.now(),
+                        "width=500,height=450",
+                    );
+                });
+        })(jQuery);
+    </script>
+</footer>
+
+    </div>
+</article>
 
 <article class="article article-type-post" itemscope="" itemprop="blogPost">
     <div class="article-inner">
@@ -8690,546 +9238,6 @@
     </div>
 </article>
 
-<article class="article article-type-post" itemscope="" itemprop="blogPost">
-    <div class="article-inner">
-        
-        <a href="https://jcgiese.github.io/jc_gh_slot/2016/08/11/m1-fly/" itemprop="url">
-            <img src="https://jcgiese.github.io/jc_gh_slot/banners/M1_Fly.jpg" class="article-banner">
-        
-        </a>
-
-        <header class="article-header">
-    <a href="https://jcgiese.github.io/jc_gh_slot/2016/08/11/m1-fly/">
-    <h1 class="article-title" itemprop="name">
-        M1 Fly
-    </h1>
-    </a>
-    <div class="article-meta">
-
-        
-        <div class="article-date">
-            <i class="fa fa-calendar"></i>
-            <time datetime="2016-08-11 11:00:28 &#43;0200 CEST" itemprop="datePublished">2016-08-11</time>
-            &middot;
-            291
-            
-            &middot;
-            2
-            
-        </div>
-        
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-folder"></i>
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/pr%C3%A9sentation">Présentation</a>
-                
-                
-            </div>
-            
-        
-
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-tags"></i>
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/slot">slot</a>
-                &middot;
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/fly">Fly</a>
-                &middot;
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/bmw">BMW</a>
-                &middot;
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/grp_5">Grp_5</a>
-                &middot;
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/pr%C3%A9sentation">présentation</a>
-                
-                
-            </div>
-            
-        
-    </div>
-</header>
-
-        <div class="article-entry" itemprop="articleBody">
-            <p>
-                M1 Fly
-            </p>
-            <p class="article-more-link">
-                <a href="https://jcgiese.github.io/jc_gh_slot/2016/08/11/m1-fly/">
-                    
-                </a>
-            </p>
-        </div>
-        <footer class="article-footer">
-    <a
-        data-url="https://jcgiese.github.io/jc_gh_slot/2016/08/11/m1-fly/"
-        data-id="43d4d42543da330e2e12145d82e32f4a"
-        class="article-share-link"
-    >
-        <i class="fa fa-share"></i>
-        
-    </a>
-
-    <script>
-        (function ($) {
-            
-            if (
-                typeof __SHARE_BUTTON_BINDED__ === "undefined" ||
-                !__SHARE_BUTTON_BINDED__
-            ) {
-                __SHARE_BUTTON_BINDED__ = true;
-            } else {
-                return;
-            }
-            $("body")
-                .on("click", function () {
-                    $(".article-share-box.on").removeClass("on");
-                })
-                .on("click", ".article-share-link", function (e) {
-                    e.stopPropagation();
-
-                    var $this = $(this),
-                        url = $this.attr("data-url"),
-                        encodedUrl = encodeURIComponent(url),
-                        id = "article-share-box-" + $this.attr("data-id"),
-                        offset = $this.offset(),
-                        box;
-
-                    if ($("#" + id).length) {
-                        box = $("#" + id);
-
-                        if (box.hasClass("on")) {
-                            box.removeClass("on");
-                            return;
-                        }
-                    } else {
-                        var html = [
-                            '<div id="' + id + '" class="article-share-box">',
-                            '<input class="article-share-input" value="' +
-                                url +
-                                '">',
-                            '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' +
-                                encodedUrl +
-                                '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' +
-                                encodedUrl +
-                                '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' +
-                                encodedUrl +
-                                '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' +
-                                encodedUrl +
-                                '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
-                            "</div>",
-                            "</div>",
-                        ].join("");
-
-                        box = $(html);
-
-                        $("body").append(box);
-                    }
-
-                    $(".article-share-box.on").hide();
-
-                    box.css({
-                        top: offset.top + 25,
-                        left: offset.left,
-                    }).addClass("on");
-                })
-                .on("click", ".article-share-box", function (e) {
-                    e.stopPropagation();
-                })
-                .on("click", ".article-share-box-input", function () {
-                    $(this).select();
-                })
-                .on("click", ".article-share-box-link", function (e) {
-                    e.preventDefault();
-                    e.stopPropagation();
-
-                    window.open(
-                        this.href,
-                        "article-share-box-window-" + Date.now(),
-                        "width=500,height=450",
-                    );
-                });
-        })(jQuery);
-    </script>
-</footer>
-
-    </div>
-</article>
-
-<article class="article article-type-post" itemscope="" itemprop="blogPost">
-    <div class="article-inner">
-        
-        <a href="https://jcgiese.github.io/jc_gh_slot/2016/08/10/test-grp_5/" itemprop="url">
-            <img src="https://jcgiese.github.io/jc_gh_slot/banners/10_grp5.jpg" class="article-banner">
-        
-        </a>
-
-        <header class="article-header">
-    <a href="https://jcgiese.github.io/jc_gh_slot/2016/08/10/test-grp_5/">
-    <h1 class="article-title" itemprop="name">
-        Test Grp_5
-    </h1>
-    </a>
-    <div class="article-meta">
-
-        
-        <div class="article-date">
-            <i class="fa fa-calendar"></i>
-            <time datetime="2016-08-10 16:52:09 &#43;0200 CEST" itemprop="datePublished">2016-08-10</time>
-            &middot;
-            260
-            
-            &middot;
-            2
-            
-        </div>
-        
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-folder"></i>
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/grp_5">Grp_5</a>
-                
-                
-            </div>
-            
-        
-
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-tags"></i>
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/slot">slot</a>
-                &middot;
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/grp_5">Grp_5</a>
-                &middot;
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/test">test</a>
-                
-                
-            </div>
-            
-        
-    </div>
-</header>
-
-        <div class="article-entry" itemprop="articleBody">
-            <p>
-                Test en Grp_5
-            </p>
-            <p class="article-more-link">
-                <a href="https://jcgiese.github.io/jc_gh_slot/2016/08/10/test-grp_5/">
-                    
-                </a>
-            </p>
-        </div>
-        <footer class="article-footer">
-    <a
-        data-url="https://jcgiese.github.io/jc_gh_slot/2016/08/10/test-grp_5/"
-        data-id="1300d61cb44a9ca969e8e0d0275c986b"
-        class="article-share-link"
-    >
-        <i class="fa fa-share"></i>
-        
-    </a>
-
-    <script>
-        (function ($) {
-            
-            if (
-                typeof __SHARE_BUTTON_BINDED__ === "undefined" ||
-                !__SHARE_BUTTON_BINDED__
-            ) {
-                __SHARE_BUTTON_BINDED__ = true;
-            } else {
-                return;
-            }
-            $("body")
-                .on("click", function () {
-                    $(".article-share-box.on").removeClass("on");
-                })
-                .on("click", ".article-share-link", function (e) {
-                    e.stopPropagation();
-
-                    var $this = $(this),
-                        url = $this.attr("data-url"),
-                        encodedUrl = encodeURIComponent(url),
-                        id = "article-share-box-" + $this.attr("data-id"),
-                        offset = $this.offset(),
-                        box;
-
-                    if ($("#" + id).length) {
-                        box = $("#" + id);
-
-                        if (box.hasClass("on")) {
-                            box.removeClass("on");
-                            return;
-                        }
-                    } else {
-                        var html = [
-                            '<div id="' + id + '" class="article-share-box">',
-                            '<input class="article-share-input" value="' +
-                                url +
-                                '">',
-                            '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' +
-                                encodedUrl +
-                                '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' +
-                                encodedUrl +
-                                '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' +
-                                encodedUrl +
-                                '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' +
-                                encodedUrl +
-                                '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
-                            "</div>",
-                            "</div>",
-                        ].join("");
-
-                        box = $(html);
-
-                        $("body").append(box);
-                    }
-
-                    $(".article-share-box.on").hide();
-
-                    box.css({
-                        top: offset.top + 25,
-                        left: offset.left,
-                    }).addClass("on");
-                })
-                .on("click", ".article-share-box", function (e) {
-                    e.stopPropagation();
-                })
-                .on("click", ".article-share-box-input", function () {
-                    $(this).select();
-                })
-                .on("click", ".article-share-box-link", function (e) {
-                    e.preventDefault();
-                    e.stopPropagation();
-
-                    window.open(
-                        this.href,
-                        "article-share-box-window-" + Date.now(),
-                        "width=500,height=450",
-                    );
-                });
-        })(jQuery);
-    </script>
-</footer>
-
-    </div>
-</article>
-
-<article class="article article-type-post" itemscope="" itemprop="blogPost">
-    <div class="article-inner">
-        
-        <a href="https://jcgiese.github.io/jc_gh_slot/2016/08/08/mes-f250-gto/" itemprop="url">
-            <img src="https://jcgiese.github.io/jc_gh_slot/banners/3_F250_banner.jpg" class="article-banner">
-        
-        </a>
-
-        <header class="article-header">
-    <a href="https://jcgiese.github.io/jc_gh_slot/2016/08/08/mes-f250-gto/">
-    <h1 class="article-title" itemprop="name">
-        Mes F250 GTO
-    </h1>
-    </a>
-    <div class="article-meta">
-
-        
-        <div class="article-date">
-            <i class="fa fa-calendar"></i>
-            <time datetime="2016-08-08 14:21:47 &#43;0200 CEST" itemprop="datePublished">2016-08-08</time>
-            &middot;
-            482
-            
-            &middot;
-            3
-            
-        </div>
-        
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-folder"></i>
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/pr%C3%A9sentation">Présentation</a>
-                
-                
-            </div>
-            
-        
-
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-tags"></i>
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/slot">slot</a>
-                &middot;
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/nostalgie">Nostalgie</a>
-                &middot;
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/ferrari">Ferrari</a>
-                &middot;
-                
-                
-                <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/tags/250gto">250GTO</a>
-                
-                
-            </div>
-            
-        
-    </div>
-</header>
-
-        <div class="article-entry" itemprop="articleBody">
-            <p>
-                F250
-            </p>
-            <p class="article-more-link">
-                <a href="https://jcgiese.github.io/jc_gh_slot/2016/08/08/mes-f250-gto/">
-                    
-                </a>
-            </p>
-        </div>
-        <footer class="article-footer">
-    <a
-        data-url="https://jcgiese.github.io/jc_gh_slot/2016/08/08/mes-f250-gto/"
-        data-id="cba7fa401a6399eaacb04fba0a499b92"
-        class="article-share-link"
-    >
-        <i class="fa fa-share"></i>
-        
-    </a>
-
-    <script>
-        (function ($) {
-            
-            if (
-                typeof __SHARE_BUTTON_BINDED__ === "undefined" ||
-                !__SHARE_BUTTON_BINDED__
-            ) {
-                __SHARE_BUTTON_BINDED__ = true;
-            } else {
-                return;
-            }
-            $("body")
-                .on("click", function () {
-                    $(".article-share-box.on").removeClass("on");
-                })
-                .on("click", ".article-share-link", function (e) {
-                    e.stopPropagation();
-
-                    var $this = $(this),
-                        url = $this.attr("data-url"),
-                        encodedUrl = encodeURIComponent(url),
-                        id = "article-share-box-" + $this.attr("data-id"),
-                        offset = $this.offset(),
-                        box;
-
-                    if ($("#" + id).length) {
-                        box = $("#" + id);
-
-                        if (box.hasClass("on")) {
-                            box.removeClass("on");
-                            return;
-                        }
-                    } else {
-                        var html = [
-                            '<div id="' + id + '" class="article-share-box">',
-                            '<input class="article-share-input" value="' +
-                                url +
-                                '">',
-                            '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' +
-                                encodedUrl +
-                                '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' +
-                                encodedUrl +
-                                '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' +
-                                encodedUrl +
-                                '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' +
-                                encodedUrl +
-                                '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
-                            "</div>",
-                            "</div>",
-                        ].join("");
-
-                        box = $(html);
-
-                        $("body").append(box);
-                    }
-
-                    $(".article-share-box.on").hide();
-
-                    box.css({
-                        top: offset.top + 25,
-                        left: offset.left,
-                    }).addClass("on");
-                })
-                .on("click", ".article-share-box", function (e) {
-                    e.stopPropagation();
-                })
-                .on("click", ".article-share-box-input", function () {
-                    $(this).select();
-                })
-                .on("click", ".article-share-box-link", function (e) {
-                    e.preventDefault();
-                    e.stopPropagation();
-
-                    window.open(
-                        this.href,
-                        "article-share-box-window-" + Date.now(),
-                        "width=500,height=450",
-                    );
-                });
-        })(jQuery);
-    </script>
-</footer>
-
-    </div>
-</article>
-
 
 <nav id="page-nav">
 
@@ -9259,6 +9267,84 @@
     </h3>
     <div class="widget">
       <ul id="recent-post">
+            
+            <li>
+                <div class="item-thumbnail">
+                    <a href="https://jcgiese.github.io/jc_gh_slot/2025/09/09/mazda-rx7-revoslot/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://jcgiese.github.io/jc_gh_slot/banners/rx7_banner.jpg)" alt="JC&#39;s Slot Blog" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        
+                        <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/grp_4">
+                        Grp_4
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://jcgiese.github.io/jc_gh_slot/2025/09/09/mazda-rx7-revoslot/" class="title">Mazda RX7 Revoslot</a></p>
+                    <p class="item-date">
+                        <time datetime="2025-09-09 14:21:47 &#43;0200 CEST" itemprop="datePublished">2025-09-09</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
+                    <a href="https://jcgiese.github.io/jc_gh_slot/2025/08/07/audi-r8-lms-gt2-scaleauto/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://jcgiese.github.io/jc_gh_slot/banners/R8_scaleauto_banner.jpg)" alt="JC&#39;s Slot Blog" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        
+                        <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/open_gt">
+                        Open_GT
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://jcgiese.github.io/jc_gh_slot/2025/08/07/audi-r8-lms-gt2-scaleauto/" class="title">Audi R8 LMS GT2 Scaleauto</a></p>
+                    <p class="item-date">
+                        <time datetime="2025-08-07 10:21:47 &#43;0200 CEST" itemprop="datePublished">2025-08-07</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
+                    <a href="https://jcgiese.github.io/jc_gh_slot/2025/07/31/mes-peugeot-en-rallye/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://jcgiese.github.io/jc_gh_slot/banners/all_peugeot_banner.jpg)" alt="JC&#39;s Slot Blog" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        
+                        <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/rallye">
+                        Rallye
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://jcgiese.github.io/jc_gh_slot/2025/07/31/mes-peugeot-en-rallye/" class="title">Mes Peugeot en Rallye</a></p>
+                    <p class="item-date">
+                        <time datetime="2025-07-31 14:29:49 &#43;0200 CEST" itemprop="datePublished">2025-07-31</time>
+                    </p>
+                </div>
+            </li>
             
             <li>
                 <div class="item-thumbnail">
@@ -9308,84 +9394,6 @@
                     <p class="item-title"><a href="https://jcgiese.github.io/jc_gh_slot/2025/07/15/monoposto-2.0-policar/" class="title">Monoposto 2.0 Policar</a></p>
                     <p class="item-date">
                         <time datetime="2025-07-15 18:11:03 &#43;0200 CEST" itemprop="datePublished">2025-07-15</time>
-                    </p>
-                </div>
-            </li>
-            
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://jcgiese.github.io/jc_gh_slot/2025/06/10/toyota-yaris-wrc-avant-slot/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://jcgiese.github.io/jc_gh_slot/banners/yaris_wrc_banner.jpg)" alt="JC&#39;s Slot Blog" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    
-                    <p class="item-category">
-                        
-                        <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/rallye">
-                        Rallye
-                        </a>
-                    </p>
-                    
-                    
-                    <p class="item-title"><a href="https://jcgiese.github.io/jc_gh_slot/2025/06/10/toyota-yaris-wrc-avant-slot/" class="title">Toyota Yaris WRC Avant Slot</a></p>
-                    <p class="item-date">
-                        <time datetime="2025-06-10 16:29:49 &#43;0200 CEST" itemprop="datePublished">2025-06-10</time>
-                    </p>
-                </div>
-            </li>
-            
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://jcgiese.github.io/jc_gh_slot/2025/05/13/nouveau-test-en-canam/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://jcgiese.github.io/jc_gh_slot/banners/canam2_banner.jpg)" alt="JC&#39;s Slot Blog" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    
-                    <p class="item-category">
-                        
-                        <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/courses">
-                        Courses
-                        </a>
-                    </p>
-                    
-                    
-                    <p class="item-title"><a href="https://jcgiese.github.io/jc_gh_slot/2025/05/13/nouveau-test-en-canam/" class="title">Nouveau test en CanAm</a></p>
-                    <p class="item-date">
-                        <time datetime="2025-05-13 14:21:47 &#43;0200 CEST" itemprop="datePublished">2025-05-13</time>
-                    </p>
-                </div>
-            </li>
-            
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://jcgiese.github.io/jc_gh_slot/2025/05/02/lola-t290-nsr/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://jcgiese.github.io/jc_gh_slot/banners/lola_t290_banner.jpg)" alt="JC&#39;s Slot Blog" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    
-                    <p class="item-category">
-                        
-                        <a class="article-category-link" href="https://jcgiese.github.io/jc_gh_slot/categories/classic">
-                        Classic
-                        </a>
-                    </p>
-                    
-                    
-                    <p class="item-title"><a href="https://jcgiese.github.io/jc_gh_slot/2025/05/02/lola-t290-nsr/" class="title">Lola T290 NSR</a></p>
-                    <p class="item-date">
-                        <time datetime="2025-05-02 11:46:58 &#43;0200 CEST" itemprop="datePublished">2025-05-02</time>
                     </p>
                 </div>
             </li>
@@ -9469,6 +9477,14 @@
             
             <li class="category-list-item">
                 
+                <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/categories/grp_4">
+                    grp_4
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/categories/grp_5">
                     grp_5
                 </a>
@@ -9528,7 +9544,7 @@
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/categories/open_gt">
                     open_gt
                 </a>
-                <span class="category-list-count">69</span>
+                <span class="category-list-count">70</span>
             </li>
             
             <li class="category-list-item">
@@ -9544,7 +9560,7 @@
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/categories/rallye">
                     rallye
                 </a>
-                <span class="category-list-count">35</span>
+                <span class="category-list-count">36</span>
             </li>
             
         </ul>
@@ -9689,7 +9705,7 @@
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/audi">
                     audi
                 </a>
-                <span class="category-list-count">15</span>
+                <span class="category-list-count">16</span>
             </li>
             
             <li class="category-list-item">
@@ -9966,6 +9982,14 @@
             
             <li class="category-list-item">
                 
+                <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/grp_4">
+                    grp_4
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/grp_5">
                     grp_5
                 </a>
@@ -10150,6 +10174,14 @@
             
             <li class="category-list-item">
                 
+                <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/mazda">
+                    mazda
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/mclaren">
                     mclaren
                 </a>
@@ -10305,7 +10337,7 @@
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/open_gt">
                     open_gt
                 </a>
-                <span class="category-list-count">77</span>
+                <span class="category-list-count">78</span>
             </li>
             
             <li class="category-list-item">
@@ -10329,7 +10361,7 @@
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/peugeot">
                     peugeot
                 </a>
-                <span class="category-list-count">4</span>
+                <span class="category-list-count">5</span>
             </li>
             
             <li class="category-list-item">
@@ -10417,7 +10449,7 @@
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/pr%C3%A9sentation">
                     présentation
                 </a>
-                <span class="category-list-count">9</span>
+                <span class="category-list-count">10</span>
             </li>
             
             <li class="category-list-item">
@@ -10433,7 +10465,7 @@
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/rallye">
                     rallye
                 </a>
-                <span class="category-list-count">36</span>
+                <span class="category-list-count">37</span>
             </li>
             
             <li class="category-list-item">
@@ -10457,7 +10489,7 @@
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/revoslot">
                     revoslot
                 </a>
-                <span class="category-list-count">19</span>
+                <span class="category-list-count">20</span>
             </li>
             
             <li class="category-list-item">
@@ -10473,7 +10505,7 @@
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/scaleauto">
                     scaleauto
                 </a>
-                <span class="category-list-count">24</span>
+                <span class="category-list-count">25</span>
             </li>
             
             <li class="category-list-item">
@@ -10521,7 +10553,7 @@
                 <a class="category-list-link" href="https://jcgiese.github.io/jc_gh_slot/tags/slot">
                     slot
                 </a>
-                <span class="category-list-count">279</span>
+                <span class="category-list-count">282</span>
             </li>
             
             <li class="category-list-item">
@@ -10795,6 +10827,9 @@
         <a href="https://jcgiese.github.io/jc_gh_slot/tags/grp_2" style="font-size: 12px;">grp_2</a>
         
         
+        <a href="https://jcgiese.github.io/jc_gh_slot/tags/grp_4" style="font-size: 12px;">grp_4</a>
+        
+        
         <a href="https://jcgiese.github.io/jc_gh_slot/tags/grp_5" style="font-size: 12px;">grp_5</a>
         
         
@@ -10862,6 +10897,9 @@
         
         
         <a href="https://jcgiese.github.io/jc_gh_slot/tags/matra" style="font-size: 12px;">matra</a>
+        
+        
+        <a href="https://jcgiese.github.io/jc_gh_slot/tags/mazda" style="font-size: 12px;">mazda</a>
         
         
         <a href="https://jcgiese.github.io/jc_gh_slot/tags/mclaren" style="font-size: 12px;">mclaren</a>

@@ -1,0 +1,53 @@
+| C300 | MFP-18-NGE | 10.54.8.18 | D4:F0:C9:27:65:E2 | C308-1 |       ok
+| C401 | MFP-16-NGE | 10.54.8.16 | D4:F0:C9:27:0E:47 | C401-2 |       pb sticky mac ??
+| A110 | MFP-05-NGE | 10.54.8.5 | D4:F0:C9:27:0F:45 | UC5-1 |
+| A210 | MFP-09-NGE | 10.54.8.9 | D4:F0:C9:27:0E:61 | UC1-11 ? |
+| C134 | MFP-13-NGE | 10.54.8.13 | D4:F0:C9:27:10:A1 | C124-3 |
+| C034 | MFP-02-NGE | 10.54.8.2 | D4:F0:C9:27:0E:1D | C029-1 / C029-2 |
+
+
+MFP-01-NGE
+D4-F0-C9-27-10-84
+MFP-02-NGE
+D4-F0-C9-27-0E-1D
+MFP-04-NGE
+D4-F0-C9-27-OE-45
+MFP-05-NGE
+D4-F0-C9-27-0F-45
+MFP-06-NGE
+D4-F0-C9-27-0E-1A
+MFP-09-NGE
+D4-F0-C9-27-0E-61
+MFP-11-NGE
+D4-F0-C9-27-OE-17
+MFP-12-NGE
+D4-F0-C9-27-0E-11
+MFP-13-NGE
+D4-F0-C9-27-10-A1
+MFP-14-NGE
+D4-F0-C9-27-0F-58
+MFP-16-NGE
+D4-F0-C9-27-0E-47
+MFP-17-NGE
+D4-F0-C9-27-64-D0
+MFP-18-NGE
+D4-F0-C9-27-65-E2
+
+Pour la MFP-14-NGE : B101-2
+MFP-06-NGE : A224 UC3-1
+
+Je vais voir pour l'accueil et la MFP-04-NGE
+
+MFP-04-NGE : B005-4
+
+MFP-17-NGE : AC/0.19 D4:F0:C9:27:64:D0
+
+10:47 AM
+
+
+
+
+
+
+
+Le nom est bizarre, sinon pour les autres il faudrait démonter le plancher, accès compliqué donc
